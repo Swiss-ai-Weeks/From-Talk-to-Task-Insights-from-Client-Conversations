@@ -1,0 +1,37 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Client Advisor: Bonjour, Monsieur... Madame NAME? Vous m'entendez bien là? Désolée, ligne un peu brouillée.
+
+Client: Oui, c'est bon, je vous entends. Bonjour. Euh, merci de m'avoir appelé.
+
+Client Advisor: Parfait, merci. Alors, avant qu'on commence, est-ce que vous pouvez confirmer votre date de naissance et votre adresse, s'il vous plaît? C'est pour la sécurité.
+
+Client: Bien sûr. Alors, ma date de naissance, c'est le [DATE] et mon adresse, c'est [ADRESSE].
+
+Client Advisor: Merci beaucoup pour ça. Alors, je vais vous expliquer pourquoi votre carte a été bloquée. On l'a fait pour des raisons de sécurité. En fait, on a détecté des transactions, comment dire, suspectes, et on voulait protéger votre compte contre toute activité frauduleuse.
+
+Client: Ah d'accord, je comprends mieux maintenant. C'est un peu inquiétant.
+
+Client Advisor: Oui, je comprends que ça puisse être stressant. Mais ne vous inquiétez pas, on a déjà tout vérifié et corrigé ce qu'il fallait. Vous allez recevoir une nouvelle carte d'ici 5 à 7 jours ouvrés. Mais, euh, dites-moi, est-ce que c'est urgent? On pourrait peut-être accélérer le processus.
+
+Client: Hum, je pense que ça devrait aller... Ah, mais en fait, non, j'ai des paiements importants qui arrivent bientôt. Est-ce que vous pouvez vraiment accélérer?
+
+Client Advisor: Oui, on va essayer de faire ça alors. En attendant, si vous avez besoin, je peux vous envoyer une carte temporaire ou on peut regarder d'autres méthodes de paiement pour que vos prélèvements automatiques soient couverts.
+
+Client: Oui, une carte temporaire serait super. Merci.
+
+Client Advisor: Très bien, je vais m'en occuper. Et pour les frais, ne vous inquiétez pas, il n'y en aura pas pour le blocage ou le remplacement de la carte. Juste... quand vous recevrez votre nouvelle carte, il faudra l'activer en suivant les instructions qui la viennent avec, ça inclut une petite vérification de sécurité.
+
+Client: Merci, c'est bon à savoir. Je vérifierai tout ça.
+
+Client Advisor: Pas de souci. Pour éviter les futurs soucis, je vous recommande de surveiller régulièrement votre compte et de mettre des alertes pour les transactions. Y a-t-il d'autres questions ou préoccupations que vous avez?
+
+Client: Euh, non... enfin, si, pour notre rendez-vous du 24 septembre 2025, je veux discuter de mes options de financement immobilier, et peut-être d'autres investissements. Pouvez-vous m'envoyer les documents nécessaires? 
+
+Client Advisor: Bien sûr, je vais vous envoyer tout ce qu'il faut pour vous préparer à ce rendez-vous. Vous aurez des infos sur le financement immobilier, les yachts, l'art, et d'autres investissements commerciaux, avec des exemples de produits de prêt, les taux d'intérêt, et les options de remboursement. Prenez le temps de tout lire et notez vos questions.
+
+Client: Parfait, c'est exactement ce dont j'ai besoin. Merci pour toute votre aide.
+
+Client Advisor: Je vous en prie. Merci à vous pour votre coopération. Si vous avez d'autres questions d'ici là, n'hésitez pas. Je vous souhaite une excellente journée!
+
+Client: Merci, pareillement. Bonne journée à vous aussi.

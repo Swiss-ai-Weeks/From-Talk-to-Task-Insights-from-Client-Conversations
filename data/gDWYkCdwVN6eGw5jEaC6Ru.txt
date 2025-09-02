@@ -1,0 +1,37 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Client Advisor: Guten Tag, Herr/Frau NAME. Vielen Dank, dass Sie sich heute Zeit für dieses Gespräch genommen haben. Wie geht es Ihnen? Um fortzufahren, dürfte ich Sie bitten, Ihr Geburtsdatum und Ihre Adresse zu bestätigen, um Ihre Identität aus Sicherheitsgründen zu verifizieren?
+
+Client: Äh, ja... Mein Geburtsdatum ist der DATUM und meine Adresse lautet ADDRESS. Können wir endlich auf das eigentliche Problem eingehen? Ich hab' echt Schwierigkeiten mit dem Login zum Digital Banking und es ist extrem dringend. Ich hab's schon mehrmals versucht, mein Passwort zurückzusetzen und den Internetzugang überprüft. Es zeigt immer wieder diese Fehlermeldung an und ich kann meine wichtigen finanziellen Angelegenheiten nicht regeln.
+
+Mein Konto muss dringend zugänglich sein, und ich habe auch keine Änderungen an meinen Einstellungen oder persönlichen Infos vorgenommen. Haben Sie eine Ahnung, wie ärgerlich das ist? Mein Vertrauen in die Sicherheit meines Kontos hat echt gelitten. Ich erwarte, dass Sie das sofort beheben können.
+
+Ausserdem hab' ich Ihnen alle nötigen Dokumente über die Herkunft meines Vermögens zur Verfügung gestellt, unter anderem den Link https://example.com/doc/7319. Es handelt sich um eine erhebliche Erbschaft. Ich möchte sicherstellen, dass alle KYC-Infos korrekt und vollständig sind. Können Sie das heute noch bearbeiten?
+
+Client Advisor: Natürlich, NAME, ich verstehe Ihre Dringlichkeit. Lassen Sie uns erstmal Ihre Login-Probleme klären. Sie haben also Ihr Passwort mehrfach zurückgesetzt und die Internetverbindung überprüft, richtig? Welche Fehlermeldung wird Ihnen genau angezeigt und welche Geräte und Browser haben Sie benutzt?
+
+Client: Ja, genau. Es ist mir eigentlich egal, welche Geräte oder Browser ich verwendet habe, ich möchte, dass das sofort gelöst wird! Die Fehlermeldung, die ich immer bekomme, ist "Fehlercode 102 - Authentifizierungsproblem". 
+
+Client Advisor: Verstanden. Fehlercode 102 deutet auf ein Authentifizierungsproblem hin. Ich werde sofort ein Support-Ticket mit hoher Priorität erstellen und unsere IT-Abteilung informieren. Während der technischen Untersuchung möchte ich Ihnen versichern, dass die Sicherheit Ihrer Daten bei uns höchste Priorität hat.
+
+Nun zu den KYC-Daten: Ich habe den Link zur Dokumentation der Erbschaft erhalten. Wir werden Ihre Angaben sofort überprüfen und sicherstellen, dass sie in Ihrem Profil korrekt und vollständig sind, um den regulatorischen Anforderungen zu entsprechen.
+
+Verzeihen Sie bitte, ich notiere das und leite alles gleich weiter. Können Sie mir noch einmal die genauen Details der Erbschaft bestätigen?
+
+Client: Die Details sind ja schon in den Dokumenten enthalten, die ich Ihnen geschickt habe. Es handelt sich um eine Summe von AMOUNT, die ich von einem Familienmitglied geerbt habe. Diese Infos müssen wirklich drinstehen, ich kann das nicht länger hinauszögern. Ich brauche das für meine Steuererklärungen und andere finanzielle Planungen. Bitte bestätigen Sie, dass das unverzüglich bearbeitet wird.
+
+Client Advisor: Ich verstehe Ihre Frustration, NAME. Wir arbeiten intensiv daran, Ihre Login-Probleme zu lösen. Der Fehlercode 102 klingt nach einem spezifischen Problem, das wir untersuchen müssen. Ich werde sicherstellen, dass das sofort priorisiert wird. Leider kann ich Ihnen keinen genauen Zeitrahmen nennen, aber ich halte Sie auf dem Laufenden, sobald ich mehr weiss.
+
+Nun, zur Erbschaft: Sie haben eine Summe von AMOUNT geerbt, und alle relevanten Details sind in dem Dokument unter dem Link https://example.com/doc/7319 enthalten. Ich werde jetzt Ihre KYC-Informationen aktualisieren und sicherstellen, dass alle Anforderungen erfüllt sind.
+
+Ihre Verärgerung ist verständlich, und ich entschuldige mich für die Unannehmlichkeiten. Sicherheit und Compliance sind unsere obersten Prioritäten, und ich kümmer' mich darum, dass Ihre Anliegen so schnell wie möglich gelöst werden.
+
+Client: Das ist einfach unfassbar. Sie wissen, dass ich auf diese beiden Themen unbedingt angewiesen bin und trotzdem bekomme ich keine klaren Antworten. Es ist absolut unerträglich, ständig vertröstet zu werden.
+
+Was die KYC-Infos angeht: Die Summe von AMOUNT aus der Erbschaft ist in dem Dokument unter https://example.com/doc/7319 eindeutig dokumentiert. Das muss sofort in mein Profil eingepflegt werden. Ich gehöre nicht zu den Leuten, die solche wichtigen Angelegenheiten auf die lange Bank schieben. Ich erwarte eine sofortige Bestätigung, dass das heute erledigt wird!
+
+Client Advisor: Ihre Verärgerung ist absolut verständlich und ich entschuldige mich für die Unannehmlichkeiten. Ich habe die KYC-Informationen sofort aktualisiert und die Herkunft der Erbschaft sowie die Summe von AMOUNT in Ihrem Profil hinterlegt. Sie können sicher sein, dass alle Änderungen und Anforderungen heute abgeschlossen werden.
+
+Was den Fehlercode 102 und Ihr Login-Problem betrifft, wurden diese mit höchster Priorität weitergeleitet und unsere technischen Experten arbeiten bereits daran. Ich werde Sie unverzüglich informieren, sobald ich Neuigkeiten habe.
+
+Ihre Anliegen haben höchste Priorität und ich tue alles, um diese Probleme schnellstmöglich zu lösen.

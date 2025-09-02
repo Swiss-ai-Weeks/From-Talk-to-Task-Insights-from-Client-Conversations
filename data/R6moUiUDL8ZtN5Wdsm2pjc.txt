@@ -1,0 +1,31 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Client Advisor: Bonjour, Monsieur... euh, bonjour Monsieur NAME. C'est, euh, toujours un plaisir de vous parler. Comment allez-vous aujourd'hui? Avant de commencer, pourriez-vous, s'il vous plaît, confirmer votre date de naissance et votre adresse pour des raisons de sécurité ?
+
+Client: Bonjour. Oui, bien sûr. Ma date de naissance est le **DATE** et mon adresse est **ADDRESS**.
+
+Client Advisor: Merci pour la confirmation, Monsieur NAME. Je comprends que vous souhaitez discuter d'une fonctionnalité numérique spécifique que vous n'avez pas pu trouver sur notre plateforme. Pourriez-vous m'expliquer de quelle fonctionnalité il s'agit exactement et pourquoi elle est si importante pour vous ?
+
+Client: Eh bien, je cherchais une façon de programmer des virements récurrents directement via l'application mobile, mais je n'ai pas trouvé cette option. C'est vraiment... c'est vraiment crucial pour moi d'avoir cette fonctionnalité pour gérer mes paiements mensuels sans les oublier.
+
+Client Advisor: Ah, je vois. Laissez-moi vérifier... Donc, la possibilité de programmer des virements récurrents... Malheureusement, cette fonctionnalité n'est pas encore disponible sur notre application mobile. Cependant, je vais soumettre une demande de fonctionnalité au nom de votre compte directement auprès de notre équipe de développement. Ils évaluent ces demandes régulièrement.
+
+Client: D'accord, merci. J'espère que ça prendra pas trop de temps... Et aussi, j'ai rencontré certaines lenteurs et quelques bugs dans l'application. Surtout lors de la connexion et quand je navigue entre les menus. Est-ce que, euh, des mises à jour ou de la maintenance sont prévues pour améliorer ces aspects ?
+
+Client Advisor: Oui, je suis désolé pour ces désagréments. Nous avons plusieurs mises à jour prévues dans les prochains mois pour améliorer la performance et la stabilité de notre application. Pour signaler des problèmes techniques, vous pouvez utiliser la section "Feedback" de notre application ou visiter notre site web pour soumettre un ticket de support. Vous pourrez ainsi directement informer notre équipe technique de ces soucis.
+
+Client: Merci. Et, euh, pourrait-on discuter des services numériques innovants qui seront bientôt disponibles ? Je voudrais être sûr de tirer pleinement parti des fonctionnalités actuelles et futures.
+
+Client Advisor: Bien sûr! Nous travaillons actuellement sur plusieurs nouvelles fonctionnalités, comme des outils de gestion de portefeuille et des alertes financières personnalisées. Vous pouvez vous inscrire à notre newsletter pour recevoir des informations sur ces nouveaux services et fonctionnalités. Nous avons aussi des programmes de test bêta auxquels vous pourriez participer pour donner vos impressions sur les nouvelles fonctionnalités avant leur lancement officiel. 
+
+Client: Ça, c'est génial. Je vais m'inscrire à la newsletter alors. Ah, juste une chose de plus, est-ce que vous pourriez me dire plus précisément quand les mises à jour numériques seront déployées et si vous pouvez suivre personnellement ma demande de fonctionnalité ?
+
+Client Advisor: Je comprends bien, et merci pour votre patience. Pour les mises à jour numériques, elles sont annoncées dans notre newsletter environ un mois avant leur déploiement. Je m'assurerai que votre demande de fonctionnalité est correctement enregistrée et la suivrai personnellement pour vous tenir informé.
+
+Client: Parfait. Et pour les mises à jour de mes actifs, tout semble en ordre selon ce que vous avez listé : 7,444,851 CUR2 au total, répartis comme suit: 2,914,557 CUR2 en biens immobiliers, 3,068,251 CUR2 en actifs liquides, et 557,114 CUR2 en autres actifs. C'est bien ça, non ?
+
+Client Advisor: Absolument, vos informations sont maintenant à jour. Vos actifs sont bien diversifiés comme indiqué. Si vous avez des questions ou besoin de soutien supplémentaire, je reste à votre disposition.
+
+Client: Merci beaucoup pour votre aide. Bonne journée!
+
+Client Advisor: Merci, Monsieur NAME. Bonne journée à vous aussi!
