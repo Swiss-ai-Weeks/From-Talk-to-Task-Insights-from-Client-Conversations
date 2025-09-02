@@ -8,10 +8,11 @@ By accessing or using the data provided, you agree to the following terms and co
 > - Commercial use.
 > - Research or development outside the scope of this hackathon challenge.
 > - Personal use or any other unauthorized activities.
-> 
+>
 > The data is provided "as is" without any warranties, express or implied, including but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement. The hackathon organizers do not guarantee the accuracy, completeness, or reliability of the data.
 >
 > Immediately following the conclusion of the hackathon event, you are obligated to permanently and securely delete all copies of the data, including any derived or processed data, from all your devices, storage media, and systems. 
-> Adhere to the terms and conditions specified in the file DISCLAIMER.md
+>
+> By using or downlaoding this data you adhere to the terms and conditions specified in the file DISCLAIMER.md
 ## Source of Data
 The data of this respository has been provided by [UBS](https://www.ubs.com/) submitting the challenge
