@@ -13,6 +13,6 @@ By accessing or using the data provided, you agree to the following terms and co
 >
 > Immediately following the conclusion of the hackathon event, you are obligated to permanently and securely delete all copies of the data, including any derived or processed data, from all your devices, storage media, and systems. 
 >
-> By using or downlaoding this data you adhere to the terms and conditions specified in the file DISCLAIMER.md
+> By using or downloading this data you adhere to the terms and conditions specified in the file DISCLAIMER.md
 ## Source of Data
 The data of this respository has been provided by [UBS](https://www.ubs.com/) submitting the challenge
