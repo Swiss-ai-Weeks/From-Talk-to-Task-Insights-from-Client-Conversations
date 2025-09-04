@@ -1,0 +1,23 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "a23f6780-a5b0-49f4-af7a-060609cee6a8",
+      "task_type": "update_kyc_total_assets",
+      "task_name": "Update KYC: Total Assets",
+      "min_turns": 2,
+      "max_turns": 5,
+      "parameters": {
+        "total_assets": 7444851,
+        "currency": "CUR2",
+        "total_real_estate_assets": 2914557,
+        "total_liquid_assets": 3068251,
+        "total_other_assets": 557114,
+        "remarks": "Assets are diversified."
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with Digital Banking: feature not found",
+    "outcome": "It was confirmed the requested feature is not available; a feature request was noted."
+  }
+}

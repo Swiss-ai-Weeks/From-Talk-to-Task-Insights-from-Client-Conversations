@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "7a423e7c-ad61-46fe-941c-ad25ac22fdea",
+      "task_type": "plan_contact",
+      "task_name": "Plan Contact",
+      "min_turns": 2,
+      "max_turns": 4,
+      "parameters": {
+        "contact_date": "2025-09-03",
+        "contact_note": "Relationship deepening \u2013 introduce additional UBS specialists (e.g., investment advisor, retirement planner).",
+        "channel": "Client office",
+        "duration_minutes": 30
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Account overdraft",
+    "outcome": "A short-term overdraft extension was granted to the client."
+  }
+}

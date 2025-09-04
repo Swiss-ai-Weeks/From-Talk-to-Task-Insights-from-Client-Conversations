@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "cbc9e2f3-577f-460d-af88-3a4632323c65",
+      "task_type": "update_contact_info_non_postal",
+      "task_name": "Update Contact Info: Non-Postal",
+      "min_turns": 2,
+      "max_turns": 3,
+      "parameters": {
+        "address_class": "T",
+        "delivery_validity": "blocked for legal information",
+        "address_content": "user1975@example.com",
+        "comment": "Client prefers email communication."
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Request for a meeting with advisor",
+    "outcome": "Client was informed that the advisor is currently unavailable and will call back to schedule."
+  }
+}
