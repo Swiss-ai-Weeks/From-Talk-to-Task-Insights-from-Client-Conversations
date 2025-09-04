@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "d0d65283-6022-4f61-8ac4-7e3cda9558be",
+      "task_type": "plan_contact",
+      "task_name": "Plan Contact",
+      "min_turns": 2,
+      "max_turns": 4,
+      "parameters": {
+        "contact_date": "2025-09-10",
+        "contact_note": "Cross-border structuring \u2013 optimize asset holding given upcoming international residency.",
+        "channel": "Video call",
+        "duration_minutes": 30
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Account overdraft",
+    "outcome": "Client was informed about the overdraft amount, duration, and associated fees."
+  }
+}

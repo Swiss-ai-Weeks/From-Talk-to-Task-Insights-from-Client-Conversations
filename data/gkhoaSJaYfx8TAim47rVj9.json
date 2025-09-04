@@ -1,0 +1,23 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "2f59f49f-e9df-40e3-9fcc-5eb9a5320f11",
+      "task_type": "update_kyc_total_assets",
+      "task_name": "Update KYC: Total Assets",
+      "min_turns": 2,
+      "max_turns": 5,
+      "parameters": {
+        "total_assets": 1613600,
+        "currency": "CUR3",
+        "total_real_estate_assets": 3120979,
+        "total_liquid_assets": 371253,
+        "total_other_assets": 577829,
+        "remarks": "Assets are diversified."
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: unrecognized charge",
+    "outcome": "The charge was explained to the client and confirmed to be legitimate."
+  }
+}

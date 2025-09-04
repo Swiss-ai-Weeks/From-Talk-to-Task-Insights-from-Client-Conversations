@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "6aeaecaf-cdf3-44f3-8d15-e5424bd92638",
+      "task_type": "update_contact_info_non_postal",
+      "task_name": "Update Contact Info: Non-Postal",
+      "min_turns": 2,
+      "max_turns": 3,
+      "parameters": {
+        "address_class": "E",
+        "delivery_validity": "blocked for legal information",
+        "address_content": "+41000000000",
+        "comment": "Client prefers email communication."
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Account overdraft",
+    "outcome": "Client was informed about the overdraft amount, duration, and associated fees."
+  }
+}

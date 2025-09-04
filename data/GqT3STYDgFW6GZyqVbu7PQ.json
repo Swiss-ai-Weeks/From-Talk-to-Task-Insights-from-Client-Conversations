@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "19895091-5353-42a7-9b18-3dccd3532551",
+      "task_type": "update_kyc_activity",
+      "task_name": "Update KYC: Activity",
+      "min_turns": 1,
+      "max_turns": 3,
+      "parameters": {
+        "job_status": "Unemployed",
+        "function": "Manager",
+        "employer": "Company 1",
+        "sector": "Finance"
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Account overdraft",
+    "outcome": "Client was informed about the overdraft amount, duration, and associated fees."
+  }
+}

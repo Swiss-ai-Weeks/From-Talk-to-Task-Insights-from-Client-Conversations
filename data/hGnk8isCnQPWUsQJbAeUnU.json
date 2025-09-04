@@ -1,0 +1,22 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "439566b7-cfd4-46bf-8a14-49487a95dbd2",
+      "task_type": "update_contact_info_postal_address",
+      "task_name": "Update Contact Info: Postal Address",
+      "min_turns": 1,
+      "max_turns": 3,
+      "parameters": {
+        "country": "Country 3",
+        "postal_city_name": "City Gamma",
+        "postal_region_name": "Region 1",
+        "postal_code": 4764,
+        "residence_id": "65"
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: limit reached",
+    "outcome": "Client was informed that the limit cannot be increased at this time due to internal policies."
+  }
+}

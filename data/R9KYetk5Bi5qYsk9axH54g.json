@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "2549d773-4a6a-45c1-af67-048abb36eb1b",
+      "task_type": "plan_contact",
+      "task_name": "Plan Contact",
+      "min_turns": 2,
+      "max_turns": 4,
+      "parameters": {
+        "contact_date": "2025-09-24",
+        "contact_note": "Mortgage or credit facility \u2013 discuss financing for real estate, yachts, art, or business purposes.",
+        "channel": "In-person at branch",
+        "duration_minutes": 45
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: blocked",
+    "outcome": "Client was informed the card is permanently blocked due to security concerns; a new one will be sent."
+  }
+}

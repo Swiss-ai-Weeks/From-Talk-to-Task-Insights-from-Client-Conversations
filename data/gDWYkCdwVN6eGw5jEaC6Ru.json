@@ -1,0 +1,22 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "2bac3740-4436-40d2-acf1-9945e3e1e223",
+      "task_type": "update_kyc_origin_of_assets",
+      "task_name": "Update KYC: Origin of Assets",
+      "min_turns": 2,
+      "max_turns": 5,
+      "parameters": {
+        "origin": "Investment",
+        "details": "Client inherited a large sum of money.",
+        "corroboration_or_evidence": [
+          "https://example.com/doc/7319"
+        ]
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with Digital Banking: login issue",
+    "outcome": "A technical support ticket was created as the issue could not be resolved immediately."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "831c47dc-5a3c-4368-a8ab-0cb1a07b0ad3",
+      "task_type": "update_contact_info_postal_address",
+      "task_name": "Update Contact Info: Postal Address",
+      "min_turns": 1,
+      "max_turns": 3,
+      "parameters": {
+        "country": "Country 3",
+        "postal_city_name": "City Gamma",
+        "postal_region_name": "Region 3",
+        "postal_code": 4022,
+        "residence_id": "88"
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Account overdraft",
+    "outcome": "A short-term overdraft extension was granted to the client."
+  }
+}

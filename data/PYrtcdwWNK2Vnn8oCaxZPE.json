@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "56c9f393-b020-4c4a-96e7-36c58d40ec14",
+      "task_type": "update_kyc_activity",
+      "task_name": "Update KYC: Activity",
+      "min_turns": 1,
+      "max_turns": 3,
+      "parameters": {
+        "job_status": "Self-employed",
+        "function": "Manager",
+        "employer": "Company 1",
+        "sector": "Finance"
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: limit reached",
+    "outcome": "A request for a permanent limit increase was initiated and will be reviewed."
+  }
+}

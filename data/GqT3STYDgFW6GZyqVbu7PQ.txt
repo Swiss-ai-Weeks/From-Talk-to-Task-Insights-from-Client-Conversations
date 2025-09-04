@@ -1,0 +1,49 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Client Advisor: [phone ringing] Hello, uh, NAME. Thanks for, um, joining me today. How are you doin'? Can you hear me okay?
+
+Client: Yeah, I can hear you. I'm doing fine, thanks.
+
+Client Advisor: Great, great. Uh, before we get into our discussion, could you please confirm your date of birth and address for security purposes?
+
+Client: Uh, sure. Date of birth is DATE_OF_BIRTH, and the address is ADDRESS.
+
+Client Advisor: Thank you for that. So, let’s see, I understand you’re, uh, concerned about your current overdraft. I’ll start by detailing the, um, current overdraft amount and how it's determined. Uh, your overdraft amount is calculated based on several factors, like your account history, income, and, uh, credit score. 
+
+Client: Yeah, okay, I get that. 
+
+Client Advisor: The permitted duration, typically, is for 30 days but, um, this can vary depending on the bank's policies. Regarding, uh, fees and interest, overdrafts usually come with a fixed interest rate, and, uh, fees can accumulate if it’s not repaid in time. Uh, this could also affect your credit score, as prolonged overdrafts might suggest financial stress to, uh, credit rating agencies.
+
+Client: Right, so what does that mean if I'm nearing or over the limit?
+
+Client Advisor: Uh, if you’re nearing or exceeding your limit, it’s, um, crucial to take action to avoid extra penalties. Consider options like a repayment plan or maybe seek financial assistance from the bank. For better management, track your expenses closely, prioritize, um, essential payments, and set up alerts to monitor your balance.
+
+Client: Uh-huh, makes sense.
+
+Client Advisor: Also, considering, um, your recent change in employment status, let's update your KYC information. We’ll mark your job status as “Unemployed,” update your previous role as “Manager,” and list your former employer as “Company 1” in the finance sector. 
+
+Client: I’ve already submitted all documents related to my job status change. If there's more needed, why wasn't I informed earlier? And I’ve got more questions about the overdraft. How’s the interest calculated monthly? And if I don’t pay it off within 30 days, what’s the maximum extension I can get with penalties? And how bad will this hit my credit score?
+
+Client Advisor: I, um, apologize for any oversight on, uh, the documentation needed earlier. We'll review what you’ve submitted thoroughly. Uh, about the overdraft, the interest is based on your daily outstanding balance and accumulates, uh, monthly. If you can't repay within the 30 days, you can request an extension, but, you know, higher rates and penalties might apply. Typically, the absolute max extension is up to 90 days with penalties.
+
+Client: Okay, I see.
+
+Client Advisor: And, uh, regarding your credit score, relying on overdrafts too much and late payments can really affect it badly. It’s viewed as financial instability, unfortunately, lowering your score and affecting future credit options.
+
+Client: Got it. Thanks for explaining that.
+
+Client Advisor: No problem. We’ll try to, uh, find the best solution for managing and repaying your overdraft. We can also explore, um, financial assistance programs due to your recent unemployment for some relief.
+
+Client: Alright.
+
+Client Advisor: Sorry again for the miscommunication about your KYC documents. We’ll streamline this process without any more delays. Here’s a quick summary:
+
+1. Monthly interest is based on your daily outstanding balance.
+2. You can extend beyond 30 days up to 90 days with higher rates and penalties.
+3. Prolonged overdraft usage and late payments can negatively impact your credit score.
+
+We’ll update your KYC to reflect your current status, ensuring your job info is accurate. Let’s also discuss how to avoid overdrafts and develop a feasible repayment plan if necessary.
+
+Client: Do you even know how to do your job? This is the third time I’ve called about this, and I wasn't told all documents needed before now.
+
+Client Advisor: I’m really, uh, sorry for any inconvenience caused and, uh, any oversight on our part. We’ll make sure to, uh, resolve this as quickly and smoothly as possible. Let’s work together to get everything sorted out.
