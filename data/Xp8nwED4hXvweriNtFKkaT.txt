@@ -1,0 +1,31 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Client Advisor: Guten Tag, Herr NAME. Es freut mich, dass Sie sich heute die Zeit nehmen für unser Gespräch. Wie geht es Ihnen? Bevor wir mit dem Gespräch beginnen, dürfte ich Sie bitten, Ihr Geburtsdatum und Ihre Adresse zur Verifizierung Ihrer Identität anzugeben?
+
+Client: Ah, hallo. Mir geht's gut, Dankeschön. Ähm, mein Geburtsdatum ist... DATUM und meine Adresse ist, äh, ADDRESS.
+
+Client Advisor: Vielen Dank, Herr NAME. Lassen Sie mich das kurz notieren... wunderbar, das passt. Nun, der Grund, warum Ihre Karte gesperrt wurde, ist, dass wir verdächtige Aktivitäten auf Ihrem Konto festgestellt haben. Es könnte sich um unautorisierte Transaktionen oder auffällige Nutzungsmuster handeln, die unsere Sicherheitsprotokolle ausgelöst haben.
+
+Client: Verdächtige Aktivitäten? Was genau meinen Sie damit? Wie lange dauert das denn, bis meine Karte wieder entsperrt ist? Ich bin auf automatische Zahlungen angewiesen und brauche eine schnelle Lösung.
+
+Client Advisor: Ja, ich verstehe Ihre Bedenken. Diese Massnahmen sind notwendig, um Ihr Konto vor möglichen Betrugsversuchen zu schützen. Um die Karte schnell wieder freizuschalten, müssen wir einige Sicherheitsüberprüfungen durchführen, die normalerweise einige Stunden bis zu einem Werktag in Anspruch nehmen können. Ihre Karte sollte danach wieder voll funktionsfähig sein. 
+
+Können Sie mir vielleicht ein bisschen mehr über Ihren aktuellen Arbeitgeber, Ihre Funktion und den Sektor des Unternehmens erzählen? Das hilft uns, Ihre KYC-Informationen zu aktualisieren.
+
+Client: Ja, sicher. Ich arbeite bei... äh, Company 1, als Entwickler im Gesundheitswesen. Aber... welche Sicherheitsmassnahmen ergreifen Sie denn, um sicherzustellen, dass solche Probleme in Zukunft nicht mehr auftreten?
+
+Client Advisor: Vielen Dank. Also, ich notiere Arbeitgeber - Company 1, Tätigkeit - Entwickler, und Sektor - Gesundheitswesen. [tippt] 
+
+Zusätzlich zu den bisherigen Massnahmen haben wir starke Sicherheitsprotokolle wie die Zwei-Faktor-Authentifizierung und eine Echtzeit-Überwachung von Transaktionen. Wenn etwas Ungewöhnliches passiert, erhalten Sie sofort eine Benachrichtigung von uns. Wir empfehlen auch, regelmässig Ihre Kontobewegungen zu überprüfen und Ihre Kontaktdaten sowie KYC-Informationen aktuell zu halten.
+
+Client: Aha, okay... das klingt gut. Und wie lange dauert diese Überprüfung jetzt genau nochmal?
+
+Client Advisor: Also normalerweise, ähm, dauert das einige Stunden bis zu einem Werktag. Wir werden sicherstellen, dass es so schnell wie möglich erledigt wird. Ich hoffe, diese Informationen helfen Ihnen weiter. Wir arbeiten daran, das Problem schnellstmöglich zu lösen.
+
+Client: Alles klar, danke für die Infos. Ich hoffe, das geht schnell.
+
+Client Advisor: Natürlich, vielen Dank für Ihre Geduld. Wir tun unser Bestes, um Ihr Konto bald wieder zugänglich zu machen. Haben Sie noch weitere Fragen?
+
+Client: Nein, das war's erst einmal. Vielen Dank.
+
+Client Advisor: Gut, Herr NAME, einen schönen Tag noch und bleiben Sie gesund.

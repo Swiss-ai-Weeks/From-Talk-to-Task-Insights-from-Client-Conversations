@@ -1,0 +1,23 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "8ea8b4ec-9a0e-47cc-bc9c-443812a759cb",
+      "task_type": "update_kyc_total_assets",
+      "task_name": "Update KYC: Total Assets",
+      "min_turns": 2,
+      "max_turns": 5,
+      "parameters": {
+        "total_assets": 938913,
+        "currency": "CUR3",
+        "total_real_estate_assets": 4813051,
+        "total_liquid_assets": 639255,
+        "total_other_assets": 541386,
+        "remarks": "Assets are diversified."
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: blocked",
+    "outcome": "Client was informed the card is permanently blocked due to security concerns; a new one will be sent."
+  }
+}

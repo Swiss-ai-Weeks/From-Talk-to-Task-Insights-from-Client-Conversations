@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "ae7a377a-d4f3-4a79-9041-7f59aa8ca6f8",
+      "task_type": "plan_contact",
+      "task_name": "Plan Contact",
+      "min_turns": 2,
+      "max_turns": 4,
+      "parameters": {
+        "contact_date": "2025-09-17",
+        "contact_note": "Liquidity event planning \u2013 discuss deployment of funds after a major asset sale or dividend payout.",
+        "channel": "Client office",
+        "duration_minutes": 90
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: blocked",
+    "outcome": "Card was successfully unblocked after security verification."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "8248bd18-9a66-41d8-b6e2-d659d657fa9a",
+      "task_type": "update_contact_info_non_postal",
+      "task_name": "Update Contact Info: Non-Postal",
+      "min_turns": 2,
+      "max_turns": 3,
+      "parameters": {
+        "address_class": "E",
+        "delivery_validity": "blocked for legal information",
+        "address_content": "user1778@example.com",
+        "comment": "Client prefers email communication."
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: unrecognized charge",
+    "outcome": "Client was advised to monitor the account closely and report any further suspicious activity."
+  }
+}

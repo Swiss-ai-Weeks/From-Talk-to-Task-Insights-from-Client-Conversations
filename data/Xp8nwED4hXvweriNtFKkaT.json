@@ -1,0 +1,21 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "9615b86a-39b9-4d90-a88a-b75fb4b683d8",
+      "task_type": "update_kyc_activity",
+      "task_name": "Update KYC: Activity",
+      "min_turns": 1,
+      "max_turns": 3,
+      "parameters": {
+        "job_status": "Employed",
+        "function": "Developer",
+        "employer": "Company 1",
+        "sector": "Healthcare"
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: blocked",
+    "outcome": "Card was successfully unblocked after security verification."
+  }
+}

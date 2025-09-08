@@ -1,0 +1,22 @@
+{
+  "assigned_tasks": [
+    {
+      "task_id": "25260129-7014-4e0c-83a3-4c975335e27e",
+      "task_type": "update_contact_info_postal_address",
+      "task_name": "Update Contact Info: Postal Address",
+      "min_turns": 1,
+      "max_turns": 3,
+      "parameters": {
+        "country": "Country 3",
+        "postal_city_name": "City Gamma",
+        "postal_region_name": "Region 3",
+        "postal_code": 8065,
+        "residence_id": "77"
+      }
+    }
+  ],
+  "topic_and_outcome": {
+    "topic": "Problem with card: unrecognized charge",
+    "outcome": "A dispute was successfully filed for the unrecognized charge."
+  }
+}
