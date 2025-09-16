@@ -1,3 +1,4 @@
+
 # Data for the Challenge "From Talk to Task: Insights from Client Conversations"
 This respository is part of the Zurich hackathon of [Swiss {ai} Week](https://swiss-ai-weeks.ch/) happening on 26/27 September 2025.
 
@@ -17,12 +18,6 @@ By accessing or using the data provided, you agree to the following terms and co
 ## Source of Data
 The data of this respository has been provided by [UBS](https://www.ubs.com/) submitting the challenge
 
-# Synthetic Call Transcript Classification Evaluation
-
-This repository provides a custom evaluation function for classification of synthetic call transcript tasks.  
-It compares predicted task labels against ground-truth labels and produces a normalized score between **0.0** and **1.0** (higher is better).  
-
----
 
 ## Labels
 
