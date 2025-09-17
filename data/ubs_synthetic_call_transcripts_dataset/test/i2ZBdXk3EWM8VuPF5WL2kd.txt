@@ -1,0 +1,33 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, Monsieur NAME. C'est NAM1E de UBS. Je vous appelle pour discuter de votre problème de connexion à la plateforme bancaire numérique. Vous pouvez m'entendrecorrectement ?
+
+Speaker 2:Oui, je vous entends, merci. [pause] Ma date de naissance est le DATE et mon adresse est ADDRESS. J'apprécierais vraiment si nous pouvions résoudre ce problème aujourd'hui. essayé plusieurs fois de me connecter sans succès et c'est assez frustrant. Pouvez-vous m'expliquer les causes communes des problèmes de connexion et comment les éviter ?
+
+Seaker : Bien sûr, Monsieur Merci pour la confirmation. Je comprends votre frustration et nous allons faire nécessaire pour résoudre ce problème aujourd'hui. Les causes les plus communes des problèmes de connexion peuvent inclure des erreurs de mot de passe, des problèmes avec la 2-factor authentication, et des incompatibilités avec certains dispositifs ou navigateurs. Est-ce que vous avez rencontré des messages d'erreur spécifiques lors de vos tentatives de connexion ?
+
+Speaker 2:Oui, en fait, j'ai reçu un message d'erreur qui que mon mot de passe était incorrect, près plusieurs tentatives. Puis, lorsque j'ai essayé réinitialiser mon mot de passe, n'ai pas reçu le SMS pour la vérific ation. Est-ce que cela pourrait être lié à la 2-factor authentication?
+
+Speaker 1:Je comprends parfaitement, et cela semble être un problème avec la 2-factor authentication. Permettez-moi de vous guider à travers le processus et de réinitialisation du mot de passe. que vous avez vérifié si votre numéro de téléphone est correctement enregistré d ans notre sys tème? Cela garantit que vous recevez les SMS nécessaires. En outre, assurez-vous que votre mobile une bonne connexion réseau. Est-ce que vous voyez des p roblèmes avec la de messages avez-vous changé de numéro récemment ?
+
+Sepaker 2: Je suis certain que le numéro correct, et je n’ai changé de numéro récemment. Mon téléphone a une bonne réception et fonctionne bien avec d'autres services. Je suis vraiment pressé de résoudre problème aujourd'hui [pause] car il est urgent pour moi d'accéder à mon compte. devons-nous faire ensuite pour... euh... vérifier la 2-factor authentication?
+
+Speaker 1:Merci pour informations. Nous allons travailler rapidement pour résoudre ce roblème. Dans un premier temps, vous pouvez essayer de réinitialiser votre mot passe en Je vais vous guider pas à pas. Accédez à notre plateforme nmuérique et cli quez sur de oublié". Vous devrez répondre à quelques de sécurité. Ensuite, nous vérifierons si le système envoie correctement le SMS de à votre numéro de téléphone. Si cela échoue encore, nous pourrions avoir besoin de mettre à jour vos coordonnées dans notre système. Pouvez-vous me dire les étapes que vous voyez actuellement à l'écran ?
+
+Speaker 2:J'ai suivi vos instructions et j'ai cliqué sur "Mot de passe oublié". J'ai répondu aux questions de sécurité, mais je n'ai toujours pas eçu le SMS de vérification. J'ai vérifié de nouveau mon numéro de téléphone, tout Que devrions-nous faire maintenant pour garantir que je reçois le SMS et régler ce problème ra pidement ?
+
+Speaker 1:D'accord, puisque le SMS de n'est pas reçu malgré confirmation de votre numéro de téléphone, je vais directement vérifier notre système voir s'il y a un bloage ou une autre complication empêchant l'envoi du SMS. Donnez-moi un instant p our effectuer cette vérification.
+
+Speaker 1:System processing... [brief pause]
+
+Speaker 1:Si tout est bien de notre côté, devrons envisager des options pour l'authentification, comme l'utilisation d'une application tierce ou vous fournir un code par e-mail. En parallèle, jev ais investiguer si votre téléphone est compatible avec nos exigences de sécurité actuelles. Pendan que je fais cela, pourriez-vous me dire sur quel appareil et navigateur vous tentez de vous connecter ? Cela peut également influer sur la réception du code. Soyez assuré que nous ferons tout le pour résoudre ce problème aujourd'hui.
+
+Speaker 2:D'accord, j'utilise mon téléphone mobile pour essayer de me connecter, et principalement j'utilise le navigateur Safari. J'espère vraiment que nouspourrons régler ça aujourd'hui.
+
+Speaker 2:Merci de votre patience, NAME. Après avoir vérifié notre système, je constate qu'il n'y a aucun blocage ou complication évidente empêchant du SMS. Il semble que votre appareil est compatible, donc le problème pourrait être lié à une restriction temporaire de votre opérateur ou un problème de synchronisation avec notre srvice. Pour résoudre cela rapidement, je vous propose d'utiliser une application tierce comme Authenticator Authy. Ces appliactions génèrent un code de sécurité que vous pouvez utiliser pour vérifier votre identité.
+
+Speaker 1:Alternativement, nous pouvons envoyer un code de vérification à votre adresse e-mail enregistrée. Cette option est tout aussi sécurisée. Quelle méthode préférez-vous essayeren premier pour garantir que vous aurez accès à votre compte immédiatement?
+
+Speaker 2:Euh, je pense qu'un code par e-mail serai tpluspratique pour moi .J'aimeris essayer cela en premier.
+
+Speaker 1:Très bien. vais configurer cela immédiatement et vous devriez recevoir un e-mail avec un code de vérification sous peu. Après avoir réussi la vérification, nous nous chargerons de votre mot de passe et vous fournirons tous les nécessaires pour garantir que ce processus se déroule sans problème. Vous aussi envisager de vérifier les autres fonctionnalités que nous avons mises à jour. N'hésitez pas à m edire si vous avez des préoccupations sur la sécurité et la confidentialité de vos données pendant ce processus. Je suis là pour vous assister avec toutes vos questions.

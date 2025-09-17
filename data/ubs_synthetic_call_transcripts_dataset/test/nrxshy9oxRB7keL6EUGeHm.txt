@@ -1,0 +1,51 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, je parle à Monsieur NAME. C'est un plaisir de vous parler aujourd'hui. J'espère que allez Avant de commencer, puis-je vous demander de conformé votre date de naissance et votre adresse pour des raisons de s'il vous plaît?
+
+Speaker 2:Oui, bien sûr. Ma date de naissance est le DATE, et mon adresse est ADRESSE.
+
+Speaker 1:Merci pour cela. passons aux sujets à discuter aujourd'hui. Vous avez mentionné des problèmes de connexion avec votre banque numériques. Pouvez-vous me dire quelles étapes vous avez déjà essayé pour résoudre problème et si vous avez vu des messages d'erreur spécifiques?
+
+Speaker 2:Ah oui, à propos de la à jour KYC concernant le motif de la relation commerciale... Je suis je me suis trompé de J'ai de réinitialiser mon mot de passe et de relancer l'application plusieurs fois. L 'erreur que je reçois indique "Échec de l'authentification".
+
+Speaker 1:je comprends. L'utilisation de l'authentification à deux facteurs peut parfois entraîner des difficultés, mais elle améliore grandement la sécurité de vos informations bancaires en ligne. Permettez-moi de vous expliquer les étapes et les de cette méthode. Nous utilisons l'authentification par SMS ou via application d'autentification. Avez-vous déjà configuré l'une de options?
+
+Speaker 2:Non, je n'ai pas encore configuré l'authenitfication à deux facteurs. Pouvez-vous me guider sur la façon de faire cela?
+
+Speaker 2:Absolument. Commencez par ouvrir bancaire et accédez aux paramètres de sécurité. Ici, vous aurez l'option d'activer l'authentification à deux facteurs. Vous pouvez choisir de recevoir les codes via SMS utiliser une application comme Google Authentica tor. L'application est généralement recommandée pour une sécurité optimale. Est-ce que vous avez des préoccupations sur l'utilisation de cette méthode?
+
+Speaker 2:Oui, un peu. Je m'inquiète de devoir toujours avoir mon téléphone à portée de main. Y a-t-il des options de secours au cas où l'authentification à eux facteurs échoue?
+
+Speaker 1:Oui, il y a des options de secours, comme les codes de récupération qu vous pouvez stocker en lieu sûr. Ils peuvent être utilisr vous pouvez pas accéder à votre téléphone. De plus, notre support technique est disponible pour vous aider en cas de perte ou de problème avec l'authentification. un problème persiste, ils pourront débloquer votre accès Avez-vous d'autres questions concernant cette configuration?
+
+Speaker 2:Non, ça répond à mes questions. Merci.
+
+Speaker 1:Parfait. Passons à la mise à jour de vos informations de comptact. Vous opté pour des communications par email. Je vois que votre adresse email est user1750@example.com. Est-ce correct?
+
+Speaker 2:Oui, c'est correct. Je préfère toutes les communications par email.
+
+Speaker 1:Excellent, nous avons mi à jour vos préférences pour garantir que vous receviez toutes les communications importantes. que la validité de l'adresse bloquée peut affecter la réception des informations légales, mais les emails de la banque généralement sans problème. Est-ce que cela vous pose un problème?
+
+Speaker 2:Non, tout est bien clair, merci.
+
+Speaker 1:Maintenant, parlons du rendez-vous annuel. Nous avons fixé la date au 12 septembre 2025 à notre agence pou une rencontre en personne. Lors de cette nous discuterons de vos objecis financiers, des changements dans votre vie et de vos priorités. Y a-t-il des documents spécifiques que vous souhaitez préparerpour cette réunion?
+
+Speaker 2:Je vais préparer délais de mes objectifs financiers et quelques questions sur la diversification de mes actifs. Y a-t-il autre chose que je devrais emproter?
+
+Speaker 1:Parfait, cela semble très bien. De plus, n'oubliez pas tout document reatif à des changements importants dans vos actifs ou tout investissement récent. Vous aurez également de poser toutes questions sur la gestation de votre portefeuile.
+
+Speaker 2:D'accordé, merci pour ces recomandations.
+
+Speaker 1:Enfin , parlons de la mise à jour KYC. Je dois confirmer les informations sur vos totaux. Vous avez indiqué que vous avez 9'549'637 CUR2 en actifs totaux, dont 2'440'531 en biens immobiliers, 224'117 en liquidités, et 379'043 en autres actifs. Est-ce correct?
+
+Speaker 2:Oui, toutes ces informations sont
+
+Speaker 1:Merci pour la confirmation. La mise à jour de vos informations KYC nous permet de vous conseiller sur vos objectifs financiesr futurs. Si vous avez des préoccupations supplémentaires concernant la conformité des documents ou la manière dont vo sactifs sont n'hésitez pas à me le dire. Avez-vous des à ce sujet?
+
+Speaker 2:Non, tout est clair.
+
+Speake 1: Excellent. Merci de votre temps aujourd'hui, et nous allons nous assurer que tout est en ordre pour vous. Au et bonne journée, Mosnieur NAME.
+
+Speaker 2:Merci beaucoup pour votre aide et votre temps. À bientôt.
+
+Speaker 1:Je suis que soit clair. N'oulbiez si vous rencontrez des problèmes techniques ou avez des demandes avant notre réunion le 12 septembre 2025, vous pouvez nous contcater à tout moment. Passez une excellente journée et bientôt.

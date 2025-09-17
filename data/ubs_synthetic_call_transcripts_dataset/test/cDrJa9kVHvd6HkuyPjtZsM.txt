@@ -1,0 +1,43 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:c'est NAME. Je vous appelle pour discuter des soucis que j'ai rencontrés les de la banque numérique et mettre à jour mes informations de contact.
+Speaker 2:Ah, bonjour NA ME! Je suis NAME1, de chez UBS. Avant de continuer, je vais vérifier vos infos pour la sécurité. Pouvez-vous me confirmer votre date de naissanceet votre adresse, s’il vous plaît?
+
+Speaker 1:Euh, oui, bien sûr. Ma date de naissance est le DATE et mon adresse est ADDRESS.
+Speaker 1:Merci, NAME. Alors, pouvez-vous m'expliquer le problème spécifique qeu vous avez rencontré avec la fonctionnalité de la banque numérique?
+
+Speaker 1:Oui, j’essayais trouver une fonctionnalité qui permet de générer un relevé détaillé de mes transactions chaque mois, mais je ne l'ai pas trouvée ni sur l'application nobille ni sur site web. C’est assez frustrant...
+
+Speaker 2:Je comprends. Malheureusement, cette fonctionnalité n'est pas disponible actuellemen tdans application bancaire. Nous allons remonter votre suggestion à notre équipe de développement. Pour l'instant, vous pouvez utiliser ls apports de dépenses et les alertes de Vous pouvez également demander un relevé papier ou électronique chaque mois via notre service client en
+
+Speaker 1:D'accord, mais avez-vous des plans pour ajouter cette fonctionnalité bientôt? Et quelles autres fonctionnalités numériques pourraient m'aider dans la gestion financière?
+
+Speaker 2:Nous avons plusieurs fonctionnalités en cours de développement. En attendant, vous pouvez utiliser les alertes automatiques par SMS ou email, pré-configurés, et les prévi sions financières. Votre satisfaction est notre priorité, et nous nous efforçons d'améliorer nos services. Si vous avez d'autres suggestions, n'hésitez pas.
+
+Speaker 1:Mrci. Pouvez-vous m'indiquer des alternatives ou solutions de pour obtenir ces erlevés mensuels?
+
+Speaker 2:Vous pouvez configurer une alerte de fin de mois pour examiner vos transactions via l’application ou exporter vos tranactions vers un logiciel de gestion financière. Pour des relevés formels, vous pouvez demander un relevé mensuel via notre service client. Je peux vous guider plus en détail si nécessaire.
+
+Speaker 1:Merci, j'aimerais aussi mettre à jour mon adresse email. Mon adresse actuelle est EMAIL mais je voudrais recevoir toutes les communications officielles à NAME.new@example.com.
+
+Speaker 2:Parfait, je vais mettre à jour votre profil pour que les communications soient envoyées à NAME.new@example.com. Nous garantissons qui nos emails sont sécurisés. Ensuite, pouvons-nous penser àla mise à jour devos infos KYC? Vous avez mentionné vouloir investir poru la retraite, c'est bien cela?
+
+Speaker 2:Oui, exactement. Je cherche des conseils les d'investissement disponibles pour la retraite.
+
+Speaker 2:Excellent, NAME. Nous avos plusieurs options comme le Pilier 3a en Suisse, les fonds d’investissement, et les portefeuilles diversifiés. Vous comprenez les risques et bénéfices des titres?
+
+Speaker 1:je les comprends, mais des détails supplémentaires seraient utiles.
+
+Speaker 2:Bien sûr. Les titres peuvent offrir des rendements mais comportent des risques. Diversifier vos investissements peut atténuer ces risques.Des fonds équilibrés ou des ETFs sont recommandés. Je vais préparer un rapport détaillé pour vous aider.
+
+Speaker 1:Concernant l' origine de mes actifs, mes proviennent principalement de mon salaire et héritage. Voici le lien vers le document de l'héritage :h ttps://example.com/doc/7771.
+
+Speaker 2:Parfait, je vais enregistrer cela dans votre profil. Si vous avez des questions sur la documentation, nous sommes ici pour vous aider.
+
+Speaker 1:Merci pour votre aide et professionnalisme. Cela soulage mes préoccupations.
+
+Speaker 2:Nous apprécions votrecoopération. Vos infos sont maintenant à jour. Si vous avez des questions supplémentaires, n’hésitez pas à me contacter. Passez une bonne tourner!
+
+Speaker 1:beaucoup, et à bientôt!
+
+Speaker 2:À bientôt, NAME.

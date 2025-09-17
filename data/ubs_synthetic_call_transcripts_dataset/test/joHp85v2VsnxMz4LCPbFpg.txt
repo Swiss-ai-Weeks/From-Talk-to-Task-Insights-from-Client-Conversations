@@ -1,0 +1,68 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 2:Bonjour, Monsieur NAME. Ähm, suis NAME1 de l'UBS, je vous appelle pour discuter des problèmes de connexion que vous rencontrez avec notre plateforme bancaire numérique. Avant de continuer, pouvez-vous vous plaît confirmer votre date de naissance et votre adresse pour des raisons de sécurité?
+
+Speaker 2:Oui, bien Ma date de naissance es le DATE et mon adresse est 123 Rue de Exemple, Genève.
+
+Speker 2: Merci pour la vérification. Maintenant, Monsieur NAME, pourriez-vous me donner un peu plus de détails sur les problèmes de connexion que vous avez avec plateforme? Quels sont les messages d'erreurs exacts que vous avez reçus et quelles avez-vous déjà essayé pour résoudre
+
+Speaker 2:Oui, euh, um, depuis quelques jours, je n'arrive pas à me connecter à compte. Le message d'erreur indique que mon mot de passe est incorrect, même si, je suis sûr de l'avoir bien saisi. esayé de mot de passe via l'option "mot de passe oublié", mais je ne reçois pas de e-mail de réinitialisation. J'ai véirfié mes dossiers de et indésirables, et, um, vient. Je suis très préoccupé par la sécurité de mon compte.
+
+Speaker 1:comprends votre inquiétude, Monsieur NAME. La première chose que nous allons vérifier est si votre adresse e-mail et autres informations de contact sont à dans notre système. Cela pourrait être la raison de l'échec du mail réinitialisation. Veuillez me confirmer votre adresse actuelle.
+
+Speaker 2:Mon adresse e-mail actuelle est nom@example.com.
+
+Speaker 1:Merci de Je vais maintenant mettre à jour votre adresse et vérifier si elle est correctement enregistrée. Une cela vérifié, nous procéderons à la configuratio de l’authentification à deux facteurs, ce qui ajoutera une couche supplémentaire de sécurité à compte. On hold: 2 min Voilà, c'est vérifié.
+
+Speaker 2:D'accord, je voudrais vraiment comment fonctionne l'authentification à deux Cela m'inquiète un peu devoir changer mes de connexion.
+
+Speaker 1:Absolument, je suis là pour aider à vous familiariser avec ce système. L'authentification à deux facteurs nécessite deuxéléments pour accéder à votre compte: mot de passe un code généré par une application ou envoyé à votre téléphone. Cette méthode renforce la sécurité car même si quelqu'un obtenait votre mot de passe, il ne pourrait pas accéder à votre compte le code secondaire.
+
+Pour configurer cela, voici les étapes :
+
+1. Connexion à votre compte bancaire : Allez sur la page de connexion et entrez votre mot de passe comme d'habitude.
+2. Configuration de l'authentification à deux facteurs : Une fois connecté, vous allez dans les paramètres de sécurité de compte, vous trouverez l'option pour configurer l'authentification à deux facteurs.
+3. Sélection d facteur : Vous pouvez choisir entre recevoir des codes via une application de génération de codes ou par SMS. Ça dépend de votre préférence.
+4. Vérification : Vous recevrez un code initial pour la configuration. Entrez code pour finaliser le processus.
+
+Si vous rencontrez des problèmes pendant ces étapes, n'hésitez pas à nous appeler directement pour obtenir de l'aide.
+
+Speaker 1:Merci pour ces explications. Juste pour être sûr, si le problème persiste même après la mise en place de l'authentification à facteurs, y a-t-il des moyens alternatifs pour accéder à mon compte?
+
+Speaker 1:Oui, si les de connexion persistent, avons pl usieurs alternatives. Vous pouvezaccéder à votre compte via un service téléphonique sécurisé, ou nous pouvons configurer un rendez-vous en personne pour mettre à jour votre accès. En outre, je vous recommanderais également de vérifier régulièrement les mises à jour de notre plateforme bancaire numérique toute amélioartion ou changement qui pourrait résoudre les problèmes de connexion.
+
+Je voudrais aussi vérifier à nouveau vos informations de contact mettre à jour votre KYC (Know Your Customer )informations. Pouvez-vous confirmer votre numéro de téléphone actuel toute autre info pertinente?
+
+Speaker 2:Mon numéro de actuel est +41 000 000 00 00, et pour le reste des informations, tout devrait être à
+
+Speaker 1:Parfait, je vais mettre à jour le KYC avec ces informations. Pour rappel, voici les informations qeu nous :
+
+- Total des actives : 9 791 526 CHF, dont 580 276 en actifs immobiliers, 1 056 en actifs liquides et 841 849 en autres actifs.
+- Objectif de la relation : Investir la rteraite, avec des notes sur diversification des
+
+Je vais égale ment vérifier et notre réunion pour l 8 septembre 2025, à 14h00. Vous recevrez un e-mail de confirmation pour tous ces détail.
+
+Speaker 2:Merci, je ra ssuré. Pouvez-vous vous assurer que je reçois bien l'e-mail de confirmation de l a réunion et de la mise à jour des informations?
+
+Speaker 1:Bien sûr, Monsieur NAME. vais vérifier et vous envoyer un e-mail avec tous les détails de la réunion ainsi que l'état de vos informations. D'ici la fin de journée, vous devriez recevoir cette confirmation par e-mail. En cas de non-réception, vous pouvez nous contacter pour résoudre ce problème.
+
+Speaker 2:Je comprends, plus important c'est la sécurité de mon compte. Vous pouvez vérifier ma adresse encore une fois? Juste pour être certain.
+
+Speaekr 1: Je comprends votre anxiété, NAME. Assurons-nous d'abord que votre adresse e-mail est bien enregistrée et fonctionne correctement. Je vais maintenant vérifier cette info dans notre système.
+
+Pause pour Vérification de l'e-mail
+
+Speaker 1:Votre adresse e-mail nom@example.com est bien enregistrée et active dans notre système. Je vais vous envoyer un e-mail de test pour voir si vous le recevez, pourriez-vous me confirmer dès que vous le recevez?
+
+Speaker 2:Je viens de recevoir l'e-mail de test. Tout est en ordre de ce côté-là.
+
+Speaker 1:Parait, nous pouvons maintenant procéder à la mise en place de l'authentification à deux facteurs. Suivez les étapes que nous avons discutées :
+
+1. Connectez-vous à votre compte bancaire.
+2. Accédez ux paramètres de sécurité.
+3. Sélectionnez l'option de l'authentification à deux facteurs.
+Vérifiez le code initial pour finaliser la configuration.
+
+Pour garantir la sécurité de votre compte, il serait également judicieux de régulièrement mettre à jour votremot de passe et les activités de votre compte. Si vous quelconque problème pendant ces étapes, n'hésitez pas à nous contacter pour obtenir de l'aide directement. En cas de non-réception du d'authentification, vous pouvez aussi utiliser notre service téléphonique sécurisé ou prendre rendez-vous pour une assistance en personne.
+
+Y-a-t-il d'autres questions ou préoccupatio ns que vou souhaiteriez aborder aujourd'hui ?

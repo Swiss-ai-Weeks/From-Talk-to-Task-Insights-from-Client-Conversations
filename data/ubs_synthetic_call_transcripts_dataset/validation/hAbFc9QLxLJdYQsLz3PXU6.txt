@@ -1,0 +1,38 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, euh... oui, bonjour. C’est bien NAME1 de UBS?
+Speaker 2:Bonjour, Monsieur NAME. Oui, c'est moi NAME1 de UBS. Euh, je vous appelle concernant vos préoccupations sur la banque ligne. A vant de commencer, pourrez-vous confirmer votre date de naissance et vorteadresse pour raisons de sécurité?
+Speaker 1:Ah, oui, bien Ma date de naissance le [INSERT DATE] et mon adresse est [INSERT ADDRESS]. Est-ce que vous m’entendez bien?
+Speaker 2:Oui, je vous entends parfaitement, merci. Alors, Monsieur NAME, je comprends que vous avez des soucis avec la banque en ligne. Pouevz-vous me décrire en, enfin, un peu plus en détail le problème de connexion que vous avez rencontré? Recevez-ovus un message d'erreur spécifiqu ou est-ce que vous pouvez tout simplement pas accéder à votre compte?
+Speaker 1:Oui alors, j’ai essayé de me connecter hier soir et il m’a indiqué que mes informations de connexion étaient incorrectes. Pourtant, j’étais sûr que mon mot de passe était correct. C’est pas la première que ça m’arrive, alors je voudrais vraiment récupérer ce problmèe une fois pour toutes. Et puis, pourriez-vous expliquer comment fonctionne l’authentification à deux ? Je veux être sûr que mon compte est bien sécuriser.
+Speaker 2:Je comprends très bien votre frustration, Monsieur NAME. L'authentification à deux facteurs, uo 2FA, est une mesure de sécurité supplémentaire qui renforce la protection de votre compte .En plus de votre mot de passe, vous besoin d'une autre vérification, comme un code par SMS ou via une application d'authentification.
+
+Pour votre problème de connexion, je vous suggère de commencer par réinitialiser otre mot de passe, juste pour être sûr que vous avez les bonnes informations. Ensuite, nous pouvons en place l'authentification à deux facteurs. Préférez-vous recevoir l esecond facteur par SMS, une application d'authentification, ou par email ?
+Speaker 1:Euh, pouvez-vous me dire les avantages et les encombrants de chague méthode? Je veux vraiment choisir l'option la plus sécurisée et la plus pratique pour moi. Et l’authentification à deux facteurs, est-ce que cela garantit vraiment que personne ne pourra accéder à mon compte sans ma permission?
+Speaker 2:Bien sûr, Monsieur NAME, laissez-moi vous expliquer en détail:
+
+- SMS : C’est très pratique parce que vous recevez un code sur votre portable. Mais, c’est moins sûr si votre téléphone est volé ou si quelqu'un détourne votre carte SIM.
+Application d'authentification : Applications comme Google Authenticator ou Authy très sécurisées. Elles génèrent des codes de manière autonome, sans besoin de réseau. Encombrant, il faut toujours avoir votre téléphone avec l'application.
+- Email : Recevoir le code par email est une alternative si vos avez un accès constant à votre email. c’est moins immédiat et la sécurité dépend de votre email.
+
+L'authentification à deux facteurs rend l'accès à votre compte beaucoup plus difficile pour quelqu'un d'autre. Cela dit, aucune mesure de sécurité n'est infaillible à 100%, mais 2FA est l'une des meilleures pratiques actuelles pour protéger votre compte.
+
+Souhaitez-vous que nous mettions en place l'une ces options maintenant ? Je peux aussi vous guiderétape par à travers le processus.
+Speaker 1:Oui, mettons ça en place maintenant. Je pense l'application d'authentification um, la meilleure option pour moi. Pourriez-vous m'aider à la configurer? Je veux m'assurer que t outest bien correct pour protéger mon compte.
+Speaker 2:Bien sûr, Monsieur NAME. Suivez ces étapes:
+
+1. Téléchargez une application comme Google Authenticator ou Authy sur votre App Store ou Google Play Store.
+2. Ouvrez l'application bancaire sur votre appareil et connectez-vous avec vos identifiants.
+3. Allez dans les paramètres de sécurité et cherchez l'option pour configurer l'authentification deux facteurs.
+4. l'option ‘Application d'authentification’ et un code QR s'affichera à l'écran.
+Ouvrez votre d'authentification et sélectionnez l'option pour scanner un code QR. Scannez le code QR sur l’écran.
+6. L'application un code de vérification que vous devrez entrer dans l'application bancaire UBS pour finaliser la configuration.
+
+Suivez 'est étapes, et cela devrait être configuré correctement. Si vous avez des notre service d'assistanceest là por vous aider. On travaille constamment à notre pateforme pour rendre plus conviviale et [pause] Est-ce que ça vous paraît clair?
+Speaker 1:Oui, parait, merci. Je vais suivre ces étapes. si j'ai des questions ou des soucis, je contacterai le service d'assistance.
+Speaker 2:Parfait, Monsieur NAME. Si vous avez suivi les étapes, votre authentification à deux facteurs devrait être configurée avec succès via l’application choisie.
+
+En cas de difficulté ou autre question concernant la banque en ligne, n’hésité pas à nous contacter. Nous sommse là pour vous aider et garantir la sécurité et la convivialité de votre expérience bancaire.
+
+Speaker 2:D’accord, merci beaucoup pour votre aides.
+Speaker 2:Je vous en prie, NAME. Passez une bonne journée.

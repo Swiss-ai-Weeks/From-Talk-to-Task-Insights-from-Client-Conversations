@@ -1,0 +1,21 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, je suis NAME et je dois vérifier quelques points avec vous concernant ma banque digitale et des informations KYC. Comment procédez-vous pour le rappel de mes coordonnées ?
+Speaker 2:Bonjour, ici NAME1 de UBS. Bonjour Madame NAME. Tout d'baord, pouvez-vous confirmer votre de naissanc eet votre adresse pour des raisons de sécurité, s'il vous plaît
+Speaker 1:Ah, excusez-mio, je crois que 'jai mentionné la mise à jour de votre KYC par erreur. Oui, bien sûr. Ma date de naissance est le DATUM et mon adresse actuelle est Rue Exemple 123, 1000 Ville.
+Speaker 1:Merci, tout est en ordre. Vous m'avez dit que vous cherchiez une fonctionnalité dans l'application bancaire que vous n'avez pas pu trouver, pouvez-vous m'en dire plus
+Speaker 1:Oui, j'essayais de gérer mais notifications de dépenses, mais je pas trouvé d'option pour générer des rapports mensuels automatiques. Cela prend beaucou de temps d 'extraire les données manuellement. Avez-vous une solution ou une mise à jour prévue pour ça ?
+Speaker 2:Je comprends, cette fonctionnalité est effectiveemnt importante. Actuellement, notre plateforme ne pa la génération automatique de rapports mensuels. J'ai noté votredemande et vias la transmettre à notre équipe de dévelop pement.
+En attendant, vous pouvez notre option d'exportation CSV pour vos transactions et générer les rapports via un tableur comme Excel. Désolé pour la gêne occasionnée.
+Speaker 1:Ça semble être bonne solution temporaire. Pourriez-vous aussi clarifier les informations nécessaires pour la mise à jour KYC ? J'ai hérité d'une somme importante et je souhaite investir pour ma retraite.
+Speaker 2:Bien sûr. Nous devons noter que l'origine de vos est un héritage. Nous aurons besoin confirmation documentaire de cet héritage. Vous pouvez envoyer cette preuve à notre département de via le lien sécrisé que je vais v ous fouri.
+Speaker 1:D'accord, très bien. J'aimerais vos communications par email si possible.
+Speaker 2:Je vais mettre à jour vos préférences de pour l'email. Pour conclure, je vais programmer un rendez-vous avec un conseiller en investissement spécialisé q ui pourra guider sur options de placeent. Est-ce qu'il y a autre chose que vous aimeriez aborder ?
+Speaker 1:Oui, ce serait utile de discuter précisément avec un conseliler spécialisé. Pouvez-vous me programmer un rendez-vous ? Et aussi, avez-vous une idée des délais pour l'intégration la fonctionnalité de rapport mensuel automatique ?
+Speaker 2:Bientôt sûr. Vous recevrez emai lavec les détails du rendez-vous. la fonctionnalité de rapports mensuels, je ne pas donner de date précise, c'est en cours d'évaluation. En attendant, je recommande d'utiliser des macros dans les tableurs ou applications tierces comme YNAB ou Mint pour automatiser ce procession.
+Speaker 1:Merci, cela m'aid Merci encore pour l'organisation du rendez-vous et toutes ces informations.
+Speaker 2:Parfait. Pour récapituler : vos informations de contact seront-ils mises à jour pour privilégier communications par email, et l'origine de vos actifs comme héritage avec les documents envoyés à notre compliance.
+J'organiserai aussi un rendez-vous avec un conseiller en investissement. Si vous avez d'autres questions ou besoin d'aide, n'hésitez pas à nous contacter. Merci pour votre confiance.
+Speaker 1:Non, c'est parfait comme ça, merci beaucoup.
+Speaker 2:Ravie d'avoir pu vous aider. Je vous souhaite une excellente journée. Au revoir.
+Speaker 1:Merci, au revoir.

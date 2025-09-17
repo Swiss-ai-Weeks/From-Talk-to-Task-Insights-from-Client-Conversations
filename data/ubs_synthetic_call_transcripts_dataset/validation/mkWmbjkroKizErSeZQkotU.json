@@ -1,0 +1,18 @@
+[
+  {
+    "task_type": "update_kyc_purpose_of_businessrelation",
+    "parameters": {
+      "purpose_category": "payments",
+      "details": "Client wants to invest for retirement."
+    }
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-10-06",
+      "contact_note": "Alternative investments \u2013 discuss private markets, hedge funds, or real assets.",
+      "channel": "Video call",
+      "duration_minutes": 60
+    }
+  }
+]

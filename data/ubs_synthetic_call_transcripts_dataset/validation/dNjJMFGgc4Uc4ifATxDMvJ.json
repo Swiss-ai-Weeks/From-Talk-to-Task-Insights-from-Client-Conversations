@@ -1,0 +1,18 @@
+[
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-24",
+      "contact_note": "Rebalancing proposal \u2013 recommend shifting allocations due to market moves or changed risk appetite.",
+      "channel": "Video call",
+      "duration_minutes": 45
+    }
+  },
+  {
+    "task_type": "update_kyc_purpose_of_businessrelation",
+    "parameters": {
+      "purpose_category": "pension planning",
+      "details": "Client wants to invest for retirement."
+    }
+  }
+]

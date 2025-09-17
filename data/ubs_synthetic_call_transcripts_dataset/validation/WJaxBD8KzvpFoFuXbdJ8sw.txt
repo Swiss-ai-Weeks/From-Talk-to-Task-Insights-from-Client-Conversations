@@ -1,0 +1,53 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Ähm, guten Morgen, mein ist NAME1, äh, ich von der UBS an, um über Ihre des digitalen Bankings zu sprechen. Wie geht es Ihnen heute? Bevor wir weitermachen, könnte ich bitte Ihr Geburtsdatum Ihre Adresse zur Sicherheitsüberprüfung haben?
+
+Speaker 2:Ja, guten Morgen, klar. Mein Geburtsdatum ist DD.MM.YYYY und meine Adresse ist Mir geht's gut, danke. Äh, ich habe Schwierigkeiten, eine bestimmte Funktion in dern digitalen Banking-App zu finden. Was ich suche, ist die Möglichkeit, regelmässige Überweisungen einzurichten. Ist die App kürzlich aktualisiert Könnte das die Ursache meiner sein?
+
+Speaker 1:Danke für die Bestätigung Ihrer Daten. Lassen Sie uns das untersuchen. Weltsche Schritte haben Sie bisher unternommen, um die Funktion für regelmässige Überweisungen zu finden? Gab es spezifische Fehlermeldungen, konnten Sie einfach die Option nich t entdecken? Und, haben Sie die App auf die neueste Version aktualisiert? Erzählen Sie mir bitte genau, was Ihre Erfahrungen waren, damit ich Ihnen besser helfen kann.
+
+Speaker 1:Ja, sicher. Ich hab die App auf meinem geöffnet durch die Menüoptionen navigiert. Unter "Zahlungen" und "Transaktionen" hab ich geguckt, aber es gab keine Op tion regelmässige Übereiusngen. Kein Fehler oer so ,ich konnte nichts finden. Die App ist auf dem neuesten Stand, hab das heute auch Vielleicht hab ich was übersehen. Können Sie mir zeigen, wo ich diese Funktion finde?
+
+Speaker 1:Vielen für Ihre Erklärung. Ich verstehe, dass das frustrierend ist. Lassen Sie uns das ge meinsam durchgehen.
+
+Öffnen Sie bitte die Ap und folgen Sie diesen Schritten:
+1. Gehen Si zu "Zahlungen".
+2. Wählen Sie "Neue Zahlung" aus.
+3. Nachdem Sie die Zahlungsdetails eingegeben haben, sollten Sie eine Option für "Wiederhoulng" "Regelmässige Zahlungen" sehen. Klick darauf.
+4. Hier können Sie die Frequenz einstellen, sei es täglich, wöchentlich, monatlich oder jährlich.
+
+Können Sie diese Schritte aupsrobieren und mir sagen, ob Sie die Option konnten? Falls es funktioniert, können wir eine Bildschirmfreigabe machen, um das Problem gemeinsam zu lösen.
+
+Speaker 2:Ich hab die befolgt, aber ich konnte die Option für "Wiederholung" oder "Regelmä ssige Zahlungen" immer noch nicht finden. Vielleicht seh ich da was nicht, bin mir nicht sicher. Könnte es irgendwelche mit geben, die ides auslösen? Gibt es Methoden, um diese Überweisungen einzurichten, falls ich sie in der App nicht finde?
+
+Speaker 1:Danke, adss Sie die Schritte ausprobiert haben. Es scheint, dass es da noch Unklarheiten Gibt's. Während überprüfe, ob unser System derzeit irgendwelche meldet, ie unser Online-Banking-System auf einem eDsktop-Rechner nutzen. Da st die Benutzeroberfläche oft intuitiver. Sie können uns auch telefonisch und eine Mitarbeiterin oder ein Mitarbeiter könnte das für Sie einrichten.
+
+Ich werde jetzt den System-stadt prüfen. Moment bitte.
+
+Speaker 1:Systeme processing... Könnten Sie mir sagen, ob in der Vergangenheit ähnliche Schwierigkeiten mit der App hatten oder ob dies das erste Mal ist, dass Sie Probleme haben? Es hilfreich zu wissen, ob andere Funktionen für Sie auch zu finden sind.
+
+Speaker 1:Ich habe den Systemstatus überprüft und es gibt aktuellen über technische Probleme mit der App. Option für regelmässige Überweisungen könnte an einer anderen Stelle innerhalb der App sein oder Ihre Berechtigungen sind eingeschränkt.
+
+Wie könnten eine Bildschirmfreigabe durchführen, um visuell zu sehen, wo sich die versteckt. Alternativ können Sie Online-Banking auf Ihrem Desktop-Rechner nutzen.
+
+Wenn Sied ie regelmässigen Überweisungen in der App nicht finden, können Sie direkt über den Kundenservice Überweisungen ienrichten. Ich kann Ihnen auch eine umfassende Anleitung per senden.
+
+Speaker 1:Gibt es vielleicht noch andere Bereiche der App, wo Sie haben oder Fragen Regelmässige Check-ins und Touren durch die App-Funktionen könnten hilfreich sein.
+
+Speaker 2:Das verstehe ich. Danke für Vorschläge und die Prüfung des Systemstatus. Die Bildschirmfreigabe würde mir gerade nicht helfen, da ich keinen Zugriff auf meinen Desktop hab. Es wäre toll, wenn Sie mir die umfassende Anleitung per E-Mail zusenden könnten. Das würde mir helfen.
+
+Speaker 2:Ausserdem habe ich eine Frage zur Sicherheit der App. Ich sicherstellen, dass meine Transaktionen persönlichen gut geschützt sind. Können Sie mir Informationen geben, welche Sicherheitsmassnahmen die App nutzt?
+
+Speaker 2:Danke für Ihre Unterstützung. Es beruhigt mich, alternative Optionen zu haben und den Kundendienst jederzeit kontaktieren zu können.
+
+Speaker 1:ich verstehe. Ich sende Ihnen sofotr die Anleitung per E-Mail zu.
+
+Speaker 1:Bezüglich der Sicherheit Ihrer Daten und Transakitonen nutzen wir strenge Massnahmen und Technologien:
+1. Verschlüsselte Datenübertragung.
+2. Mehrfaktor-Authentifizierung.
+Automatische Abmeldung nach Inaktivität.
+4. Regelmässige Sicherheitsupdates.
+
+Falls Sie weitere Fragen haben oder digitale Banking-Themen besprechen möchten, zögern Sie bitte nicht, uns zu kontaktieren.
+
+Speaker 1:Ich hoffe, diese Informationen helfen Ihnen, und danke für Ihr Vertrauen. Einen schönen Tag noch!

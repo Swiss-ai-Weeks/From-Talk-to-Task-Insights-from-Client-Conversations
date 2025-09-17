@@ -1,0 +1,64 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, euh, c'est Monsieur NAME. Uh, j'ai quelques précupatiosn concernant ma carte bancaire. Vou m'entendez bien?
+
+Speaker 2:Oui, Monsieu rNAME. C'est NAME1 de BUS. Uh, je vous appelle pour discuter de vos inquiétudes concernant votre carte bancaire. Pour des raisons de sécurité, pourriez-vous confirmer votre date naissance et votre adresse, s'il vousplaît?
+
+Speaker 1:Oh pardon, je voulais parler de la planification d'une réunion... désolé, ce n'était pas la question. Oui, bien sûr. Ma date de naissance est le JJ/MM/AAAA mon adresse ADRESSE.
+
+Speaker 2:Merci, Monsieur Uh, je comprends parfaitement votre inquiétude concernant la carte bloquée. Alors, votre carte a été bloquée par mesure de sécurité après avoir détecté des transactions suspectes. C'est une action visant à protéger votre compte contre toute activité frauduleuse.
+
+Speaker 1:Oh, je vois. Ça m'inquiétait vraiment. Qu'est-ce que je dois faire maintenant?
+
+Speaker 1:Pour résoudre ce problème, uh, nous avons déjà commencé le processus de réémission d'une nouvelle carte. Vous devriez la recevoir dans les 5 à 7 jours ouvrables. Entre-temps, vous pouvez effectuer des transactions en utilisant virements bancaires ou des paiements mobiles comme Twint.
+Speaker 1:D'accord, ça fait sens. Et les transactions effectuées avec la carte? Elles ont sûres?
+
+Speaker 2:Oui, concernant les transactions effectuées avec la carte bloquée, uh, nous allons examiner toutes les opérations et vous informer si des actions sont nécessaires. Vous n'aurez pas de suppémentaires pour la réémission de la carte.
+
+Speaker 1:Okay, merci. Ça me rassure un peu. Qu'est-ce que dois afire pour activer la nouvelle carte quand je la recevrai?
+
+Speaker 2:Uh, vous devrez simplement suivre les instructions indiquées sur le courrier qui accompagne la carte. En outre ,si vous souhaitez mettre à jour vos coordonnées personnelles , je suis là pour vous aider. Pur commencer, pourriez-vous me confirmer votre professionnel et votre adresse e-mail actuelle?
+
+Speaker 1:Oui, je suis actuell ement employé dans le secteu de technologie, ventes chez Company 2. Mon adresse e-mail est user2713@example.com. préfère être contacté par e-mail.
+
+Speaker 2:Parfait, je vais noter ces informaions. Uh, concernant la sécurité de votre nouvelle carte, nous mis en place des mesures améliorées pour protéger votre compte. Quand vous recevez votre nouvelle carte, assurez-vous de mettre en place des contrôles de sécurité, comme la vér ification des transactions et des alertes SMS pour toute activité inhabituelle.
+
+Speaker 1:Est-ce que la nouvelle carte aura les mêmes détails que l'ancienne, comme le numéro de compte? Et puis-je demander des informations sur les mesures de sécurité spéc ifiques que vous avez mises en place pour garantir que cela ne se reproduira pas?
+
+Speaker 2:Non, la nouvelle carte aura un numéro ifférent pour assurer votre sécurité, mais elle sera liée à votre compte existant. Nous avons intensifié nos systèmes de surveillance pour identifier activité frauduleuse avant ne puisse affecter votre Nous recommandons changer votre PIN dès réception de la nouvelle carte et d'utiliser des mots de passe complexes protéger votre accès à la banque en ligne.
+
+Speaker 1:D'accord, intéressant. Cela rassure. J'avais vraiment peur que mes transactions précédentes soient affectées. Tout va bien avec celles-ci?
+
+pSeaker 2: Oui,t outes les transactions précédentes sont bien examinée s et sécurisées. Uh, je vais également vérifier s'il y a des anomalies vous contacter immédiatement si chose nécessite votre attention.
+
+Speaker 1:C'est bon l'entendre. Est-ce que pou vez me guider pour configurer les alertes SMS et sécuriser mon comte en ligne?
+
+Speaker 2:Bien sûr, laissez-moi vous guider pas à pas:
+
+One moment while pull up the settings...
+
+1. Configuration des alertes SMS:
+- Connectez-vous à votre compte en ligne UBS.
+- Accédez à section des paramètres ou des notifications.
+- Sélectionnez 'Alertes SMS'.
+- Activez les notifications pour toutes les transactions.
+- Enregistrez le numéro de mobile sur lequel vous souhaitez recevoir les alertes.
+
+2. Modification des mots de passe:
+- à la section de sécrité de votre compte en ligne.
+- Cliquez sur mot de passe'.
+- Utilisez un mot de passe complexe avec des lettres majuscules, minuscules, chiffres et caractères spé ciaux.
+
+3. Consultation des relevés bancaires:
+- Accédez à la section 'Historique des transactions' de compte en ligne.
+- Vérifiez régulièrement vos relevés pour toute activité suspecte.
+
+Si vous rencont rez des problèmes à n'importe quelle étape, vous pouvez toujours nous appeler pour une assistance immédiate. C'est très important pour nous que vous vous sentiez sécurisé.
+
+Speaker 1:Ok, merci. Je pense que j'ai tout ce qu'il faut maintenant. Vous avez été vraiment et patient.
+
+Speaker 2:Je suis heureux pu vous aider. pas à nous contacter si vous avez besoin de suivi ou d'assistance. Passez bonne journée.
+
+Speaker 1:Merci beaucoup. J'essaierai de tout en place cet après-midi. Bonne journée à vous
+
+Speaker 2:De même pour vous. Au revoir, Monsieur NAME.

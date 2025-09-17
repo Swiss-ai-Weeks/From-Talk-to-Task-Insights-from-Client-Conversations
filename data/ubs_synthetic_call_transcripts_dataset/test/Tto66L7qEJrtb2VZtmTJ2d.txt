@@ -1,0 +1,82 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, äh, hier ist NAME. Ich hab' Login-Probleme beim Digital Banking und bin etwas besorgt wegen der Sicherheit.
+
+Speaker 2:Guten Morgen, Herr NAME. NAME1 von der hier. Danke, dass Sie uns kontaktieren. Können Sie Biete Ihr Geburtsdatum und Ihre Adresse zur Sicherheitsberprüfung bestätigen?
+
+Speaker 1:Mein Geburtsdatum ist DATUM und meine Adresse ist ADRESSE.
+
+Speaker 2:Vielen Dank, NAMEN. Nun zu Ihrem Anliegen. Sie hatten Probleme Einloggen? Können Sie mir genau erzählen, was passiert und ob eine Fehlermeldung angezeigt wird?
+
+Speaker 1:Ja, genau. ich versuche mich einzuloggen, aber... obwohl ich Zugangsdaten korrekt eingebe, klappt es nicht. Keine Ahnung warum. Und ich mache mir wegen der Sicherheit. Können Sie mir die Sicherheitsmerkmale erklären? Sind persönlichen Daten gefertigt?
+
+Speaker 2:Natürlich. Unsere Digital Banking Systeme haben mehrere Sicherheitsmerkmale. D azu gehören sichere regelmässige Updates und besonders die Zwei-Faktor-Authentifizierung. Mit dieser Methode muss zusätzlich zu Ihren Zugangsdaten ein Code eingegeben werden, den Sie per Mobi lgerät erhalten. Das ist sehr sicher und verhindert unbefugten Zugriff. Ist das okay für Sie?
+
+Speaker 1:Ja, das klingt gut. Aber ich hab' gehört, dass diese Zwei-Faktor-Authentifizierung manchmal Probleme macht. Können Sie mir mehr darüber erzählen und erklären, wie ich das auf meinem Gerät einrichte?
+
+Speaker 1:Sicher. Zwei-Faktor-Authentifizierung funktioniert so: Nach Ihrer regulären Anmeldung erhalten Sie einen Code aufsHandy, den Sie eingeben müssen. Um das einzurichten, brauchen Sie unsere Banking App. Das ist kostenlos. Soll ich Sie Schritt für Schritt durch den Prozses führen?
+
+Speaker 1:Ja, das wär super, danke. Noch eine Frage: Wie sicher sind meine persönlichen Daten beim
+
+Speaker 2:Wir verwenden modernsteVerschlüsselungs- Sicherheitstechnologien, regelmässige Überprüfungen und Updates, um Ihre Daten zu schützen. Nur haben Zugang zu Ihren Konto und Daten. Im Falle eines auf können wir schnell reagieren. Wir empfehlen regelmässig Ihre Passwörter zu ändern und die Zwei-Faktor-Authentifizierung auf dem neuesten Stand zu halten.
+
+Speaker 1:Okay, wie oft sollte ich die Zwei-Faktor-Authentifizierung Gibt's da eine Routine?
+
+Speaker 2:Es ist ratsam, die Sicherheitsinformationen regelmässig zu aktualisieren, besonders bei Gerätewechsel -verlusten. Wenn Probleme wie Verlust des Mobilgeräts, stehen wir zur Seite. Sie sollten auch regelmässig Passwörter ändern.
+
+Speaker 1:Verstanden. Was tun, wenn ich weitere Probleme beim digitalen Banking habe?
+
+Speaker 2:Wir bieten telefonische nSupport, Online-Ressourcen auf unserer Website und Möglichkeit, einen Termin mit einem technischen Berater zuvereinbaren. Wir bemühen uns, dass Sie sich sicher und unterstützt fühlen.
+
+Speaker 1:öKnnenS ie mir auch erzählen, wie Digital Banking mit anderen Bankdienstleistungen integriert ist?
+
+Speaker 2:Unser e Digital Banking-Dienste sind nahtlos mit unseren Finanzdienstleistungen verknüpft. S ie können alles online verwa lten, von Kontotänden, Überweisungen, bis Ivestitionen. Sie haben immer einen Überblick über Ihre Finanzen un Fortschritte.
+
+Speaker 1:Das klingt gut. Danke für Ihre Geduld und Hilfe. Ich hoffe, die Zwei-Faktor-Authentifizierung löst meine Login-Probleme.
+
+Speaker 2:Ich bin sicher, das wird Ihre Probleme lösen. Wenn Sie bereit sind, können wir jetzt mit der Einrichtung beginnen. Haben Sie Ihr Mobilgerät Hand?
+
+Speaker 2:aJ, hab' es hier. Was machen wir zuerst?
+
+Speaker 1:Parkett. Laden Sie bitte die UBS Mobile Banking App aus dem App Store runter, installieren Si e sie, und melden Sie mit Ihren Zugangsdaten an.
+
+Pause während Installation
+
+Speaker 1:Okay, die App ist installiert. Was jetzt?
+
+Speaker 2:Super. Gehen Sie ins Menü „Einstellungen“ und wählen „Zwei-Faktor-Authentifizierung einrichten“. Geben Sie Ihre Telefonnummer und eventuell E-Mail-Adresse ein.
+
+Spaeker 1: Hab' ich gemacht. Jetzt die App verschiedene Auhtentifizierungsmethoden. Welche soll ich wählen?
+
+Speaker 2:Am sichersten ist der des Codes per SMS. BestätigenSie die Aktivierung und aufden Code.
+
+Speaker 1:Okay, hab' den Code bekommen und eingegeben. Authentifizierug scheint erfolgreich.
+
+Speaker 2:Das freut mich zu öhren. Bei weiteren Login-Problemen oder Gerätverlust, stehen wir Ihnen zur Verfügung. Möchten Sie einen Termin für Philanthropie und Wohlt ätigkeitsinvestitionen festlegen?
+
+Speaker 1:hätte am 26. September um Uhr Zeit.
+
+Speaker 2:Perfekt, ich bestätige den Termin für den 26. September um 14 Uhr. Wir besprechen Ihre philanthropischen Interessen Investitionsmöglichkeiten. Klingt das gut?
+
+Speaker 1 Ja, danke. Ich bin neugieirg auf die der UBS Optimus Foundation und Donor-Advised Funds. Können Sie mir darüber vorab etwas erzählen?
+
+Speaker 2:Natürlich. Die UBS Optimus Foundation unterstützt Projekte in Gesundheit, Bildung und Schutz von Kindern weltewit. Mit DAFs können Sie steuerlich vorteilhaft Geld spende und es später an ausgewählte Organisationen verteilen. Möchten Sie Details zu einer dieser Optionen?
+
+Speaker 1:Es klingt positiv, aber wie effizient sind diese Organisationen wirklich? Ist der Verwaltungsaufgabe gerechtfertigt? Kann ich sicher sein, dass mein Geld richtig verwendet wird?
+
+Speaker 2:Ihre Skepsis ist verständlich. Bei der UBS Optimus Foundation legen iwr grossen Herz auf Transparenz. Projekte werden sorgfältig evaluiert und regelmässig berichtet. gibt unabhängige und detailliert eWirkungsanalysen. Möchten Sie konkrete Beispiele oder Berichte sehen?
+
+Speaker 2:Ja, knokrete Beispiele und wie die Verwalt ungskosten bei DAFs und Foundation aussehen.
+
+Speaker 2:Sicher. Ein Beispiel ist Aufbau von Schulen in armen Regionen, mit nachweisbaren Erfolgen. Verwaltungskosten halten wir niedrig, damit der Grossteil der Spenden direkt in Projekte fliesst. Ich bereite die Berichte für unser im September vor.
+
+Speaker 1:Klingt gut. Vieles zur Bildungsprojekte und Mittelverteilung bei DAFs.
+Speaker 2:Bern. Ich umfassende Infos für unser Treffen am 8. September um 14 Uhr vor. Falls weitere Fragen auftacuhen, kontaktieren Sie mich. Gibt es noch andere Anliegen vor unserem Meeting?
+
+Speaker 1:Nein, danke. Ich freue mich auf das Treffen.
+
+Speaker 2:Vielen Herr NAME. Ich mich auf unsere Meetings m 8. und 26. September. Falls zwischendurch Fragen entstehen, sind wir da. Alles Gute.
+
+Speaker 1:anke, bis dann!
+
+Speaker 2:Auf Wiedersehen, Herr NAME. Ich freue mich darauf, Sie bald wieder zu sprechen!

@@ -1,0 +1,18 @@
+[
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-23",
+      "contact_note": "Philanthropy & charitable giving \u2013 explore UBS Optimus Foundation or donor-advised funds.",
+      "channel": "Client office",
+      "duration_minutes": 60
+    }
+  },
+  {
+    "task_type": "update_kyc_purpose_of_businessrelation",
+    "parameters": {
+      "purpose_category": "investing & securities trading",
+      "details": "Client wants to invest for retirement."
+    }
+  }
+]

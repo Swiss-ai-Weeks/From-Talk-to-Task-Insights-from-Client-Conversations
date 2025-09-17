@@ -1,0 +1,39 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 2:Bonjour, je m'appelle NAME. J'ai quelques soucis bancaires à résoudre, dnt ma carte bloquée.
+
+Speaker 2:Bonjour, Monsieur NAME. Ici NAME1 de chez UBS. Je comprends vosi nquiétudes. Avant de pouvez-vous vérifier votre identité en me confirmant votre date de naissance et votre adresse, s'il vous plaît?
+
+Speaker 1:Ah, excuse z-moi, je voulais dire mettre à jourl e KYC pour le but de relation d'affaires, mais en fait, bien sûr,ma date de naissance est le DATE et mon adresse est ADDRESS.
+
+Speaker2 : Merci beaucoup. Très bien, nous allons commencer par votre carte bloquée. La vérification de sécurité a pu échouer à cause d'une saisie incorrecte du code PIN, des transactions suspectes, ou des de connexion depuis un endroit non reconnu. Pour débloquer votre carte, vous devrez vousr endre dans une de nos succursales pièce d'identité valide. [pause] Avez-vous des transactions inhabituelles récemment ?
+
+Speaker 1:Eh bien, acheté quelques trucs en ligne ces derniers jours, tout semblait normal et sécurisé. Ça pourrait venir de là?
+
+Speaker 2:C'est possible, effectivement. En attendant, pouvons vous proposer une virtuelle via notre application mobile ou d'utiliser un service comme TWINT pour vos paiements. De plus, quelle est l'adresse email que vous souhaitez utiliser pour les futures?
+
+Speaker 1:Oui, ça m'aider. Pouvez-vous mettre à jour mno adresse email à user1064@example.com?
+
+Speaker 2:C'est noté. Votre adresse email maintenant user1064@example.com dans notre système. Pour une solution de paiement temporaire, je vous enverrai des instructions par email pour configurer une carte virtuelle et utiliser TWINT.
+
+Speaker 1:Super, merci. Et pour le rendez-vous vidéo du 17 septembre 2025, c'est toujours bon? [pause] Je veux être prêt avec mes questions sur la philanthropie et les
+
+Speaker 2:Oui, le rendez-vous est confirmé pour discuter des dons philanthropiques, y compris les fonds conseillés par les donateurs et la Fondation UBS Optimus. Préparez bien vos questions et objectifs philanthropiques.
+
+Speaker 1:Parfait. Et concernant mes informations KYC, pourriez-vous les vérifier? suis actuellement Manager chez Company dans le secteur financier. Il y a aussi un nouvel investissement immobilier de 500,000 que je voudrais ajouter.
+
+Speaker 2:Merci pour les précisions. Alors, vos informations sont: statut d'emploi employé, fonction - Manager, employeur - Company 1, secteur - financier. Actifs diversifiés: 8,495,515 CUR1 comprenant des actifs immobiliers de 2,990,888 CUR1, des actifs liquides de 4,736,281 CUR1, et autres actifs de 851,363 CUR1. Je vais ajouter votre nouvel nivestissement de 500,000 CUR1 de suite.
+
+Speaker 1:Génial. [pause] Envoyez-moi une confirmation par email quand c'est fait, s'il vous plaît ?
+
+Speaker 2:Absolument. J evais également inclure les détails pour configurer la cartev irtuelle et utiliser TWINT. Pour éviter les blocages futurs, assurez-vous que vos informations de sécurité soient exactes, utilisez des réseaux sécurisés pour vos achats en ligne, et informez-nous pour les trnasactions inhabituelles.
+
+Speaker 1:Bien compris, merci pour les conesils. Une dernière chose, est-ce que toutes mes informations sont à jour?
+
+Speaker 2:Vos informations sont bien à jour, y compris v otre statut d'emploi, fonction, et employeur. Je vais envoyer un email cofnirmation avec toutes ces informations.
+
+Speaker 1:Merci beaucoup pour votre aide. Tout me semble très clair maintenant. J'attends votre email les instructions pour la cartevirtuelle et TWINT.
+
+Speaker 2:De r ien, Monsieur NAME. Je vais m'occuper de tout cela immédiatement. Si vous avez encore des questions ou des préoccupations, n'hésitez pas à me contacter. Passez une excellente journée.
+
+Speaker 1:Merci Bonne journée à vous

@@ -1,0 +1,47 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen. Ähm, hier ist NAME, ich hab da mal... so einige Probleme mit meinem dig italen Baking-Lgin. Sie mir da helfen?
+
+Speaker 2:Guten Morgen, Herr NAME. Ja, natürlich. Hier ist [Beratername] von der UBS. Wie geht es Ihnen denn heute?
+
+Speaker 1:Ja, gut... Soweit ganz gut. Ich hoffe, Sie können mir helfen.
+
+Speaker 2:Selbstverständlich. Bevor wir loslegen, könnte ich aus Sicherheitsgründen Ihr Geburtsdatum und Ihre Adresse bestätigen?
+
+Speaker 1:Ja, natürlich. Mein Geburtsdatum ist [Geburtsdatum] meine ist [Adresse].
+
+Speaker 2:Danke die Bestimmten Ihrer Daten, Herr NAME. Wie gen au sieht das Problem bei Ihrem digitalen anking-Login aus? Könnten Sie mir die oder den Fehlercode sagen, Sie bekommen?
+
+Speaker 1:Äh ja, ich krieg immer so eine Meldung Wes "Eingabe ungültig. Bitte versuchen Sie es erneut." Das passiert immer, wenn ich mein eingebe. Ich schwöre, das Passwort ist richtig. Hatte in der Verankerung nie Probleme. Vielleicht liegt'sa der Zwei-Faktor-Authentifizierung? Gab's da ein Update?
+
+Speaker 2:Ich verstehe, das kann Scher nervig sein. Lassen Sie uns das für Schritt durchgehen. Können Sie mir sagen, welches und welche Version der des Sie verwenden, um sich einzuloggen?
+
+Speaker 1:Ich benutze ein iPhone 12 mit der neuesten iOS-Version und Safari zum Einloggen. Bisher keine Probleme. Es kürzlich Updates der UBS-App. Könnte das Grund sein? Und wie kann ich dass ich Kommunikation nur noch per E-Mail bekomme? Meine neue E-Mail-Adresse möchte ich auch hinzufügen: 'user3871@example.com'.
+
+Speaker 2:Verstanden. Lassen Sie uns sicherstellen, dass Ihr weiterhinten sicher ist. Diese Updates können tatsächlich Änderungen an der Zwei-Faktor-Authentifizierung vorgenommen haben. Könnten Sie sicherstellen, dass die UBS-App die neueste Version hat?
+
+Speaker 1:Ja, habe ich schon gemacht.
+
+Speak er 2: Ok, perfekt. Versuchen Sie, sich erneut einzuoggen und achten Sie besonders auf die Authentifizierungsschritte. Wenn Sie weiterhin Probleme haben, könnten wir alternative Methoden zur Authentifizierung nutzen, wie ein einmaliges Passwort per SMS.
+
+Speak er 2: Ist ja so frustrierend... Ich bin mir sicher, mein Passwort ist Können Sie mir erklären, die KYC-Informationen und Dokumente so sind? Und könnten m meine E-Mail-Kommunikation bestätigen?
+
+Speaker 2:Natürlich. Die wichtig, um sicherzustellen, dass Ihr Konto den gesetzlichen Vorgaben entspricht und sicher Die Informationen über Ihre Vermögenswerte helfen uns, illegalen Aktivitäetn vorzubeugen und Ihre finanzielle Sicherheit zu gewährleisten.
+
+Speaker 1:Okay, verstanden.
+
+Speaker 2:Ich habe Ihre E-Mail-Adresse 'user381@example.com' in unserem System aktualisiert, und Ihre Präferenzen für E-Mail-Kommunikation notiert. Sie erhalten ab keine postalschen Nachrichten mehr.
+
+Speaker 1:Grossartig, danke. Das beruhigt
+
+Speaker 2:System verarbeiten... Ihren eingereichten Link (https://example.com/doc/4916) habe ich ebenfalls zur Validierung registriert.
+
+Speaker 1:Danke für die Hilfe.
+
+Speaker 2:Sehr gerne, Herr NAME. Falls das Zwei-Faktor-Problem weiterhin besteht, können wir sofort ein einmaliges Passwort per SMS einrichten und Ihr Konto für verdächtige Aktivitäten überwachen. Gibt es noch etwas, worüber Sie sprechen möchten?
+
+Speaker 1:Nein, das wäre es. Danke, dass Siesich darum kümmern.
+
+Speaker 2:Alles klar, Herr NAME. Ich wünsche Ihnen noch einen schönen Tag.
+
+Speaker 1:Danke, Ihnen auch. Auf Wiederhören.

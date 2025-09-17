@@ -1,0 +1,18 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, voudrais parler à quelqu'un d'UBS au sujet d'une charge sur mon compte que je ne reconnais pas.
+Speaker 2:Bonjour, Monsieur NAME, je suis NAME1 Comment allez-vous aujourd'hui? Pour des raisons de sécurité, pourriez-vous s'il vous plaît me confirmer votre date de naissance et votre adresse?
+Speaker 1:Oui, iben sûr. Ma date de naissance est le DATE et j'habite à ADDRESS.
+Speaker 2:Merci, Monsieur NAME. Allons, à propos de cette charge non reconnue, pouvez-vous dire de quel montant il s'agit et quand vous avez remarqué cete transaction?
+Speaker 1:Euh, oui, j'ai remarqué une charge de AMOUNT le DATE, et franchement, j'ignore complètement d'où ça vient.
+Speaker 2:Je comprends votreinquiétude, Monsieur NAME. Ne vous inquiétez pas, nous avons des processus pour cela. contester cette charge, vous devrez remplir un formulair de contestation disponible en ou via notre service client. notre équipe examinera la transaction et vous tiendra informé.
+Speaker 1:D'accord, Et vous recommandez de vérifier omn compte à quelle fréquence pour éviter d'autres surprises comme
+Speaker 1:Il serait idéal de le véifier une fois par semaine. nO offr eaussi alertes de compte et une authentification à deux facteurs pour plus de sécurité. eCs outils très pour surveiller vos comptes.
+Speaker 1:Oui, les alertes de compte, ça m'intéresse. Comment je fais pour les activer?
+Speaker 2:Pour activer les alertes, allez dans la section "Gérer les alertes" de notre application ou notre site web. Vous pouvez définir des alertes pour différents types de transactions, pour des montants spécifiques ou pour toute activité sur votre compte. Si vous avez des problèmes, notre service client peut vous aider.
+Speaker 1:Super, merci beaucoup. Ça me rassure de savoir tout ça. Et côté mesures de protection contre la fraude, qu'est-ce que vous avez en place?
+Speaker 2:Nous avons plusieurs mesures, comme surveillance continue des transactions, la détection proactive des anomalies et un système de vérification basé sur le comportement du compte. En cas de détection d'une activité suspecte, nous vous informons immédiatement.
+Speaker 1:Merci pour ces info C'est vraiment rassurant. J'apprécie votre aide et votre patience.
+Speaker 2:Je suis là pour vous aider. Y a-t-il autre que vous voudriez discuter aujourd'hui?
+Speaker 1:Non, c'est tout pour le moment. Encore merci et je vais suivre vos recommandations.
+Speaker 2:Parfait, Monsieur NAME. Passez une excellente et n'hésitez pas à nous contacter si vous avez d'autres questions.

@@ -1,0 +1,27 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Hallo, ich habe Probleme beim Einloggen in die digitale Bankplattform. Können Sie mir
+
+Speaker 2:Guten Morgen! Mein Name ist NAME1 von der UBS, äh, klar, kann ich Ihnen helfen. Könnten Sie mir bitte erst Ihr Geburtsdatum und Ihre zur Sicherheitsüberprüfung sagen?
+
+Speaker 1:Ja, mein ist der DATUM und meine Adersse lautet ADRESSE.
+
+Speaker 2:Alles klar, für die Können Sie mir genauer erklären, was Probleme Sie beim Einloggen haben? Sehen bestimmte Fehlermeldungen oder Verhalten?
+
+Speaker 1:Äh, ja, also ich versuche mich wie immer einzuloggen, aber jedes Mal, wenn ich meine Zugangsdaten eingebe, kriege ich eine Fehlermeldung. Ich glaube, da steht was wie "Ungültiger Benutzername oder Passwort". Bin mir sicher, dass ich die richtige Kombination benutze. Kann das ein technischer oder ein abgelaufenes Passwort sein? Zwei-Faktor-Authentifizierung hab ich auch, könnte das damit zusammenhängen?
+
+Speaker 1:Verstehen Ihre Verwirrung. Könnte mähere Gründe haben. Haben Sie Ihr Passwort kürzlich geändert? Die Fehlermeldnug "Ungültiger Benutzername oder Passwort" könnte bedeuten, dass das entweder falsch eingegeben wurde .Könnten Sie die Zugangsdaten nochmal prüfen?
+
+Speaker 1:Ich hab mein Passwort etwa drei Monaten geändert, sollte also noch gültig sein. Ich benutze denselben Benutzernamen, bin mir sicher, dass der stimmt. Zwei-Faktor-Authentifizierung ist auf demselben Gerät eingerichtet. es irgendwelche Einstellungen, die ich ändern k ann, oder Probleme bei euch?
+
+Speaker 2:Es scheint nicht an einem abgelaufenen Passwort oder neuen Geräten zu Erlauben Sie mir, ein paar Schritte durchzugen. Könnten Sie Caps Lock prüfen und schauen, ob keine Leerzeichen vor oder nach den Daten sind?
+
+Speaker 1:Caps Lock ist nicht an, keine Leerzeichen. Das Problem tritt nur bei der WebPlattform auf, nicht bei der mobilen App.
+
+Speaker 2:Dann könnte es an technischen Problemen liegen. Wir hatten kürzlih Updates auf der Plattform. Haben Sie ähnliche Probleme beim Online-Banking auf anderen bemerkt? Falls das Problem weiterhin besteht, könnten wir das Passwort zurücksetzen oder eine technische Untersuchung einleiten.
+
+Speaker 1:Caps Lock ist aus, keine Leerzeichen. Keine Probleme bei mobilen App, nur bei der Web-Plattform. Können Sie das Passwort zurücksetzen? Falls es nicht klappt, gern eine technische Untersuchung und alternative Zugangswege erklären.
+
+Speaker 2:Danke für Ihre Geduld.I ch werde jetzt das Passwort zurücksetzen und Ihnen eine E-Mail mit einem Passwort senden. Bitte ändern Sie es nach dem Einloggen. Falls das Problem weiter besteht, leite ich eine technische Untersu chung ein. Können Sie bestätigen, dass Sie die erhalten haben und sich einloggen konnten?
+
+Speaker 1:Hab die E- Mail bekommen und das Passwort benutzt, aber kann mich immer noch nicht einloggen. Können Sie bitte die technis che Untersuchung einleiten und mir alternative Zugangsmögichkeiten zu meiner Bankinformation erklären?

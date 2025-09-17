@@ -1,0 +1,20 @@
+[
+  {
+    "task_type": "update_kyc_activity"
+  },
+  {
+    "task_type": "update_contact_info_postal_address"
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-10-05",
+      "contact_note": "Alternative investments \u2013 discuss private markets, hedge funds, or real assets.",
+      "channel": "Client office",
+      "duration_minutes": 30
+    }
+  },
+  {
+    "task_type": "update_contact_info_non_postal"
+  }
+]

@@ -1,0 +1,46 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Sepaker 1: Guten Morgen, hier ist NAME1 von der UBS. rufe an, um über eine unerkannte Abbuchung zu sprechen, die auf Ihrem Konto aufgetret en ist. Können Sie mich gut hören?
+
+Speaker 2:Ja ich höre Sie. Um welche Abbuchung handelt es sich genau?
+
+pSeaker 1: Bevor wir fortfahren, könnte ich Sie bitten, Ihr und Ihre Adresse zur Sicherheitsüberprüfung zu bestätigen?
+
+Speaker 2:Äh, mein Geburtsdatum ist DATUM und meine Adresse ist ADRESSE.
+
+Speaker 1:Vielen Kurze Pause, System verarbeitet Die unerkannte Abbuchung, über die wir brechen, wurde am DATUM in Höhe vonAMOUNT bei MERCHANT festgestellen. Könnten Sie einige Ihrer letzten Transaktionen durchgehen und mir sagen, ob es Ihnen bekannt vorkommt?
+
+Speaker 2:Nein, diese Abbuchung ist mir völlig um bekannt. Ich habe alle meine letzten Transaktionen überprüft. Was passiert jetzt? Wie läuft der Streitprozess abund wie lange dauert das?
+
+Speaker 1:Um den Prozess zu starten, füllen wir ein Formular aus, in dem Sie die Abbuchung als unerkannte Transaktion Unsere leitet dann eine Untersuchung ein. Normalerweise dies einige Tage bis zu ein paar Wochen, je nach Fall. Während dieser Zeit sammeln wir alle Beweise und werten sie aus.
+
+Speaker 2:klingt veruhigend.Aber wie kann ich sicher sein, dass meine Daten nicht kompromittiert wurden? Könnte dies ein Hinweis auf eine Datenverletzung sein?
+
+Speaker 1:Um Ihr Konto zu schützen, ändern Sie Ihr Passwort un aktualisieren Sie Ihre Sicherheitsfragen. Sie können Alarmbenachrichtigungen für jede neue Transaktion einrichten. Möchten Sie, dass ich Ihnen dabei helfe?
+
+Speaker 2:Ja, das wäre grossartig. Welche Optionen ich bei den Benachrichtigun gen, und wie richte ich sie ein?
+
+Speaker 1:Wir bieten Benachrichtigungen per SMS oer E-Mail an. Sie für jede neue Transaktion, Transaktionen einen bestimmten Betrag verdächtige Aktivitäten einrichten. Loggen Sie sich ins Online-Banking-Portal ein gehen Sie zu den Sicherheitseinstellungen. Ich kann Ihnen gerne Schritt für Schritt helfen. Tippt auf Tastatur
+
+Speaker 2:Das klingt nach einem guten Plan. Aber eine Frage zur Bin ich verantwortli ch für diese unerkannte Abbuchung, wenn sich herausstellt, dass es Betrug war?
+
+:1 Nein, Sie sind nicht verantwortlich für unbefugte Transaktionen. Unsere deckt solche Fälle ab, sobald Betrug bestätigt ist. Sie werden nicht finanziell belastet. Sollten wir die Benachrichtigungen jetzt einrichten?
+
+Speaker 2:Ja, bitte. Ich möchte sofort informiert werden, etwas verdächtiges passiert. Aber wie sicher sind diese Benachrichtigungen? Könnten sie zu spät ausgelöst werden?
+
+Speaker 1:Die sind sehr zuverlässig und werden in Echtzeit gesendet. Es gibt Ausnahmen, aber diese sind unüblich. Falls eine Benachrichtigung durchkommt und es nicht Betrug handelt, können Sie die Transatkion im Konto überprüfen und bestätigen.
+
+Speaker 2:Das klingt gut. Und was, wenn ich eine Benachrichtigung verpasse oder nicht schnell reagieren
+Speaker 1:Wenn Sie eine Benachrichtigung verpassen, überwacht unser Betrugsüberwachungssystem Ihr Konto kontinuierlich und unser Team übe rprüft automatisch verdächtige Es ist auch gut, regelmässig Ihr Passwort zu ändern und die Sicherheitsfragen zu aktualisieren.
+
+Speaker 2:Verstanden. Können jetzt die Benachrichtigungen einrichten?
+
+Speaker 1:Natürlich. Loggen Sie sich bitte ein. Kurze Pause, System verarbeitet Sobald Sie eingeloggt sind, gehen Sie zu den Einstellungen und dann zu de Sicherheitsoptionen. Dort können Sie die Benachrichtigungen konfigurieren. Gibt es noch andere Fragen, die Sie haben?
+
+Speaker 2:Nein, daswäre alles für jetztz, danke.
+
+Speaker 1:Gut, ihc stelle sicher, dass alles eingerichtet wird und ich bin jederzeit erreichbar, falls etwas passiert. Ich dass dieser Vorfall schnell geklärt wird.
+
+Speaker 2:Fielen Dank für Ihre Hilfe. Ich hoffe auch, dass alles schnell gelöst wird. Au f Wiederhören.
+
+Speaker 2:Auf Wiederhören.

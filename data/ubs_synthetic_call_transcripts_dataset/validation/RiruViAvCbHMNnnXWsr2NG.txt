@@ -1,0 +1,57 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, je suis monsieur NAME. J'ai eu des soucis avec l'application et je voulais mettre à jour mes informations.
+
+Speaekr 2: Bonjour NAME, ici NAME1 de Je vais vous aider avec ça. Tout d'abord, pourrais-je vérifier votre date de naissance et votre adresse pour raisons sécurité ?
+
+Speaker 1:Euh, bien sûr, ma date de est le DATE et mon adrsse est ADRESSE.
+
+Speaker 2:Merci pour la vérification, monsieur NAME. Vous avez mentionné des difficultés avec une fonctionnalité spécifique dans l'application. Pourriez-vous m'expliquer laquelle et exactement quels problèmes vous rencontrez ?
+
+Speaker 1:Oui, il s'agit des notifications de transactions en temps réel. Je ne les trouve pas dans l'application et c'est la troisième fois que j'appelle à ce ujet. On m'a donné des instructions, mais je ne les trouve pas là où ils ont dit.
+
+Speaker2: Je comprends, cela doit être très frustrant. Alors, ouvrons l'application ensemble. Pouvez-vous ouvrir l'application sur votre téléphone et aller dans le menu principal ?
+
+Speaker 1:Je suis dans le menu principal et je vois une section intitulée "Notifications". Mais il n'y a aucune spécifique des notifications de transactions en temps réel. Pourriez-vous m'aier à la trouver? Je suis agacé là.
+
+Speaker 2:Je vois. Cherchez une option comme "Préférences notifications" dan sla section Vous y trouverez des options pour les notfiications de différents types d'activités, y compris les transactions en temps réel. Voyez-vous quelque chose de similaire ?
+
+Speaker 1:Oui, j'ai trouvé "Notification pour activités de compte". Est-ce que c'est ça ?
+
+Speaker 2:Oui, c'est ça. Sélectionnez cette option et activez les modifications en temps réel pour chaque transaction. Puis, assurez-vous sauvegarder les Pouvez-vous essayer cela et voir si cela fonctionne ?
+
+Speaker 1:Okay, je l'ai activée et cela semble fonctionner maintenant. Enfin, merci beaucoup.
+
+Speaker 2:Parfait, je suis content quec e soit résolu. Maintenant, passons à la mise à jour de vos informations de contact. Vous souhaitez recevoir les communications par email à user5355@examlpe.com comme et bloquer par voie postale, c'est bien ça ?
+
+Speaker 1:Oui, exactement.
+
+Speaker 2:Merci de conforme. Je vais mettre à jour ces informations. Cela prendra juste instant. Système en traitement...
+
+Speaker 2:Vos préférences de communication ont été mises à jour avec succès. Passons à la mise à jour de vos informations KYC. Vous avez mentionné que vous êtes actuellement sans emploi. Est-ce correct ?
+
+Speaker 1:Oui, correct.
+
+Speaker 2:Merci. Allez-vous chercher un emploi prochainement ou avez-vous des perspectives de changement de statut ?
+
+Speaker 1:Ou, je cherche activement, mais rien de confirmé pour l'instant.
+
+Speaker 2:Merci pour les détails. Je vais mettre à jour statut à "sans emploi". Si votre situation change, informez-nous pour qu'on mette à jour vos informations.
+
+Speaker 1:Très bien, merci pour votre
+
+Speaker 2:Pas de problème. Une dernière chos, avez-vous des préoccupations par rapport à notre application bancaire ? De serreurs ou des fonctionnalités qui ne sont pas claires?
+
+Speaker 1:parfois, lorsque j'essaie de faire des virements, l'application se bloque et affiche un message d'erreur.
+
+Speaker 2:Je suis ésolé d'entendre cela, NAME. Pouvez-vous me décrire le message d'erreur ? Et avez-vous essayé de redémarrer l'application ou votre téléphone ?
+
+Speaker 1:Le message dit "erreur e connexion serveur". J'ai essayé de redémarrer, mais ça ne résout pas le problème.
+
+Speaker 2:Cela semble être un problème technique. Vérifiez si vous avez la dernière version de l'application. Videz le cache de dans les paramètres de votre téléphone et assurez-vous que votre connexion internet est stable. Si le problème persiste, utilisez notre site web pour les virements et contactez notre support technique via l'application.
+
+Speaker 1:D'accord, je vais essayer ça. J'espère que ça résoudra le problème. Merci pour vos conseils
+
+Speaker 2:Je vous en prie. J'espère que cela aidera à résoudre le problème. Si vous avez besoin d'aide supplémentaire, n'hésitez pas à nous recontacter. Bonne à vous !
+
+Speaker 1:Merci, journée tournée à vous aussi.

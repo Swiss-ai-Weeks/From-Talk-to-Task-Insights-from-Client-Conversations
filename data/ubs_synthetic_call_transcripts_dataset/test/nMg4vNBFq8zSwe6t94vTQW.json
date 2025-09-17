@@ -1,0 +1,27 @@
+[
+  {
+    "task_type": "update_kyc_total_assets"
+  },
+  {
+    "task_type": "schedule_meeting",
+    "parameters": {
+      "date": "2025-09-08",
+      "time": "14:00"
+    }
+  },
+  {
+    "task_type": "update_kyc_activity"
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-19",
+      "contact_note": "Mortgage or credit facility \u2013 discuss financing for real estate, yachts, art, or business purposes.",
+      "channel": "In-person at branch",
+      "duration_minutes": 45
+    }
+  },
+  {
+    "task_type": "update_contact_info_postal_address"
+  }
+]

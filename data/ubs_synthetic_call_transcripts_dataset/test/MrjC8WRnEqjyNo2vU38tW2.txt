@@ -1,0 +1,41 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen. Name ist NAME, und ich wohne in [ADRESSE]. Ich habe hier einen Anruf von NAME1 von der UBS bezüglich meiner digitalen Banking-Anforderungen. Habe ich das verstanden?
+
+Speaker 2:Guten Morgen, NAME. Ja, genau, ich bin NAME1 von der UBS. Ich wollte mti Ihnen über Ihre digitalen Banking-Anforderungen sprechen und wie wir diese verbessern können. Bevor wir weitergehen, könnte Sie aus Sicherheitsgründen bitten, Ihr Geburtsdatum zu bestätigen?
+
+Speaker 1:Klar, mein Geburtsdatum ist [DATUM]. Was genau wollen Sie mit mir besprechen?
+
+Speaker 2:Vielen Dank für die Bestätigung, eHrr NAME. Ich freue mich, dass Sie sich Zeit genommen haben. Könnten Sie mir genauer erläutern, welches Featur eIhnen fehlt und warum es so wichtig für Ihre täglichen ist?
+
+Speaker 1:Ja, äh, also, das Problem ist die Echtzeitaktualisierung von Ich mache oft mehrere Zahlungen und Überweisungen an einem Tag, und ohne sofortige Aktualisierung wird es schweig für mich, meinen Kontostand in Echtzeit überwachen. Das führt z Unebersichtlickheit und zu einem gewissen Stress, weil ich Sorge Überblick zu verlieren.
+
+Speaker 2:Oh, ja, das verstehe ich gut. Ich kann nachvollziehen, wie frustrierend sein muss, die Echtzeitaktualisierung nicht haben, besonders bei mehreren täglichen Transaktionen. Leider muss ich Ihnenmitteilen, dass diese Funktion aktue ll nicht verfügbar ist. pause
+
+Speaker 2:Aber lassen Sie uns gemeinsam einige Alternativen betrachten. Zum Beispiel könnten Sie Alerts für eingehende und ausgehende einrichten, um benachrichtigt zu werden. Ausserdem bietet unsere digitale Plattform eine detaillierte Übersicht der letzten Transaktione n, die mehrmals am Tag aktualisiert widr, wenn auch nicht in Echtzeit.
+
+Speaker 1:Alerts könnten tatsachlich helfen, ja. Und diese Übersicht wäre auch ilfreich, wenn es regelmässig aktualisiert wird. Können Sie sicherstellen, dass mein Feedback bezüglich der Echtzeitaktualisierung an das Entwicklungszahn weitergeleitet
+
+Speaker 2:Selbstverständlich, Herr NAME. Ihr Feedback ist sehr wichtig für uns. Unser Team arbeitet stets daran, neue Funktionen zu entwickeln und bestehende zu verbessern. Ich werde Ihre Anfrage an unser Entwicklungsteam weiterleiten. System processing...
+
+Speaker 2:Wie können wir Ihr digitales Bankerlebnis sonst noch verbessern? Ihre Meinung hilft uns, den Service besser auf Ihre Bedürfnisse abzustimmen.
+
+Speaker 1:Ich würde gerne mehr über die digitalen Banking-Fähigkeiten der UBS erfahren und ob es anstehende Updates oder neue Features gibt. Acuh interessiert mich, wie schnell solche Implementierungen üblicherweise dauern. wie werden Kundeneingaben in den Entwicklngsprozess einbezogen?
+
+Speaker 2:gerne, Herr NAME. Wir legen grossen Wert auf die digitale Weiterentwicklung und sammeln kontinuierlich Feedback von unseren Kunden. Jede Anfrage wird geprüft und je nach Dringlichkeit priorisiert. Der Implementierungsprozess unterschiedlich lange dauern, je nach Komplexität der gewünschten Funktion.
+
+Speaker 1:Okay, das klinkt gut. Und wie steht es um die Sicherheit der Plattform, speziell wenn neue Features hinzugefügt werden? Sicherheit ist für mich sehr wichtg.
+
+Speaker 2:Sicherheit hat bei uns Priorität. Wir investieren kontinuierlich in moderne Sicherheitsmassnahmen und Technologien, um Ihre Daten zu Dazu gehören Vershlüsselungsmethoden, regelmässige Sicherheitstests und Mehrfaktor-Authentiizierung.
+
+Speaker 1:Das ist beruhigend zu hören. es Pläne, die Benutzerfreundlichkeit der Plattform, etwa die Navigation oder die Itneraktionen, weiter zu verbessern?
+
+Speaker 2:Ja, unsere Entwickler abreiten ständig daran, die Benutzerfreundlichkeit zu verbessern. Es wird regelmässig aktualisierte Benutzeroberflächen geben, die eine intuitivere Bedienung ermöglichen.
+
+Speaker 1:Vielen Dank für a ll diese Informationen, NAME1. Ich freue dass mein Feedback ernst genommen wird.
+
+Speaker 2:Gerne, Herr NAME. Ihre Anregungen sind sehr wertvoll für uns. Falls Sie weitere Fragen o der Anliegen haben, zögern Sie nicht, sich bei uns zu melden.
+
+Speaker 1:Herzlichen Dank, machen Sie es gut.
+
+Speaker 2:Sie auch, Herr NAME. Einen schönen Tag noch.

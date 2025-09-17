@@ -1,0 +1,59 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, hier spricht NAME1 von UBS. Ich rufe an, um über Ihre Erfahrungen mit unserem digitalen Banking zu sprechen und, ähm, mögliche Verbesserungen zu diskutieren. Es freut mich, dass wir heute miteinander reden können. Wie geht es Ihnen? Bevor wir fortfahren, könnte ich Sie bitte bitten, Ihr Geburtsdatum und Ihre Adresse zu bestätigen, äh, für Sicherheitszwecke?
+
+Speaker 2:guten Morgen. Mein Geburtsdatum ist DATUM und meine Adresse ist ADRESSE.
+
+Speaker 1:Alls klar, vielen Dank. Jetzt, da wir die Sicherheitsüberprüfung abgeschlossen haben, äh, könnten Sie mir ein bisschen erzählen, wie Ihre Erfahrungen mit dem digitalen Banking unserer Bank bisher sind? Gibt es irgendwelche Funktionen oder Aspekte, di eIhnen besonders gefallen od er die Ihrer Meinung verbessert werden sollten?
+
+Speaker 2:Insgesamt Biene ich wirklich zufrieden mit dem digitalen Banking, abre es gibt eine spezifische Funktion, die ich einfach nicht finden konnte. Ich muss oftgrosse Mengen Transaktionen verwalten und habegesehen, dassandere Banken eine Möglichkeit bieten, automatische Berichte generieren und sofort herunter zuladen. es sowas bei Ihnen oder ist das vielleicht in der Entwicklung?
+
+Speaker 1:Vielen Dank für Ihr Feedback. Ich verstehe Ihre Dringlichkeit bezüglich der fehlenden Berichterstellungsfunktion. Momentan bieten wir diese spezielle automatische Berichterstellung nicht an, aber wir arbeiten dran. Es könnte bald ein Abdate diesbezüglich
+
+Speaker 2:O h, das äwre toll!
+
+Speaker 1:Bis dahin könnte ich Ihnen vielleicht weiterhefen, indem ich andere vorhandene Funktionen vorstelle, die eventuell hre Bdeürfnisse unterstützen könnten. Zum Beispiel, ähm, haben wir Möglichkeit, manuell Berichte zu und herunterzuladen. Ausserdem haben wir einige Updates durchgeführt, di eIhnen helfen könnten, Ihre Transaktionen effizienter zu verwalten.
+
+Speaker 2:Ja, ähm, die Berichte, die ich erstelle, oft spezifische Kategorien und Zeiträume ab. ist wirklich wichtig, dass ich diese Berichte schnell und e ffizient generieren kann. Manuelle Erstellung und Download sind zwar hilfreich, aber eben nicht ideal wegen der Zeit, die das kostet. Wissen Sie, ob es bald Updates geben könnte, die diese Prozesse Und gibt es andere Funktionen, die vielleicht nutzen könnte?
+
+Speaker 2:Ich ähm, die Dringlichkeit IhrerAngabe und möchte Ihnen gerne zusätzliche Informationen den bevorstehenden Updates geben. Unsere Entwickler arbeiten gerade an der Funktion zur automatischen Berichtserstellung, und es ist geplant, dass dieses Update bis Ende nächsten verfügbar sein wird. Diese neue Funktion wird es Ihnen ermöglichen, Transaktionsberichte nach individuell festgelegten Kriterien und Zeiträumen automatisch zu generieren und sofort herunterzuladen.
+
+Speaker 2:Das kli ngt super!
+
+Speaker 1:In könnte ich Ihnen einige andere hilfreiche Funktionen unserer digiatln Plattform vorstellen. Zum Beisp iel bieten wir Möglichkeit, benutzerdefinierte Transaktionskategorien zu erstellen und zu A usserdem können Sie Filter für Ihre Transaktionen setzen und diese nachIhren spezifischen Anforderungen exportieren.
+
+Speaker 2:Aha...
+
+Speaker 1:Es gibt auch eine Funktion zur Einrichtung von Benachrichtigungen für bestimmte Transaktionen oder Schwellenwerte, die Ihnen helfen könnten, Ihre Finanzverwaltung noch effizienter zu gestalten. Ich empfehle Ihnen auch, regelmässig unserer Ankündigungen zu überprüfen, da wir kontinuierlich an neuen Verbesserungen arbeiten.
+
+Speaker 2:Danke für die ausführlichen Informationen. Sie mir genauer erklären, ich diese benutzerdefinierten erstellen und verwalten kann? Ich habe nämlich versuch,t dies über das Online-Portal zu machen, aber es schien keine Option zu geben. Diese Funktionwürde mir echt helfen, meine Finanzverwaltung zu optimieren, wehrend ich auf das Update zur automatischen Berichterstellung warte. Und die Benachrichtigungsfunktionen, wie aktivieren die sich ud wie kann ich dieauf meine Anforderungen anpassen?
+
+Speaker 1:Vie Dank für Ihre Geduld und die detaillierten Fragen. Lassen Sie mich Ihnenzuerst erklären, Sie benutzerdefinierte Tarnsaktionskategorien erstellen und verwalten können:
+
+- Melden Sie sich unserer Online-Plattform an.
+- Gehen Sie zu den "Transaktionen".
+- Wählen Sie eine Transaktion aus und klicken Sie auf "Kategorie bearbeiten".
+- Hier können Sie eine neue benutzerdefinierte Kategorie hinzufügen und die Transaktion entsprechend der neuen Kategorie organisieren.
+
+Speaker 2:Okay...
+
+Speaker 1:Und zur Verwaltung der Kategorien:
+
+- "Einstellungen" finden Option für "Kategorien verwalten".
+- Sie können vorhandene bearbeiten, neue hinzufügen oder nicht mehr benötigte Kategorien löschen.
+
+Und ewgen den Benachrichtigungen :
+
+- Gehen Sie zu den "Benachrichtigungen" in Ihnen Online-Portal.
+- Legen Sie hier verschiedene Benachrichtigungskriterien fest, wie z.B. spezifische Transaktionen oder Schwellenwerte.
+- Diese Benachrichtigungen könenn per Push-Nachricht, SMS oder E-Mail kommen, je nachdem, was Ihnen am besten passt.
+
+Speaker 2:Das klingt gut.
+
+Speaker 1:Ich hoffe, dass diese Lösungen Ihnen helfen werden, Ihre Finanzverwaltung bis zur Implementierung der neuen Funktion zu optimieren. Falls Sie weitere Fragen haben oder zusätzliche Unterstützung benötigen, zögern Sie bitte nicht, uns zu kontaktieren. Wir arbeiten kontinuierlich an Verbesserungen und neuen Funktionen. Ihr Feedback ist dabei entscheidend.
+
+Speaker 2:Vielen Dank, das hilft mir wirklich weiter. Ich werde die Optionen durchsehen. Und ja, ich werde regelmässig nach updates schauen.
+
+Speaker 1:Sie daran, dass Sie immer auf unsere neuesten Updates achten knönen, da wir kontinui erlich an Verbesserungen und neuen Funktion Ihr Feedback ist entscheidend, um unseren Service zu optimieren. kontaktieren Sie uns jederzeit, Sie zusätzliche Unterstützung oder Informationen Vielen Dank für Ihre Geduld und Ihr Verständnis. Ich wünsche Ihnen einen erfolgreichen freue mich darauf, Ihnen neue automatische Berichtsfunktion vorstellen z ukönnen.
+
+Speaker 2:gleichfalls.

@@ -1,0 +1,18 @@
+[
+  {
+    "task_type": "schedule_meeting",
+    "parameters": {
+      "date": "2025-09-08",
+      "time": "14:00"
+    }
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-26",
+      "contact_note": "Philanthropy & charitable giving \u2013 explore UBS Optimus Foundation or donor-advised funds.",
+      "channel": "Client office",
+      "duration_minutes": 30
+    }
+  }
+]

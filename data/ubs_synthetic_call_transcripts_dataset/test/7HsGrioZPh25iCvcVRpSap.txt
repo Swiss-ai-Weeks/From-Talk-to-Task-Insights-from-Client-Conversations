@@ -1,0 +1,33 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, euh, j'ai des soucis avec votre de banque
+Speaker 2:Bonjour Mons ieur NAME. Ici N AME1 de UBS, euh, je vous appelle pour discuter des problèmes vous avez rencontrés avec notre système. Mais avant de commencer, pourriez-vous confirmer votre date de naissance et votre adresse pour des raisons de sécurité?
+Speaker 1:Oui, bien sûr. Ma date de naissance est le DATE et mon adresse est ADDRESS.
+Speaker 2:Merci beaucoup, Monsieur NAME. Je bien votre frustration avec cette situation. Pouvez-vous me décrire exactement ce qui se passe quand vous essayez de vous connecter? Quels messages d'erreur vous avez reçus? Et aussi, sr quels appareils et navigateurs vous avez tenté de vous connecter?
+Speaker :1 Alors, j'ai essayé deme connecter sur mon ordinateur portable avec Google Chrome. Toujours le même mélange d'erreur "Accès refusé". J'ai déjà essayé de vider le cache du navigateur, de réinstaller l'application... mais ça marche toujours pas. Et c'ets sur mon téléphone avec l'application mobile, une erreur similaire. Peu importe l'heure de la journée ou si ma connexion Internet est stable ou non. Ça devient inquiétant, pourrait être un problème de sécurité ou une intrusion dans mon compte. Oh, et avez-vous ouvert une demand de support pour ce problème? Y a-t-il eudes mises à jour récemment?
+Speaker 2:Merci pour ces détails, Monsieur NAME. Je vois bien que ces problèmes sont persistants malgré vos essais. On va d'abord faire une analyse de sécurité pour vérifier que votre compte pas été compromis. Depuis quand exactement ces problèmes de connexion ont-ils commencé?
+
+System
+
+Speaker 1:Ça a commencé il y a environ une semaine. il y a eu une mise à jour de l'appli mobile il y a quelques jours. Ça pourrait être qui cause ces erreurs, non?
+Speaker 1:Hmm, c'est possible que la mise à ait causé ces erreurs. Malheureusement, revenir à version précédente de l'appli n’est pas possible dans notre système actuel. Ce je vais faire, c'est signaler ce problème à notre équipe technique tout de
+
+On hold for 2 minutes
+
+Speaker 2:Voilà, j'a i créé un nouveau ticket de support technique vous. Le numéro de référence est REFXXXX. Vous pouvez utiliser ce numéro pour suivre le statut de votre demande. En attendant, vous essayer l'accès par notre service de banque par téléphone pour vos opérations essentielles. Je vais aussi vérifier si un ticket précédent a été créé et vous informer.
+
+System rpocessing...
+
+Speaker 2:Monsieur NAME, après vérification, aucun ticket n'a été créé. donc émis un nouveau ticket avec priorité élevée donc REFXXXX.
+
+Nous également contacter directement l'équipe technique en charge des mises à Ils vont analyser si la mise à jour récente est la cause des erreurs de connexion. Ils travaillent sur une solution optimale pour que vous puissiez accéder à vos comptes sans interruption, dès que possible.
+
+Je comprends bien que ça peut être frustrant et stressant. Je assure q ue mettons tout en œuvre pour sécuriser votre compte résoudre ce problème rapidement. En attendant, n'hésitez pas à utiliser notre service de banque par téléphone au numéro SPÉCIFIQUE ou visiter les pages d'aide sur notre Web.
+
+Est-ce que je peux vérifier autre chose pour rouge pendant qu'on attend résolution du problème technique?
+Speaker 1:Merci pour votre aide, même si, vraiment, c'est agaçant. Combien de temps ça va prendre pour ressort ce problème? J'ai besoin d'un accès rapide à mes comptes pour des transactions urgentes. Est-il possible d'obtenir une estimation du temps nécessaire ou des mises jour régulières?
+Speaker 2:Je comprends votre frustration, Monsieur C'est difficile de donner une estimation précise sans 'équipe technique ait évalué le problème en entier. Mais j'ai indiqué l'urgence devotre situation dans le ticket et demandé une résolution rapie.
+
+recevrez des mises à jour par e-mail ou tlééphone. En ant, utilisez le service de banque par téléphone au numéro SPÉCIFIQUE pour vos transactions urgentes.
+
+Si vus avez 'dautres questions ou besoin d'aide pour autre chose, je suis là. Merci pour votre patience et compréhension.

@@ -1,0 +1,51 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonojur, c'est M. NAME. J'ai des soucis pour me connecter à ma plateforme bancaire. C'est très frustrant.
+
+Speaker 2:Bonjour Monsieur NAME, ici NAME2 de UBS. Comment allez-vous aujourd'hui ? On va de résoudre ça ensemble. Pour commencer, pourriez-vous me confirmer votre date de naissance et adresse pour la sécurité ?
+
+Speaker 1:Oui, ma date de naissance est le DATE et mon adresse est ADDRESS.
+
+Speaker 2:Merci de confirmer ces informations, M. NAME. Parlez-moi un peu des étapes que vous avez pour vous connecter et des erreurs que vous avez rencontrées. Tout détail aiderait.
+
+Speaker 1:Eh bien, j'ai essayé de me connecter avec mon nom d'utilisateur et monmot de passe... pleurs fois. Maisje reçois des messages d'erreur comme mon mot de passe est incorrect ou que mon compte est bloqué. Çad evient vraiment exaspérant.
+
+Speaker 2:Je comprends, c'est vaiment Commençons par vérifier votre mot de passe. que verrouillage des majuscules... euh, le Caps Lock, est désactivé et l'orthographe est correcte. Pouvez-vous essayer de votre mot de passe avec l'option "Mot de passe oublié" sur la page de connexion ?
+
+Speakre 1: Oui, j'ai déjà vérifié tout ça, désactivé le Caps Lock... J'ai même essayé de réinitialiser plusieurs fois, mais rien ne marche. Le système continue de me dire que mon est bloqué ou de renvoyer erreurs. Pouvez-vous vérifier mon compte a été compromis ?
+
+Speak er 2: Je comprends vos craintes, et je vais vérifier ça tout de suite. Avez-vous reçu des notifications ou alertes de sécurité de notre part récemment ?
+
+Speaker 1:Non, rien d'inhabituel. Mais je suis vraiment inquiet que mon compte ait été compromis. Pouvez-Fous vérifier cela ?
+
+Pause pendant que le conseiller vérifie les informations...
+
+Speaker 2:Merci de patienter, M. NAME. Votre compte ne sembl pas compromis mais il est effectivement bloqué suite aux de connexion infructueuses. Nous avons des protocoles stricts pour.. uh, protéger vos données. Nous allons le débloquer maintenant et renforcer la sécurité.
+
+Speaker 2:Et comment mettre à jour mon adresse postale ?
+
+Speaker 2:Pouvez-vous confirmer votre adresse actuelle pour que je vérifie et mette à jour notre système
+
+Speaker 1:D'accord, c'est ADDRESS, 3900, Brig, Valais.
+
+Speaker 1:Parfait. Votre adresse est mise à jour. Maintenant, concernant l'authentification à double facteur, cela nécessite un code unique en plus de votre mot de passe. Pouvez-vous configurer ça ?
+
+Speaker 1:Oh, ça a l'air bien. Je préfère recevoir le code par SMS. J'utilise un téléphone Android, compatible ?
+
+Speaker 2:Oui, c'est compatible. Suivez ces étapes: connectez-vous, allez aux paramètres de sécurité, choisissez l'option de réception du code par SMS, entrez votre numéro de téléphone NUMERO et validez.
+
+Speaker 1:Mon numéro de téléphone est NUMERO. Combien de temps faut-il pour que le changement de numéro soit pris en compte ?
+
+Speaker 2:C'est immédiat une fois mis à jour. Si vous perdez appareil ou changez de numéro, vous devrez mettre à jour cela immédiatement. Vous pouvez aussi une adresse e-mail pour récupérer l'accès.
+
+Speaker 1:Et pour notre réunion du 9 septembre 2025 à 14h00, qu'est-ce que je dois reparé ?
+
+Speaker 2:Préparez vos relevés de compte, l'historique de vos et investissemnets, et toux question concernant vos objections de retraite. Nous allons aborder la sécurité de vos informations et investissements en profondeur.
+
+Speaker 1:Parfait, je vais préparer tout ça. Merci pour votre assistance.
+
+Speaker 2:Nous vous des rappels automatiques. Si vous avez des questions avan tla réunion, à contacter. Merci, M. NAME, passez une excellente
+
+Speaker 1:Merci au revoir.
+
+Speaker 2:Au revoir, Monsieur.

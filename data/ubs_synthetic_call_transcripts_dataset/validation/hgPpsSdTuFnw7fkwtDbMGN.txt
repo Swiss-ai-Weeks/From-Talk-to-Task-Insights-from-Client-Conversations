@@ -1,0 +1,53 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, ici NAME. J'ai reçu un appe l sur la limite de ma carte de banque UBS.
+
+Speaker 2:Bonjour, Monsieur NAME. nouscontacter. On va voir ça ensemble. D'abord, pour des raisons de sécurité, puis-je vous demander de confirmer votre date de naissance et votre adress actuelle ?
+
+Speaker 1:Oui, bien sûr. Ma date de naissance est DATE et mon adresse actuelle est ADRESSE.
+
+Speaker 2:Ah, excuser cette confusons, je crois que j'a i mentionné quelque sur la mise à jour de votre profil KYC. Revenons à nos moutons. Merci. Vos informations sécurité sont confirmées.A lors, vous avez atteint la limite de votre carte de manière inattendue. Pouvez-vous dire transactions récentes que vous avez effectuées
+
+Speaker 1:Oui, j'ai vérifié et il semble que plusieurs paiements pour des achats en ligne et des réservations de voyage ont contribué à atteindre la limite. C'était vraiment inattendu, et j'ai des dépenses importantes à venir. Est-il possible temporairement ma limite de carte pour couvrir ces dépenses? Quelles sont les étapes à
+
+Speaker 2:Je comprends. Permettez-moi de vérifier quelques points. Selon nos registres, votre limite de carte actuelle est de AMOUN CHF, principalement atteinte à cause des paiements en ligne et des réservations de voyage. Nous pouvons envisager d'augmenter cette limite. Nous aurons besoin de quelques supplémentaires. Pouvez-vous me donner plus de sur dépenses à venir et la durée de cette augmentation temporaire ?
+
+Speaker 1:Je ne suis pas sûr des détails exacts, mais j'ai des voyages et des achats prévus. Est-ce qu'il y a des spécifiques pourc ette augmentation temporaire?
+
+Speaker 2:Oui, il courir y avoir des frais associés, je vais vérifier les détails exacts pour vous. Quant la durée, une fois la période d'augmentation temporaire terminée, votre limite reviendra automatiquementà son niveau initial.
+
+Speaker 1:D'accord. Pouvez-vous me réexpliquer les critères et le processus pour obtenir cette augmentation temporaire de la limite de ma carte?
+
+Speaker 2:Bien sûr. Nous évalur votre capacité de remboursement et l'historique de vos Ensuite, nous vérfierons rfais sp écifiques selon la durée et le montant demandé. Une fois les frais acceptés, la modi fication sera généralement effective sous 24 à 48 heures. Je vais vérifier les détails des frais pour vous et reviendrai avec plus d'informations.
+
+Speaker 1:Je comprends mieux Allez-y et vérifiez les frêts exacts. Aussi, comment puis-je éviter que ce genre de situation ne se reproduise à l'avenir?
+
+Speaker 2:Pour éviter votre limite à l'avenir, je recommande de surveiller régulièrement vos transactions et votre solde via notre application bancaire. Mettre en place des alertes pour les transactions importantes peut être aussi Voulez-vous que nous en place ces notifications manitenant ?
+
+Speaker 1:Oui, mettez en place les notifications, ça m'aiderait beaucoup. Et pourriez-vous aussi vérifier et confirmer les frais pour l'augmentation temporaire de ma limite de carte?
+
+System processing...
+
+Speaker 2:J'ai en place les notifications pour vos transactions importantes. Concernant les frais pour l'augmentation temporaire de votre limite de carte, je vais vérifier tout de suite et vous informer dès que possible.
+
+Speaker 1:Super, merci. J'ai une mise à our pour mon adresse. Pouvez-vous noter REGION_9050, Appenzell, Appenzell Innerrhoden avec l'identifiant de résidence 53 ?
+
+Speaker 2:Certainement, Monsieur NAME. Nous allons mettre à jour votre adresse postale à REGION_9050, Appenzell, Appenzell Innerrhoden, avec l'identifiant de résidence 53. En ce qui oncerne la réunion préfus pour le septembre 2025 pour discuter de l'alignement de votre portefeuille avec vos préférences ESG, êtes-vous toujours disponible?
+
+Speaker 1:Oui, cela me convient, mais dois-je me préparer de manière particulière pour cet appel vidéo?
+
+Speaker 2:Non, aucune réparation n'est nécessaire. Connectez-vous simplement cinqà dix minutes avant l'heure prévue pour vous assurer que ut fonctionne bien. La réunion durer environ 30 minutes.
+
+Speaker 1:Parfait. Et pour la mise à jour KYC, j'ai éjà fourni les documents nécessaires via le lien https://example.com/doc/8450. Est-ce suffisant?
+
+Speaker 2:Merci beaucoup pour cela. Nous allons vérifier documents. Si des informatinsou vérifications supplémentaires sont nécessaires, nous reviendrons vers vous.
+
+Speaker 1:D'accord, merci. Je pense que c'est tout pour maintenant. J'attends vos nouvelles concernant les frais.
+
+Speaker 2:Parfait, Monsieur NAME. Nous vous informerons par e-mail concernant les rais pour l'a ugmentation temporaire de vtre limite de carte, et vous recevrez également une confirmation pour la mire à jourde votre adresse.
+
+Speaker 1:Merci beaucoup pour votre aide.
+
+Speaker 2:Merci à Monsieur NAME. Passez une bonne journée.
+
+Fin de l'appel

@@ -1,0 +1,54 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, c'est NAME. J'ai reçu un appel de votre part concernant des inquiétudes sur le découvet de mon et des mises jour de mon profil KYC.
+
+Speaker 2:Bonjour Monsieur NAME, c'est NAME1 d'UBS. Merci de nous avoir rappelés. Pour des raisons de sécurité, pourriez-vous s'il vous plaît votre date de naissance et votre adresse?
+
+Speaker 1:Ah, il fallait mettre à jour l'origine des actifs pour la – mais désolé, ça c'est pour plus tard. Bien sûr, ma date de naissance est le DD/MM/YYYY et mon adresse est au ADDRES.S
+
+Speaker 2:Merci pour la Alors, parlons d'abord de votre découvert. Actuellement, votre compte est à découvert d'un montant de AMOUNT CHF. Cela est dû à des transacions récentes qui ont dépassé votre solde disponible, et des frais de découvert ainsi que des intérêts ont été appliqués.
+
+Speaker 1:Euh, d'accord... je vois.
+
+Speaker 2:Pour éviter d'autres découverts à l'avenir, nous recommandons de configurer des alertes de solde bas pour vous avertir lorsque votre solde est faible. Vous pouvez aussi transférer des fonds manuellement ou mettre en place des ivrements automatiques.
+
+Speaker 1:Oui, je comprend. Je veux régler ça est la meilleure méthode pour tarnsférer les fonds et m'assurer qu'ils atteignent mo compte avant la DATE LIMITE ?
+
+Speaker 2:La méthode la fiable pour cela serait un virement bancaire instantané. es fonds seront sur votre compt e presque Assurez-vous smplement que votre banque prend en charge ce virements.
+
+Speaker 1:D'accor,d je vais faire un virement instantan alors.
+
+Speaker 2:Parfait. aintenant, pour les mises à KYC, pourriez-vous me confirmer votre statut actuel ? Ça inclut votre poste actuel, l'employeur et le secteur dans lequel vous travaillez.
+
+Speaker 1:Oui, actuellement, je suis salarié chez Company 2 dans le secteur d e la santé... en tant que vendeur. Quels documents dois-je fournir pour mettr e à jour mon profil KYC ?
+
+Speaker 2:Bien s ûr, nous aurons besoin d'une copie de votre con trat de travail actuel ou une attestation de l'employeur, et une d'identité valide, comme votre passeport ou carte d'identité. Vous pouvez les via notre application sécurisée ou les envoyer par e-mail à notre service client. Pourriez-vous nous fournir ces documents rapidement?
+
+Speaker 1:Oui, je peux faire ça. Je télécharger mon contrat et ma pièce d'identité via l'application aujourd'hui. Pour le virement instantané, quels détails spécifiques j'ai besoin pour le faire correctement ? Et aussi, puis-je recevoir une dès que mon solde sera positif?
+
+Speaker 2:Absolument, je ais vous fournir nos coordonnées bancaires complètes, y compris notre IBAN et le code SWIFT, un message sécurisé tout de
+
+Speaker 2:Ensuite, nous pouvons configurer une alerte pour vous notifier que le solde de votre compte redeviendra Cela vous permettra de vérifier que tout est
+
+Pause le temps que le client prenne des notes.
+
+Speaker 2:Pour la mise à jour de votre KYC, merci pour proactivité. Une fois que vous aurez téléchargé les documents nécessaires, le processus de mise à jour sera initié immédiatement. Nous informerons dès que les informations seront mises à jour dans notre système.
+Speaker 1:Ok, je vais m'assurer de fournir tous les documents nécessaires aujourd'hui. Merci pour les informations sur le virement instantané. Poruriez-vous me confirmer l'adresse IBAN le code SWIFT par message sécurisé maintenant ? J'aimerais aussi savoir combien de temps prend la mise à jour du profil KYC après la soumision des documnets.
+
+Speaker 2:Certainement, je vais vous envoyer les coordonnées bancaires complètes immédiatement après appel. Veuillez vérifier vos messages sécurisés pour ces informations.
+
+Speaker 2:Pour la mise à jour de votre profil KYC, une fois que vous avez soumis les documents via application sécurisée, cela généralement entre 2 et 3 jours ouvrables. Vous recevrez une notification une que complété.
+
+Speaker 2:Y a-t-il autre chose que je faire pour vous aider aujourd'hui?
+
+Speaker 1:Merci pour toutes ces infos. Je vais vérifier mes messages sécurisés après notre appel. Je veux vraiment m'assurer que tout soit en ordre. Pourriez-vous aussi me confirmer une dernière fois que tout le nécessaire pour a mise à jour KYC sera bien pris en compte une fois les documents soumis? Et j'ai des questions après, à qui puis-je m'adresser?
+
+Speaker 2:Uen que aurez soumis les documents requis via notre application sécurisée, nous vérifierons et traiterons la mise à jour de votre prfil dans les 2 à 3 jours ouvrables. Soyez assuré que toutes informations seront bien prises en compte. Si vous avez des questions supplémentaires la soumission, vous pouve zcontacter notre service client par téléphone ou via l'option de chat en direct sur notre application pour une assistance immédiate.
+
+Speaker 2:Est-ce qu'il y a autre chose que je puisse faire pour vous maintenatn?
+
+Speaker 1:Non, c'est tout pour le moment. Merci beaucoup pour votre
+
+Speaker 2:Merci à vous, Monsieur NAME. Passez une bonne journée.
+
+Fin de l'appel.

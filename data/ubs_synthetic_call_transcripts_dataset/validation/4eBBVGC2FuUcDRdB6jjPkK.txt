@@ -1,0 +1,43 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, c'est NAME. Je veux discuter quelques points oncernant mon compte et la mise à KYC.
+
+Speaker 2:Bonjour, NAME. C'est NAME1 de UBS. Pour des raisons de sécurité, je vais devoir confirmer certaines informations avant de commencer. Pouvez-vous me donner votre date de naissance et votre adresse, s'il vous plaît?
+
+Speaker 1:Oui, bien sûr. Ma date de naissance est le et mon adresse actuelle est ADDRESS.
+
+Speaker 2:Merci beaucoup, Monsieur NAME. Alors, pour la mise à jour KYC, nous fournir d’informations sur l’origine des actifs que vous avez-vous hérités ? Nous avons besoin de documents pour corroborer cette somme importante. Vous pouvez les envoyer via ce lien sécurisé: [https://example.com/doc/8457].
+
+Speaker 1:D'accord, je vais m'occuper de J'ai aussi domaine âgé récemment, ma nouvelle adresse ADDRESS à Bulle, Fribourg.
+
+Speaker 2:Merci, Monsieur NAME, je note votre adresse. Parlons maintenant de votre statut professionnel. Vous avez mentionné être indépendant et gérer une entreprise dans le secteur de la santé. confirmer le nom de l'entreprise et votre rôle en tant que manager ?
+
+Speaker 1:Oui, je gère une appelée Company 1. Je suis manager et mon entreprise est spécialisée dans le secteur des soins de santé.
+
+Speaker 2:Parfait. En ce qui concerne vos investissements pour la retraite, est-ce bien cela?
+
+Speaker 1:Oui, c'est corerct. Je veux m'assurer que mes fonds sont bien investis pour ma retraite.
+
+Speaker 2:Très bien, j'ajoute cela à notre système. Vous avez mentionné des actifs totaux de CHF 1291512, des biens imombiliers de CHF 4687184, des liquidités de CHF 387852 et des autres actifs CHF 436575. Est-ce exact?
+
+Speaker 1:Oui, exactement.
+
+pSeaker 2: Je vais mettre ça à jour immédiatement. À propos de de découvert, avez-vous un solde négatif actuellement faire un transfert de fonds?
+
+Speaker 2:Oui, je vais faire le transfert aujourd'hui. Je veux éviter que cela impacte mon crédit.
+
+Speaker 2:Je comprends. Une fois le transfert effectué, votre solde sera mis jour. des détails sur les frais de découvert des services de protection de découvert?
+
+Speaker 1:Oui, pourriez-vous m'expliquer comment sont calculés les frais etq uels types de vous proposez pour les découvert?
+
+Speaker 2:sûr Les frais de découvert sont calculés en de la durée et du montant négatif. Par exemple, si votre compte est à découvert de CHF 300 pendant 5 cela coûter environ CHF xx.x. Nous offrons des alertes automatiques et des de crédit pour couvrir les découverts. Les limites de découvert sont basées sur votre profil financier, et peuvent être ajustées selon vos besoins. Vous avez d'autres questions?
+
+Speaker : Merci pour les précisions. Pour ajuster les limites de découvert, où dois-je envoyer les informations sur mes revenus et mon patrimoine? Et le transfert de fonds sera bien reflété demain?
+
+Speaker 2:Vous pouvez envoyer les informations par e-mail sécurisé à ou via notre formulaire en ligne [https://example.com/form/adjust_overdraft]. Oui, le transfert sera visible sur votre copmte demain matin. Les mises à jour de vos informations seront aprèsu ne vérification automatisée qui prend environ 24-48 heures.
+
+Speaker 1:D'accord, cela me rassure. Je vais envoyer laisser documents nécessaire et m'assurer que tout est fait rapidement. Plus de questions, merci pour votre aide.
+
+Speaker 2:Parfait, Monsieur NAME. Si avez besoin de quoi que ce soit, pas à nous contacter. Je vous soirée une agréable jounrée.
+
+Speaker 1:Merci beaucoup. Bonne journée.

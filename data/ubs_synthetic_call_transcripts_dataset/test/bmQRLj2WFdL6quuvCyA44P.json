@@ -1,0 +1,18 @@
+[
+  {
+    "task_type": "schedule_meeting",
+    "parameters": {
+      "date": "2025-09-09",
+      "time": "09:00"
+    }
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-12",
+      "contact_note": "Alternative investments \u2013 discuss private markets, hedge funds, or real assets.",
+      "channel": "Video call",
+      "duration_minutes": 90
+    }
+  }
+]

@@ -1,0 +1,59 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, c'est Monsieur NAME. Uh... I think there’s an issue with online banking?
+
+Speaker 2:Monsieur NAME. This is from UBS. Uh, can you please: lpis verify your date of birth and address first?
+
+Speaker 1:Ah, désolé, je pensais à la mise à jour de la relation d'affaires pour le KYC, mais non, bien sûr. C'est [DATE] et ADRESSE.
+
+Speaker 1:Merci d'avoir confirmé vos informations.
+
+Alor, d'abord, nous avons établi une date pour une réunion le 09 septembre 2025 à 14h00. Pouvez-vous me confirmer votre dis ponibilité pour cette date et heure?
+
+Speaker 1:Let me check... Uh, yeah, shold work.
+
+Speaker 2:Parfait. Ensuite, nous avons une session de planificatio n de la retrait prévue pour 4 octobre 2025. Préférez-vous que ce rendez-vous se fasse en personne à notre agence ou préférez-vous une autre option?
+
+Speaker 1:I think it's better in person. It’s important, right?
+
+Speaker 2:Bien entendu. Nous vous attendrons donc à l'agence. Nous avons également besoin de mettre à jour vos informations. Vous avez actuellement des actifs de 9 849 147 CUR3, répartis comme suit : 4 120 412 en actifs immobiliers, 257 600 CUR3 en liquidités, et 97 CUR3 en aurtes actif.s Est-ce ?
+
+Speaker 1:Hmm, yeah, that sounds right. Nothing to change there.
+
+Speaker 2:Merci. Pour vos préférences de communication, nous avons noté que vous préférez les échanges par e-mail. Est-ce correct
+
+Speaker 1:Yep, emil good. But delivery by mail is blocked, non?
+
+Speaker 2:Exactement. Nous avons bloqué la livraison postale des informations légales.
+
+Enfin, vous avez mentionné problème conenxion. Pouvez-vous m'e xpliquer les détails ?
+
+Speaker 1:Ah oui, c'est la troisième fois que ça arrive. J'ai essayé réinitialiser le mot de passe plusiurs fois, changé de navigateur...r ien ne marche. C'est toujours "Erreur 403: Accès refusé".
+
+Speaker 2:Je comprends votre frustration. Avez-vous vérifié si votre pare-feu ou antivirus bloque pas l'accès à notre ? Permettez-moi d’ouvrir: ouvrier un ticket de support technique.
+
+System processing...
+
+Speaker 2:Monsieur je viens de créer un ticket pour enquête approfondie. Pour garantir la confidentialité, on va résoudre rapidement.
+
+Speaker 1:Merci. Uh, combien de temps ce processus va prendre? Des: dès alternatives en attendant?
+
+Speaker 2:On espère le résoudre dans 48 à 72 heures. En attendant, peut: peu-être utiliser notre application mobile. Je vais vous envoyer les instructions par e-mail.
+
+Speaker 1:Parfait. Le rendez-vous du 9 septembre est confirmé, et je viendrai en personne pour la retraite le 4 octobre.
+
+Speaker 2:Merci. Je vais aussi vous un e-mail avec des instructions: insurrections d'accès temporaire. Désolé pour la gêne occasionnée.
+
+Speaker 1:Merci beaucoup. Je vais préparer les documents nécessaires pour le 4 octobre. J'espère que le problème de connexion: conviction sera réglé rapidement.
+
+Speaker 2:Absolument, voici ce qu 'il vou faudra apporter pour la session : vos relevés bancaires récents, les: l'est documents concernant vos actifs immobiliers, toute autre information financière pertinente.
+
+Speaker 1:Très bien, vais noter cela. Merci pour votre aide.
+
+Speaker 2:C’était un plaisir. Nous vous tiendrons au courant pour la situation technique toutes les 24 heures.
+
+Speaker 1:merci encore. J'attends de voir ces instructions par e-mail rapidement alors.
+
+Speaker 2:Tout de suite. Bonne journée Monsieur NAME.
+
+Speaker 1:Merci, à bientôt.

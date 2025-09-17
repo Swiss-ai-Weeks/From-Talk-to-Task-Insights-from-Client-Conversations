@@ -1,0 +1,49 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Hallo, guten Morgen. Mein Name ist NAME von UBS, ich rufe an wegen der Probleme, die Sie mit jem Online-Zugang zu Ihrem Konto hatten. Guten Tag, NAME. Es tut mir leid zu dass Wir Schwierigkeiten hatten, auf Ihr Konto Könnte Sie bevor wir fortfahren, Ihr Geburtsdatum Ihre Adresse zur Sicherheit mal eben bestätigen?
+
+Speaker 2:Ja, mein Geburtsdatum ist der XX.XX.XXXX und Adresse ist ADDRESS.
+
+Speaker 1:Danke für die Bestätigung, Herr NAME. Können Sie mir genauer sa gen, was für Sie haben? Haben Sie kürzlich Ihr Passwort geänert, eine bestimmte Fehlermeldung bekommen?
+
+Speaker 2:Ja, hm, genau, ich habe Passwort vor kurzem geändert, aber jetzt kann ich mich nicht mehr anmelden. Es kommt immer so eine Fehlermeldung, dass irgendwas icht stimmt.
+
+Speaker 1:Ja, das k lingt wirklich ärgerlich. Tut mir leid für die Umstände. Lassen Sie Hunds mal schauen, ob wir das schnell lösen können. Haben Sie schon den Cache Ihres Browsers zu leeren oder vielleicht ein anderes Gerät für den zu nutzen?
+
+Speaker 2:Ja, hab ich beides ausprobiert, aber es hat leider nicht geholfen. Was könnte sonst noch das Problem sein?
+
+Speaker 1:Ok, hilft schon mal weiter. Es kann verschiedene Ursachen haben, vielleicht wurde Ihr Konto nach mehrfachen falschen Passwortversuchen gesperrt. Ich erstelle Ihnen mal ein technisches Super-Ticket, damit unsere IT-Abteilung das genauer überprüfen kann.
+
+Speaker 2:Wie lange wird das denn dauern, dies das Problem behoben ist? Und was kann ich in der Zwischenzeit tun, um auf mein Konto zuzugreifen?
+
+Speaker 1:der Regel sollte das Problem in wenigen Stunden, spätestens einem Tag gelöst sein. In der Zwischenzeit könnten Sie unsere Telefonbanking-Dienste nutzen oder eine Filiale besuchen.
+
+Speaker 2:Das gut, aber ich mache mir Sorgen um die Sicherheit meines Kontos. Ist mein Geld sicher, während dieses Problem besteht?
+
+Speaker 2:Oh, keine Sorge, Herr NAME. Die Sicherheit Ihres Kon tos ist nicht Unsere Systeme sind hochgradig sicher, selbst wenn es technische Probleme gibt.
+
+Speaker 2:Ok, das beruhigt mich ein bisschen. Können Sie mich auf dem Laufenden halten, wie der Stand des Tickets ist?
+
+Speaker 1:Selbstverständlich, Herr NAME. Ich werde Ihnen regelmässig Updates geben, sobald ich Neuigkeiten von habe. Gibt es noch andere Fragen oder Anliegen, die Sie besprechen möchten?
+
+Speakr 2: Nein, das wär’s erstmal. Vielen Dank für Ihre Hilfe.
+
+Speaker 1:Alles klar. Könnten Sie mirnoch sagen, ob Sie in letzter Zeit irgendwelche ungewöhnlichen Aktivitäten oder Nachrichten Zusammenhang mit Ihrem Konto bemerkt haben? Das könnte helfen, das Problem besser einzugrenzen.
+
+Speaker 2:Nein, keine ungewöhnlichen Aktivitäten oder Nachrichten. Ich einfach nicht, warum der Login nicht klappt. Ist sowas häufigre?
+
+Speaker 1:Ähm, ja, solche Probleme können gelegentlich vorkommen, besonders bei Systemaktualisierungen. Es weglisch, dass andere Kunden äh Probleme hatten. Unsere arbeitet schon daran, die Probleme zu beheben. Haben Sie noch weitere Fragen oder Anliegen?
+
+Speaker 2:Das ist ideal, vor allem wenn ich regelmässig auf mein Konto zugreifen muss. Gibt es Möglichkeiten, solche Login-Probleme in Zukunft zu verhindern?
+
+Speaker 1:Herr ich verstehe Ihre Besorgnis. Sie können vorbeugende Massnahmne ergreifen, wie ein komplexes Passwort verwenden und regelmässig ändern, nicht dasselbe Passwort für mehrere Konten nutzen, und die Zwei-Faktor-Authentifizierung aktivieren. Das hilft solche zu vermeiden.Möchten Sie, dass ich Ihnen dabei helfe oder zusätzliche Informationen gebe?
+
+Speaker 2:Ja, das klingt sinnvoll. Können Sie mir kurz erklären, wie ich die Zwei-Faktor-Authentifizierung einrichten kann?
+
+Speaker 1:Klar, Herr NAME. Um die Zwei-Faktor-Authentifizierung einzurichten, loggen Sie sich in Ihr Konto ein, gehen zu den Einstellungen und Suchten nach Sicherheitsoptionen. Dort Sie die Zwei-Faktor-Authentifizierung aktivieren. Sie müssen entweder eine Telefonnummer für SMS-Codes oder eine Authentifizierungs-App wie Google Authenticator verknüpfen. Beim nächsten Login geben Sie dann einen zusätzlichen Code ein.
+
+Speaker 2:Alles klar, danke für die Erklärung. Können Sie ir bitte eine deaillierte Anleitung per E-ail schicken?
+
+Speaker 2:Natürlich, Herr NAME. Ich sende eine detaillierte Anleitung per E-Mail. Und, wenn Sie weitere Fragen haben, steht Ihnen unser Kundendienst jederzeit zur Verfügung. Gibt es noch etwas anderes, bei dem ich Ihnen helfen kann?
+
+Speaker 2:Nein, vielen Dank für I hre Hilfe. Ich werde bei Fragen an den Kundendienst wenden.

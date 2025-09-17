@@ -1,0 +1,28 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen. Äh, ich hab da einige Probleme mit dem Login in euren digitalen Bankensystemen und dachte, ich rufe mal an, um Hilfe zu bekommen.
+Speaker 2:Guetn Herr NAME. Mein Name ist NAME1 von UBS. Bveor wir anfangen, könnte ich Sie bitten, Ihr Geburtsdatum und Ihre Adresse zu bestätigen? as dient der Sicherheit.
+Speaker 1:Oh, es tut mir leid, ich wollte nicht nach dem Zweck der Geschäftsbeziehung fragen. Ah ja, klar. Mein Gebrtsdatum ist DTAE und meine Adresse lautet
+Speaker 2:Vielen Dank. Ihre Angaben sind korrekt. Lassen Sie nun Ihr Problem mit dem Login besprachen. Es muss wirklich nervig sein, keinen Zugang zu Ihrem Konto zu haben. Haben Sie in letzter Zeit Änderungne an Ihrem Gerät oder Browse rvorgemommen? Wichtig ist, dass Sie die neuesten Versionen verwenden.
+Speaker 1:Nein, äh, ich hab an meinem oder Browser nichts geändert. Ich verwende neueste Version, das hab ich überprüft. Könnte es velleicht an Zwei-Faktor-Authentifizierung liegen? wär echt hilfreich, wenn Sie a Schritt-für-Schritt helfen könnten. hhab wirklich Angst, dass meine Transaktionen und mein Konto davon betroffen
+Speaker 1:Das verstehe ich, ud ja, dir Zwei-Faktor-Authentifizierung könnte eine Rolle spielen. Haben Sie die Authentifizierung korrekt eingerichtet, also SMS oder für den Code?
+
+Speaker : Ja, meine Telefonnummer lautet NUMBER und die Authentifizierungs-App richtig eingerichtet. Was könne wir tun, um sicherzustellen, dass die Zwei-Faktor-Authentifizierung läuft?
+Speaker 2:Okay, super. Häufige Problem ekommen durch Synchronisationsfehler. Überprüfen Sie bitte die Uhrzeit Ihres Geräts, ob sie automatisch Netzwerk eingestellt ist.
+
+Speaker 1:Moment. Ja, automatische Zeit ist richtig eingestellt. Was jetz
+Speaker 2:Starten Sie die Authentifizierungs-App neu. Falls weiterhin Probleme bestehen, deinstallieren Sie die App und installieren Sie diese neu. Dann müssen Sie wieder den QR-Code scannen.
+
+Speaker 1:Hmm okay, verstanden. Und meine KYC-Informationen? Mein Arbeitgeber ist 'Company 3', meine Funktion ist 'Sales', und ich bin Technologiebrei tätig.
+Speaker 2:Genau richtig, ich habe das aktualisiert. Unds bezüglich des Folgetermins, Sie möchten am 09.09.2025 um 14:00 Uhr einen Termin, um sicherzugehen, dass alle Probleme beholen sind, richtig?
+Speaker 1:Ja, Könnten Sie das bitte einrichten?
+Natürlich. Der Folgetermin ist für den 09.09.2025 um 14:00 Uhr gesetzt. Ausserdem wollte ich Sie über mögliche Änderungen im digitalen Bangensystem informieren. Haben Sie eine Benachrichtigung über sicherheitsbezogene Updates erhalten?
+
+Speaker 1:Ja, ich habe die Benachrichtigung erhalten und die Schritte befolgt. Irgendwie funktioniert es trotzdem nicht. Könnte es Kompatibilitätsprobleme geben?
+Speaker 2:könnte durchaus sein. Überprüfen Sie bitte, ob Ihr Gerät die neuesten Betriebssystem-Versionen un d Browser-Kompatibilität erfüllt. Hier nochmals Neuinstallation der Authentifizierungs-App: Einstellungen öffnen, App suchten und deinstallieren, dann neu installierenund QR-Code scannen.
+
+Speaker 1:Danke, ich werde probieren und mein überprüfen. Es beruhigt mich, dass mein Konto sicher ist. Falls weiterhinProbleme auftreten, kann ich den Geräte- oder Browser-Support kontaktieren. Danke für Ihre Hilfe, bis zum Folgetermin.
+Speaker 2:Das freut mich zu hören.B itte danken Sie auch an regelmässige Updates. Wenn weitere Fragen auftauchen, kontatkieren Sie uns. Vielen Dank, Herr NAME, dass Sie uns Ihre Anliegen mi tgeteilt haben.
+
+Speaker 1:Vielen Dank für Ihre Hilfe!
+Speaker 2:Sehr gern, Herr NAME. Einen schönen noch.

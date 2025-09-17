@@ -1,0 +1,79 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Uh, morning. Um, I believe this is NAME calling from UBS, right? I have some updates and inquiries I need to this case.
+
+Speaker 2:Good morning, Mr. NAME. Yes, this is NAME1 from UBS. It's a pleasure to speak with you today. How have you been? Before we precede, can you confirm your date of birth and for purposes?
+
+Speaker 1:Sure, uh, my date of birth is DATE and my address is ADDRESS.
+
+Speaker 2:Thank you for that confirmation, Mr. NAME. So, I understand you've had some concerns about our digital banking Could you elaborate on the specific feature you're liking for and the difficulties you're encountering?
+
+Speaker 1:Yeah, I need to find the feature that, um, allows me to create tsanding orders in the app. I've looked through the menus but can't seem to find it. And it's really urgent because I need to set up automatic payments today.
+
+Speaker 2:I see, NAME. I understand the urgency. Let’s tackle this tep-by-steep. First, could you log into the app and navigate to the 'Payments' section?
+
+Speaker 1:Okay, I’m logged in and in the 'Payments' section now. But I still don't see 'Standing Orders.' When I click 'More', it shows additional payment options but Orders' isn't there.
+
+Speaker 2:Hmm, alright. There mightb e an update required or maybe a refresh. If the feature stlil isn 't showing after those steps, try log in out and back in. If nothing works, you contact our technical support directly through the app for prompt assistance.
+
+Speaker 1:Okay, I'll try that. And I want to make sure my contact info is updated for email communications. I confirm I'd like to receive all non-postal communications at user8410@example.com.
+
+Speaker 2:U nderstood, Mr. NAME. I’ve updated your email preference to user8140@example.com for non-postal communications. Please remember that need to be handled through postal services or picked up at a branch.
+
+Speaker 1:Got And regarding my KYC info, ca you confirm my job status, function, employer, sector? Plus, I need to ensure asset details are correct.
+
+Speaker 2:Sure. what we have on record:
+- Job status: Employed
+Function: Manager
+Company 1
+- Sector: Healthcare
+
+Your assets are noted as follows:
+- Total assess: 506,851 CHF
+- Real estate assets: 3,285,406 CHF
+- Liuqid assets: 2,194,348 CHF
+- Other diversified assets: 401,430 CHF
+
+And the origin of these assets includes your salary and inheritance. The provided document link for corroboration was "https://example.com/doc/5038".
+
+Speaker 1:Yes, that’s My updated postal address should be country=CH, postal_region_name=8640, Rapperswil-Jona, St. Gallen, residence_id=82.
+
+Speaker 2:Perfect, I've updated your postal address accordingly. Now, fo r the 'Scheduled Payments' as a temporary solution, you like me to walk you through the setup?
+
+Speaker1: Please do. I've entered the payee details and the amount but need to select the frequency and set the start date. How do I choose payments starting from today?
+
+Speaker 2:Here's how:
+1. In the 'Scheduled Payments' menu, after entering details, find payment option.
+2. Select 'Weekly' from the choices.
+3. Set today's date using the date picker.
+Review all details for accuracy and confirm setup.
+
+Speaker 1:Alright, done. Thanks for guiding me.
+
+Speaker 2:You're welcome. I hope that helps you payments until 'Standing Orders' issue is resolved. Regarding other beneficial features:
+
+Investment Tracking:
+- Check 'My Investments' for portfolio performance and detailed analytics.
+
+Budget Monitoring:
+- Go to 'Budget' to set and track expense limits and receive notifications.
+
+Custom Alerts:
+- Create alerts in 'Notifications' for transactions, balances, and payments.
+
+Financial Analytics:
+- View breakdowns and insights in 'Analytics' to manage finances more efficiently.
+
+Speaker 1:Thank you. I’m interested in exploring these features. our follow-up session to borrow 10 AM and 12 PM, additional documents should I prepare?
+
+Speaker 2:Please gather any recent financial documents or statements requiring review. Prepare questions or concerns about automatic payments and app features, and make notes on specific detailed discussion. All your updates hae been accurately recorded in ur system.
+
+Speaker 1:Sounds good. Thanks for the help today.
+
+Speaker 2:My pleasure, Mr. NAME. Is there anything else you need urgent assistance before we wrap up?
+
+Speaker 1:No, that’s all. Thanks again.
+
+Speaker 2:Alright then, take care, and have a great day!
+
+Speaker 1:You too, goodbye.

@@ -1,0 +1,39 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:c'est NAME. Je crois que j'ai un problème avec mon découvert bancaire...
+Speake 2: Bonjour, Monsieur NAME. C'est NAME1 de UBS, je vous appelle pour discuter de quelques concernant votre découvert bancaire actuel. Comment allez-vous aujourd'hui? Avant de continuer, puis-je vous de confirmer votre date de naissance et votre adresse des raisons de sécuité?
+Speaker 1:Ah, je suis désolé, crois que ce n'est pas ce nous parlions. Bien sûr. Ma date de naissance est le DATE de N, et mon adresse est ADRESSE.
+Speaker 2:Merci pour cette confirmation, Monsieur NAME. Donc, par rapport à votre découvert, actuellement votre compte présent un solde négatif de AMOUNT. Il est essentiel de couvrir ce avant la fin de la jour née pour éviter des frais supplémentaires.
+Speaker 1:D'accord, je comprends. P ouvez-vous, expliquer ce qui se passe si n'arrive pas à couvrir le découvert aujourd'hui? Genre, qu'elle sont les conséquences les pénalités sociaux?
+Speaker 2:Bien sûr. Si vous ne parvenez pas à couvrir le découvert avant la fin de la journée, vous risquez plusieurs consquences. Des frais de découvert supplémentaires seront appliqués, votre capacité de paiement pourrait être affectée, et cela pourrait aussi avoir un impact sur votre score de crédit. En gros, ça compliquerait l'obtention de crédits futurs. Alors vraiment, je recommande de transférer les fonds nécessaires avant la de la journée pour tout cela.
+Speaker 1:Got Et, combien de frais supplémentaires je devrais payer si je ne couvre pas aujourd’hui? Et il y a des pour mettre en place un plan otection contre le découvert?
+Speaker 2:Al ors, les frais supplémentaires seraient de AMOUNT chaque jour où le découvert reste non résolu. Pour le de protection contre le découvert, oui, il y certaines conditions comme d’avoir un bon niveau de solvabilité. En fait, le plan fonctionne en votre compte courant une soure de fonds secondaire comme un compte d'épargne ou une ligne crédit pour couvrir automatiquement tout découvert. Seriez-vous intéressé par ça?
+Speaker 1:Oui, ça m'intéresse. Combien de temps ça prend pour le mettre en place? Et pour courir le découvert aujourd'hui, je préfère faire un depuis mon compte d'épargne. Pourriez-vous me sur la procédure?
+Speaker 2:L’installation du plan de protection prend entre 1 et 3 jours ouvrables selon votre solvabilité. Pour le bancaire depus votre compte d'épargne, voici les étapes:
+1. Connectez-vous à votre compte en ligne,2. Allez dans "Transferts" ou"Paiements",
+3. Sélectionnez votre compte d'épargne source,
+4. Entrez le montant nécessaire pour couvrir le découvert,
+5. détails et confirmez la transaction.
+de fairec e virement avant la fin de la journeé.
+Speaker 1:D'accord. Je vais ces étapes. Um, combien de temps après mise en place de la protection contre le découvert puis-je être sûr qu'aucun frais supplémentaire ne sera appliqué? Et l’impact sur mon score de crédit?
+Speaker 2:Une fois protection en place, vous pouvez être sûr qu'il n'y aura pas de frais supplémentaires pour tout découvert futur. Mais c'est crucial de faire le transfert aujourd'hui pour éviter les frais Un découvert prolongé peut affecter négativement votre solvabilité. Finalisez le tr ansfert aujourd’hui pour cet impact.
+System processing...
+Speaker 1:Claire. Je vais faire le transfetr. contre, pour alertes et automatiques, comment j’installe ça?
+Speaker :2 Pour configurer alertes et transferts automatiques, voici les étapes:
+1. Connectez-vous compte bancaire en ligne,
+2. Accédez ou "Alertes",
+3. Choisissez les types d'alertes (solde bas, découvert, etc.),
+4. Définissez les paramètres,
+5. Sélectionnez le mode de réception (courriel ou SMS).
+Pour les transferts automatiques:
+1. Accédez "Gestion des comptes",
+2. Recherchez "Transferts automatiques" ou "Protection compte le découvert",
+3. Sélectionnez votre compte courant et liez-le à votre compte d'épargne ligne de crédit,
+4. Définissez les paramètres du transfert automatique,
+5. et confirmez.
+Speaker 2:D'accord, ça marche. Les alertes peuvent être temps réel par courriel? Y a-t-il des frais supplémentaires?
+Speaker 2:Oui, vous pouvez recevoir des alertes en temps réel par courriel aucun frais supplémentaire. est inclus dnas nos services de gestion de compte.
+Speaker 1:Parfait. Est-ce que les alertes seront visibles dans l'application mobile?
+Speaker 2:Absolument. Configurez les alertes dans votre compte en ligne et elles seront synchroniser avec votre application mobile. Vous recevrez des notifications en temps réel via cuorriel ou l'application.
+Speaker 1:Merci pour votre aide.
+Speaker 2:Ravi de vous avoir assisté, Monsieur NAME. Passez une excellente journée.

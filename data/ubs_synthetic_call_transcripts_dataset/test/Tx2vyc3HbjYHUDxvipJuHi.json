@@ -1,0 +1,20 @@
+[
+  {
+    "task_type": "update_kyc_activity"
+  },
+  {
+    "task_type": "update_contact_info_non_postal"
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-27",
+      "contact_note": "Annual relationship meeting \u2013 routine check-in to update on financial goals, life changes, and priorities.",
+      "channel": "Video call",
+      "duration_minutes": 90
+    }
+  },
+  {
+    "task_type": "update_contact_info_postal_address"
+  }
+]

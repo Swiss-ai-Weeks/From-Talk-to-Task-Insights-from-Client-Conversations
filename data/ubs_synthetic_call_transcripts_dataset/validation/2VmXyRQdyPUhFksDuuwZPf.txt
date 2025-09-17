@@ -1,0 +1,37 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, j'ai reuç une charge non reconnue sur ma carte et j'aimerais en discuter.
+
+Speaker 2:Bonjour Monsieur, c'est NAME1 de UBS. Je vous appelle effectivement pour discuter ce problème. Avant de commencer, pourriez-vous me confirmer votre date de naissance et votre adresse pour des raisons de sécurité ?
+
+Speaker 1:Ah, pardon, je pensais à quelque chose d'autre au sujet du plan contact, mais bien sûr, ma date de naissance est le DATE et mon adresse est ADD RESS.
+
+Speaker 2:Merci pour la vérification, Monsieur NAME. J’ai noté que vous avez une charge non reconnue sur vo tre carte. Pouvez-vous me donner détails supplémentaires comme la date, le montant et le marchand de cette transaction non autorisée ? Cela nous aidera à mieux comprendre le contexte et à commencer la procédure de résolution.
+
+On hold: quelques secondes
+
+Speaker 1:Euh, oui. J'ai remarqué une charge de AMOUNT sur mac arte le DATE venant de MERCHANT. Je ne me souviens pas effectuer cette transaction et cela m'inquiète. Pouvez-vous m'expliquer le processus pour déposer une éclamation et combien de temps cela prend généralement ? Je veux m'assurer que cela n'affecte pas statut financier ou ma cote de crédit.
+
+Speaker 2:Jecomprends parfaitement votre inquiétude. Voici comment nous allons procéder : Nous examinerons la charge en détail, puis vous devrez remplir un formulaire de réclamation en ligne. Le lien est disponible sur notre site. En général, il faut compter 7 à 10 jours ouvrables pour la résolution complète. Pendant cette période, sachez que cette charge ne devrait pas influenser négativement votre statut financier votre cote de crédit.
+
+Speaker 1:D'accord, merci. Et concernant l'attresse postale, pouvez-vous me confirmer que avez enregistré ma nouvelle adresse : pays=CH, région_postale_name=9000, St. Gallen, résidence_id=48?
+
+Speaker 2:votre ouvelle adresse a bien mise à jour. Je voulais aussi vérifi er que nous avons reçu et mis à jour les informations relatifs à vos nouveaux actifs. J'ai noté que vous avez hérité d'une somme importante et vous avez soumis les documents via l'URL. Conment cel va-t-il affecter votre compte et les transactions utures?
+
+Speaker 1:Exactement, je veux m'assurer que tout est en ordre. aussi des inquiétudes concernant l'impact de mon d'emploi acutel. Je suis sans emploi et recherche pas de travail. un problème pour mon compte ou mes services bancaires ?
+
+Speaker 2:Tout d'abord, je confirme que nous avons bien reçu les documents soumis via l'URL et procédons actuellement à la vérification. Cette somme héritée devrait plutôt bénéficier à vos transactions futures. Concerant otre statut le fait que vous ne soyez pas en rcherche active ne devrait pas poser de problème significatif pour vos services ancaires. Cependant, il est tous préférable de maintenir ces informations à jour.
+
+Speaker 1:C'est rassurant. Pouvez-vous aussi vérifier que mes informations de contact, comme mon numéro de téléphone en classe E et ma préférence pour les communications par email, sont correctement enregistrées?
+
+Speaker 2:Oui, absolument. Votre numéro de téléphone est bin enregistré conne classe=E et préférences pour les communications par email sont jour. Vous pouvez vérifier ces informations dans votre compte en ligne. Pour la de vos données, nous des technologies de cryptage avancées et des mécanismes en temps réel pour identifier les transactions
+
+Speaker 1:Ça m'aide beaucoup, merci. Dernière question, puis-je activer notifications en temps réel pour chaque transaction, ou définir des limit es de dépenses via mn en ?
+
+Speaker 2:Oui, vous pouvez activer des notifications en temps réel et définir des limites de dépenses quotidiennes dans la section "Gestion de carte" de vorte espace client en ligne. Cela vous donnera un contrôle plus strict et meilleure visibilité survos transactions.
+
+Speaker 1:xEcellent. Merci beaucoup votre aide.
+
+Speaker 2:Je vous en prie, Monsieur NAME. Si vous avez d'autres questions ou préoccupations, pas à nous contacter. Bonne juornée.
+
+Speaker 1:Merci, vous aussi.

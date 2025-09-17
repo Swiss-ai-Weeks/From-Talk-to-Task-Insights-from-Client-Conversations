@@ -1,0 +1,41 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, äh, ich brauche Hilfe meinem Login-Problemen... meinem digitalen Bankkonto, es funktioniert Können Sie helfen?
+
+Speaker 2:Guten Morgen, Herr NAME1. Natürlich, ich rufe von der UBS an, um über Ihre Login-Probleme zu sprechen. Wi geht es Ihnen heute? Bevor wir weitermac hen, könnte ich Sie bitte um Ihr Geburtsdatum und Ihre Adresse für die Identitätsprüfung bitten?
+
+Speaker 1:Ja, mein Geburtsdatum ist der TAG.MONAT.JAHR meine Adresse ist STRASSE, ORT, PLZ.
+
+Speaker 2:Vielen Dank, Herr NAME1. Ihre Anlagen sind Könen Sie mir bitte genau erklären, welches Problem Sie beim Einloggen haben? Ist es Dass Passwort oder wurde Ihr Konto gesperrt?
+
+Speaker 1:Ich bin nicht, äh, wirklich sicher. Ich hab' mein Passwort mehrmals eingegeben, aber es sagt immer, dass das Passwort falsch ist. Und ich kriegekeine E-Mail zum Zurück im Spam-Ordner ist auch nichts. Was kann das sein?
+
+Speaker 2:Okay, danke, dass Sie das erklärt haben. Lsasen Sie uns einige Schritte durchgheen. Stellen Sie sicher, dass unsere E-Mails ncht in Ihrem Spam-Ordner gelandet sind. Manchmal hilft es, die anzupassen.
+
+Speake r 1: Ich habe bereits nachgeschaut, ncihts gefunden. Vielleicht ist es ein technischer Fehler...
+
+Speaker 2:Wenn es noch nicht funktioniert, könnte ein technischer Fehler sein. Ich Leute das intern weiter. Während wir das prüfen, könnten wir Ihre mit Zwei-Faktor-Authentifizierung erhöhen. Haben Sie schon von der Authenticator-App
+
+Speaker 1:Nein, das klingt kompliziert. Was muss ich dafür tun?
+
+Speaker 2:System processing... Keine Sorge, ich erkläre es Schritt für Schritt. Zuerst müssen Sie die Authenticator-App auf Ihr Mobiltelefon herunterladen - sie ist für iOS und Android verfügbar.
+
+Speaker 1:Okay, ic habe ein iPhone.
+
+Speaker 2:Perfekt. Laden Sie die App aus dem Apple Store herunter. Danach müssen Sie in Ihrem digitalen Bankkonto zu den Sicherheitseinstellungen gehen. [pause]
+
+Speaker 1:Und dann?
+
+Seaker 2: finden Sie die Option "Zwei-Faktor-Authentifizierung". Ein QRCode wird angezeigt, den Sie mit der App scannen. Die App generiert dann einen den Sie in Ihrem eingeben müssen. Das klingt vielleicht kompliziert, aber es die Sicherheit enorm.
+
+Speaker 1:Ähm, okay. Und wie sicher ist das?
+
+Speaker 2:Shr sicher. Ihrem Passwort ein temporärer Code benötigt, den nur Sie haben. Stellen Sie dass Ihr Telefon gut geschützt ist. Aktualisieren Sie die App regelmässig prüfen Sicherheitsmassnahmen.
+
+Speaker 1:Esi klar. Und wenn ich Probleme habe?
+
+Speaker 2:Falls Probleme auftreten - keine Sorge - unsere technische Unterstützung ist jederzeit für Sie da. Haben Sie jetzt noch Fragen oder Anliegen? Wir möchten sicherstellen, dass Sie sich wohl fühlen.
+
+Speaker 1:Mein, das war's. Vielen Dank für Ihre Hilfe.
+
+Sepaker 2: Ganz zu Diensten, Herr NAME1. Ihre Sicherheit und Zufriedenheit sind uns wichtig. Vielen Dank und einen schönen Tag noch!

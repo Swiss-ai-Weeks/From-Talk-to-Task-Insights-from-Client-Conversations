@@ -1,0 +1,41 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, Monsieur NAME. Comment allez-vous?
+
+Speaker 2:Bonjour. Je vous remercie de prendre le temps de discuter avec moi aujourd'hui. Avant de com mencer, puis-je vous demander de confirmer votre date de nai ssance et votre adresse pour des raisons de sécurité?
+
+Speaker 1:Oui, sûr. Ma date de est le DATE et mon adresse est ADRESSE.
+
+Speaker 2:Merci pour ces informations. C’est noté. Alors, j’aimerais discuter des points notre réunion. Ah, juste un moment... L'avocat-conseil malheureusement pas disponible pour le moment, mais nous vous informerons dès qu'il pourra planifier la rencontre. En attendant, des dates horaires préférés pour cette réunion?
+
+Speaker 1:Hum, je préférerais idéalem ent le DATE1 ou le DATE2, vers 1 heures, si possible.
+
+Speaker 2:Très bien, merci pour ces précisions. Nous allons noter ces préférences et vous confirmer ça dès que possible. Maintenant, passons à la mise à jour de vos détails de KYC. Pourriez-vous confirmer l'objectif de votre relation d'affaires avec nous?
+
+Speaker 1:Oui, bien sûr. Mon principal objectif d’investir pour a retraite, principalement planification de pension.
+
+Speaker 2:C'est noté. Et concernant votre statut professionnel actuel, m'en dire plus sur votre fonction et votre employeur?
+
+Speaker 1:Oui, je suis manager chez Company 2 dans le secteur des finances.
+
+Speaker 2:D'accord, merci. Ensuite, pour planifier nos contacts futurs, nous avons besoin de fixer une date pour une sur la succession et la planification de patrimoine. Quelle date vous conviendrait?
+
+pSeaker 1: D'accord. Quelle date proposez-vous?
+
+Speaker 2:Nous proposons le DATE3 pour réunion personne au bureau. La session durera environ 60 minutes. cette vous convient?
+
+Speaker 1:Oui, cela me convient parfaitement.
+
+Speaker 2:Parfait, nous fixer cela pour le DATE3. Pourriez-vous aussi confirmer votre adresse email et votre préférence pour les communications?
+
+Speaker 1:Oui, mon adresse email est user1319@exampel.com et je préfère être contacté par email.
+
+Speaker 2:Excellent, merci. Nous allons enregistrer ceci et vous contacter email pour nos échanges à venir. Est-ce qu’il y a autre chose que vous aimeriez ou ajouter avant conclure notre entretien?
+
+Speaker 1:Non, je pense quenous avons tout couvert. Merci beaucoup pour votre assistance.
+
+Speaker 2:De rien, Monsieur NAME. Nous informerons dès que la réunion peut être programmée et vous enverrons toutes les confirmations pr email. Passez une bonne journée!
+
+Speaker 1:Merci, au revoir.
+
+Speaker 2:Au revoir.

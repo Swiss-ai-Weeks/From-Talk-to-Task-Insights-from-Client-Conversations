@@ -1,0 +1,29 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, Monsieur NAME. Uh, avant qu'on commence, est-ce que je peux vous demander de confirmer votre date de naissance et votre adresse raisons de sécurité ?
+Speaker 2:Oui, bien sûr. Ma date de naissance est le DATE et mon est ADRESSE.
+
+Speaker 1:Merci beaucoup. Ah, la mise à jour de votre KYC et le but de la relation d'affaires... Oh ce n'était pas ce dont nous parlions. Alors, parlons de votre souci avec l'application bancaire digitale. Vous avez eu des difficultés à trouver une certaine fonctionnalité, c'est ça ? Pouvez-vous me dire comment naviguez normalement et quelles sont les étapes que vous suivez pour trouver cette option ? Et c'est quelle fonction précisément que vosu ?
+Speaker 2:Oui, normalement, me connecte, puis je vais directement sur l'onglet "Gestion des comptes" pour suivre mes transactions. Mais, récemment, je ne vois plus l'option de suivi des transactions. Je dois vérifier les mouvements sur mes comptes pour m'assurer qu'il n'y a pas d'activtiés suspectes. Aussi, y'a quelques jours, j'ai reçu un message d'erreur bizarre plusieurs fois et ça m'empêchait de charger cette section... Est-ce qu'il y a des modifications dans l'application ? Franchement, je trouve ça très frustant. bien une démo sur comment accéder cette fonction. Oh,et l'appli est-elle avec différents systèmes d'exploitatio n ?
+
+Speaker 1:Je comprends, ça peut être énervant. Laissez-moi vous guider étape par étape. Une fois connecté, cliquez sur "Gestion comptes", puis allez dans "Historique des transactions". est possible que des à jour changé l'interface. Les messages d'erreur que vous mentionnez pourrait être dus à une nouvelle version de l'appli sur votre appareil. On hold: 1 min L'application est effectivement compatible avec iOS et Android. Est-ce que vous utilisez un autre système ?
+
+Speaker 2:Oui, principalement un smartphoneAndroid, aussi mon ordinateur parfois. Est-ce que ça peut poser des problèmes de compatibilité ?
+
+Speaker 1:OK, parfait. En général, l'application est à jour pour fonctionner au mieux les dernières versions d’Android et iOS. Si vous avez des soucis récurrents, parfois désinstaller et réinstaller peut aider. Pour votre ordinateur, assurez-vous d'utilise la version la plus récente des navigateurs Pouvez-vous ces étapes et me dire si fonctionne enfin ?
+
+Speaker 2:D'accord, je vais essayer. Parlons maintenant de la mise à jour de mes infos KYC. Pouvez-vous vérifier les valeurs actuelles de mes actifs et leur répartition pour que je comprenne l’impact sur ma planification financière ?
+
+Speaker 1:Bien sûr, vos actifs totaux sont estimés à AMOUNT en CUR2. Ils se répartissent comme suit: actifs immobiliers totalisent AMOUNT, actifs liquides AMOUNT et autres actifs AMOUNT. actifs sont diversifiés, ce qui aide à minimiser les risques. Y'a-t-il eu des récents dans vos actifs qui pourraient modifier cette répartition ?
+
+Speaker 2:Récemment, j'ai vendu une de mes actifs immobiliers, donc ces chiffres pourraient avoir Pouvez-vous mettre à jour ces informations?
+
+Speaker 1:Je vais ajuster ça dans notre système tout de suite. Une bonne diversification dès actifs est cruciale pour maintenir la stabilité financière. Alors, pour vos infos de contact, je vois que vous préférez les ema ils pour les comunications et souhaitez bloquer la livraison postale des documents c'est bien ça ?
+
+Speaker2: Oui, L'adresse email pour la communication est user7551@example.com.
+
+Speaker 1:D'accodr, je vais enregistrer ceci. Le blocage de livraison postale vous assure de recevoir toutes les infos légales plus rapidement et en toute sécurité par email. Y a-t-il autre chose que je peux faire pour vous aujourd'huit ?
+
+Speaker 2:Non, je pense c'est tout our le comment. Merci pour votre aide.
+
+Speaker 1:C’est un plaisir de vous insister. Si vous avez d'autres n'hésitez pas à nous contacter. Passez une excellente journée.

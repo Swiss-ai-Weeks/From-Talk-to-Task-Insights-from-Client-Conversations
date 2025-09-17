@@ -1,0 +1,14 @@
+[
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-13",
+      "contact_note": "Sustainable investing \u2013 align portfolio with ESG/impact preferences.",
+      "channel": "Video call",
+      "duration_minutes": 90
+    }
+  },
+  {
+    "task_type": "update_kyc_total_assets"
+  }
+]

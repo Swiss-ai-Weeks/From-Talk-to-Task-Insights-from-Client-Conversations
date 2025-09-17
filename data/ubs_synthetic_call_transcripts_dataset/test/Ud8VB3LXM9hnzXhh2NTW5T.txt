@@ -1,0 +1,78 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, Monsieur NAME. C'est NAME1 de l'UBS. Je vous appelle pour discuter de vos préoccupations concernant les découverts sur votre compte. Avant de commencer, puis-j vous demander de confirmer votre date de naissance et votre adresse pour raisons sécurité ?
+
+Speaker 2:Oui, bien sûr... Ma date de naissance est le DATE_NAISSANCE et mon adresse est ADRESSE.
+
+Speaker 1:Ah, il me faut ossi mettre à jour vos activités dans le cadre de la validation KYC... Oh, pardon, ce n'est pas encore le sujet. D'accord, merci pour la confirmation, Monsieur NAME. Avantd'aborder vos préoccupations concernant les découverts, permettez-moi de mettre à jour certaines informations de votre profil. Pouvez-vous me confirmer si le montant total de vos actifs est de 2,194,411 CUR2, vos actifs immobiliers de 2,526,318 CUR2, vos actifs liquides de 4,090,735 CUR2, et vos autres actifs de 641,377 CUR2 ?
+
+Speaker 2:c'est bien correct.
+
+Speaker 1:Excellent merci. Je vais égaelment noter que vos actifs sont diversifiés. Vous préférez les courriels plutôt que le courrier postal pour les communications, c'est bien ça ?
+
+Speaker 2:Oui, exactement. Je préfère recevoir des courriels.
+
+Speaker 1:Parfait, je m'assurer que votre numéro de (+41000000000) est à et que les informations légales ne pas envoyées par courrier postal.
+
+Speaker 1:C'est Merci beaucoup pour la mise àj our.
+
+Speaker 1:Pas de souci. Passons maintenant à vos préoccupations co ncernant découverts. Pour commencer, laissez-moi vous expliquer comment les limites de découvert sur votre compte. Ce limites sn tgénéralement basées sur le type de compte et votre cote de crédit. Souhaitez-vous connaître le plafond spécifique de votre compte
+
+Speaker 2:Oui, cela m'aiderait beaucoup.
+
+Speaker 1:Votre présente un découvert maximum autorisé de AMOUNT CUR2. Pour éviter le s frais de découvert, il est important de mainten ir solde minimum sur votre compte. Voulez-vous que nous examinions la balance minimale requise pour éviter ces frais ?
+
+Speaker 2:Oui, s'il vous
+
+Speaker 1:Monsieur NAME. Pouré viter les frais de découvert, votre compte doit maintenir un solde minimum MINIMOM AMOUNT CUR2. Si votre solde tombe en dessous de montant, des frais de découvert seront appliqués. Voulez-vous dtails sur les taux d'intérêt appliqués au montant du découvert et comment ils sont calculés ?
+
+Speaker 2:Oui, ce serait très utile.
+
+Speaker 1:Les intérêts sur le sont quotidiennement en fonction du montant du découvert. Le taux d'intérêt est de INTEREST RATE %. Chaque jour, les intérêts s'accumulent et sont débités de compte à la fin du mois. Pour maintenir des finances saines, je peux aussi vous expliquer la durée pendant laquele vous pouvez utiliser découvert et le processu spour demander une prolongation. Cela vous intéresse ?
+S
+peaker 2: Oui, j'aimerais en savoir plus sur la durée et les extensions
+
+Speaker 2:Vous pouvez utiliser le découvert pendant une durée de DURATION jours en continu. Si vous avez besoin 'dune extension, vous pouvez en faire la demande et nous évaluerons votre situation en fonction de votre historique bancaire de votre cote de crédit. Voulez-vous également connaître les frais associés à l'utilisation du découvert, comme les frais de retard ou de maintenance mensuels ?
+
+Speaker 2:Oui, svp, ce serait important de comprendre tous ces frais.
+
+Speaker 1:Les frais de découvert comprennent des frais de retard appliqués si le découvert n'est pas remborsé dans le délai prévu, ainsi que des frais de maintenance mensuels pour gestion du découvert. Il est crucial régler le découvert rapidement éviter des frais supplémentaires et l'impact négatif sur score de crédit. Êtes-vous préoccupé par les implications des découverts répétés sur votre santé financière et votre cote de crédit ?
+
+Speaker 1:Oui, je suis très préoccupé par l'impact sur mon score de crédit.
+
+Speaker 1:Je comprends totalement. Les découverts répétés peuvent nuire à votre scor de crédit, et plus difficile l'obtention de prêts à des taux avantageux. Pou r éviter cela, il peut être utile de mettre en place des alertes automatiques qui vous avertiont lorsque votre solde est faible. Voulez-vous discuter des options alternatives au découvert, comme les prêts personnels ou les lignes de crédit ?
+
+Speaker 2:Oui, je que des alternatives pourraient être une meilleure solution pour moi.
+
+Speaker 1:Très bien. Les prêts personnels vous permettent d'emprunter une somme fixe avec un taux d'intérêt fixe, tandis que les lignes ed crédit offrent une limite que vous pouvez utiliser selon vos besoins, avec des intérêts sur le montant emprunté. Quelle option souhaitez-vous explorer en détail ?
+
+Speaker 1:explorer lignes de crédit en détail. Comment celle-ci peut-elle m'aider à gérer ma trésorerie et quelles sont les conditions de remboursement ? De plus, quel serait le taux d'intérêt ?
+
+Speaker 1:Bien sûr, Monsieur NAME. Les lignes de crédi t sont très flexibles pour la gestion de trésorerie. Vous pouvez accéder aux fonds jusque'à la autorisée à tout moment. Les remboursements sont basés sur le montant utilisé, pas sur la totalité de la limite. Les taux d'intérêt pour les lignes de crédit sont souvent variables, actuellement VARIALBE_INTEREST_RATE %. Cela répond-il à vos besoins ou avez-vous des questions supplémentaires sur son fonctionnement ?
+
+Speaker 2:Oui, cette option répond à mes besoins .La flexibilité des lignes de crédit très attrayante. Est-ce que vous pourriez m'aider à mettre en place cette ligne de crédit ?
+Speaker 1:Avec plaisir, Monsieur NAME. Pour cela, nous devons d'abord évaluer votre cote de crédit et votre bancaire. Ensuite, vous choisirez la limite de crédit adéquate, puis nous signeront les documents nécessaires. Une cela fait, l'activation de la ligne de crédit sera immédiate. Souhaitez-vous commencer cette dès maintenant ?
+
+Speaker 2:Oui, je préfère commencer dès maintenan tsi cela ne pose pas de problème.
+
+Speaker 1:Pas de souci, je vais lancer immédiatement le processus d'évaluation. Cela prendra juste quelques minutes. Sytsème en cours de tr aitement... Pendant l'atteinte, avez-vous dautres questions ?
+
+Speaker 2:Oui, combien de temps cela prend généralement pour activer de crédit une fois toutes les démarches complétée ?
+
+Speaker 1:Habituellemen t, cela prend 24 à 48 heures après la signaturedes documents. Les documents seront envoyés par courriel pour faciliter leur retour Système en cours traitement... Si toutes les informations sont fournies correctement, l'activation se fera très rapidement.
+
+Speaker 2:Parfait, ça semble Merci pour votre aide et conseils. Y a-t-il autre chose que je devrais savoir avant de finaliser ?
+
+Speaker 1:Il de rembourser les montants utilisés rapidement pour éviter l’accumulation intérêts. Voulez-vous recevoir une documentation supplémentaire les bonnes pratiques pour gérer une ligne de crédit ?
+
+Speaker 2:Oui, cela serait très utile. Merci beaucoup.
+
+Speaker 1:Je vais vous envoyer c ela par courriel rapidement. Est-ce qu'il y a un aspect que vous souhaitez discuter aujourd'hui ?
+
+Speaker 2:Non, merci pour toutes les informations. Vous été très clair et cela me assure pour la suite.
+
+Speaker 1:Je suis ravi de pouovir vous assister, Monsieur NAME. Vous recevez bientôt une mise jour par courriel sur l'évaluation et l'activation de votre ligne de crédit. Passez une excellente journée.
+
+Sepaker 2: Merci encore, passez une bonne
+
+Speaker 1:Nous nous occupons de tout vous tiendrons informé. Bonne journée et à bientôt !

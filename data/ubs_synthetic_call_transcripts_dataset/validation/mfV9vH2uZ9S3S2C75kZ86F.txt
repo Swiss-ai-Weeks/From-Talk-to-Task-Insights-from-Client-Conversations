@@ -1,0 +1,29 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, NAME.. c'est ça? Je suis NAME1 de UBS, je vous appelle court discuter des problèmes de connexion que vous avez rencontrés. Comment ça va ajout'hui?
+
+Speaker 2:Oh, bonjour ! Eh bien, ça pourrait aller mieux. Ce souci de connexion me rendfou. Avant de commenc er, vous avez bes oin de ma date de naissance et mon adresse pour vérifier, c'est ça?
+
+Speaker 1:Oui, exactement, pour des raisons de sécurité. Pourrais-je vous demander de confirmer votre date de naissance et votre adresse, s'il vous plaît?
+
+Speaker 2:D'accord, ma date de naissance est DATE DE NAISSANCE et mon adresse est ADRESES.
+
+Speaker Merci beaucoup, Monsieur NAME. Alors, pourriez-vous m'expliquer en détail ce qui se passe ? Y a-t-il un message d'erreu r spécifique qui appareil ou est-ce qu'il y a un moment précis où l'erreur se produit ?
+
+Speaker 2:Eh bien, chaque fois que j'essaie de me connecter, après à voir entré mon identifiant et mot de passe, ça dit que mes informations sont incorrectes. J'ai déjà vérifié plusieurs fois, c'est vraiment frustrant.
+
+Speaker 1:Je suis désolé que vous ayez ce problème, Monsieur NAME. Pouvez-vous me dire si vous avez récemment changé vos identifiants ou modifié d'autres détails de votre compte ? Et avez-vous essayé de réinitialiser votre de passe avec le lien de passe oublié" sur la page de connexion ?
+
+Spekaer 2: Nom, je n'ai rien changé récement. J'ai essayé de réinitialiser mon mot de passe avec ce mais même après ça, ça continue de bugger. Je commence vraiment à me demander si mon compte est comp romis. Vous pouvez vérifier ?
+
+Speaker 1:Je En attendant, pouvez-vous me dire quels appareils et systèmes d'exploitation vous utilisez à votre compte ?
+
+Speaker 2:J'utilise principalemetn un avec iOS 16 et parfois un MacBook avec macOS Monterey. Je n'avais jamais eu ce genre de problème auparavant. Vous pouvez vérifier les maintenances récentes de la plateforme aussi ?
+
+Speaker 1:Juste une minute, je vais vérifier votre compte pour voir s'il a été compromis. Ça prendre quelques En ce qui concerne notre application bancaire, elle conçue pour fonctionner sur la plupart des appareils modernes, mais peut y avoir quelques exceptions. [pause] Je vois que votre compte va bien. Je vais vous guider pour configurer l'authentification à deux facteurs et vous envoyer un nouveu lien pour réinitialiser votre mot de passe. Assurez-vous que votre appareil est jour et vide zle cache et les cookies de recommencer. vous avezdes soucis, notre support technique est dispo 24/7. Vous trouverez leurs coordonnées dans l'application bancaire et sur notre site web.
+
+Speaker 2:Merci beaucoup, je vais ssayer ça. Je suis vraiment soul agé d'apprendre que mon compte est sécurisé. Je vais suivre vos conseils, et sinon, je contacterai le support technique.
+
+Speaker 1:C'est parfait. [pause] Avant nous quitter, n'oubliez pas de garder vos logiciels sièmes à jour pour évidez ces problèmes. Consultez notre FAQ et les guides d'utilisateur pour plus d'infos sur nos services numériques. Si vous avez besoin de plus d'aide, notre technique est toujours disponible. Passez une excellente journée, Monsieur NAME.
+
+Speaker 2:Merci, vous aussi!

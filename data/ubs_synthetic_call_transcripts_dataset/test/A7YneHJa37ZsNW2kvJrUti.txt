@@ -1,0 +1,53 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 2:Bonjour, est NAME1 de UBS. Je vous appelle pour discuter des problèmes de banque numérique et des mises à jour de vos informations KYC et de contact. Comment allez-vous aujourd'hui, Mme. NAME?
+
+Speaker 1:Euh, bonjour, ça va bien, merci. Vient sûr. date de naissance est le DATE et mon adresse est ADDRESS.
+
+Speaker 2:Ah, veuillez excuser la confusion, M. NAME, nous parlerons de l'organisation de réunion plus tard. J'ai vérifié vos informations de sécurité. Commençons par la question des problèmes de connexion à la banque numérique. Qu'avez-vous xeactement essayé de faire quels d'erreur avez-vous reçu?
+
+Speaker 1:Oui, alors, uh, j'ai essayé me connecter à ma banque numérique, mais... j'ai reçu un message d'erreur disnat que mon mot de passe était incorrect, après plusieurs tentatives. J'ai réinitialisé mon mot de passe, mais rien ne change. J'ai aussi essayé avec l'application mobile, pareil. Vous pouvez m'expliquer, euh, à deux Est-ce pourrait aider?
+
+Speaker 2:Je comprends votre L'authentification à deux facteurs, ou 2FA, est une mesure de sécurité supplémentaire qui ajoute étape à connexion. Cela pourrait effectivement améliorer votre sécurité. Normalement, ça demande un code à usage unique envoyé à votre ou généré par une spécifique. configurer le 2FA, vous devez aller dans les paramètres de sécurité de votre compte en ligne et suivre les ins tructions. Vous que je vous guide à travers cela?
+
+Sepaker 1: Ah, oui, ce serait bien, merci. Mais est-ce que ça va vraiment résoudre mes problèmes connexion, ou est-ce qu'il y a autre à vérifier?
+
+Speaker 2:L'authentification à deux facteurs va améliorer la sécurité, mais le problème pourrait aussi venir de mot de passe ou d'autres paramètres. On va vérifier tout cela ensemble. Commençons par activer le 2FA. Connectez-vous à votre compte bancaire en allez dans les paramètres de sécurité, sélectionnez "Activer l'authentification à deux facteurs" et associez votre numéro ou ajoutez une d'authentification. Vous des questions jusqu'ici?
+
+Speaker 1:Oui, pourriez-vous mexpliquer exactement comment associer mon numéro de téléphone? Et si cela ne pas, quelles sont les auters vérifications à
+
+Speaker 2:Bien sûr. Alors, pour associer votre numéro téléphone:
+1. Connectez-vous à votre compte bancaire en ligne.
+2. Allez dans les paramètres de sécurité et sélectionnez "Activer l'authentification à deux facteurs".
+3. Entrez de téléphone et attendez de recevoir le code par SMS.
+4. Entrez le code pour l'association.
+
+Si cea ne résout pas le problème, nous vérifierons:
+- Que votre mot de passe est correctement réinitialisé.
+- Que vous utilisez la version de l'appl ication mobile.
+- deconnexion sur différents appareils et navigateurs.
+
+Et si vous continuezà avoir problèmes, Contexte le support technique de la banque. que vous préférez être contacté par email?
+
+Speaker 1:Oui, je préférerais être contacté par email. Et concernant le message d'erreur de mot de passe incorrect, cela des paramètres de sécurité ou... euh, autre chose? Il y a eu des mises à jour ércemment?
+
+Speaker 2:Oui, il y a eu des mises à jour visant à am éliorer sécurité et expérience utilisateur. Cela pourrait affecter vos paramètres de connexion. Consultez les notes de à jour ou le guide de la banque. attendant, je vérifiée cela pour vous et note que vous préférez être contacté par email, votre numéro de téléphone est +41000000000, et votre adresse est classée T pour les livraisons. Tout est correct?
+
+Speaker 1:Oiu, est correct. Et pour les erreurs de connexion, si les problèmes persistent après cela, quelles sont mes options?
+
+Speaker 2:Si les problèmes persistent:
+1. Contactez le support technique pour vérifier si un bloc de sécurité est n place.
+2. Ils peuvent vous hydra à lever ce bloc par vérification d'identité.
+3. En cas de besoin, demandez une consultation en personne ou un conseiller technique.
+
+Pour les mises à jour de plateforme, vous pouvez consulter les notes de mise à jour dans la section d'aide de votre compte en ligne. Si vous ne les trouvez pas, n'hésitez pas à demander au support technique.
+
+Speaker 1:D'accord, merci beaucoup. Oui, je vais essayer d'associer mon numéro de téléphone Et je vais vérifier les notes de mise à jour. Merci pour toute votre aide.
+
+Speaker 2:Parfait. Je vais m'assurer que t outes vos informations sont correctement mises à jour dans notre système. Vous travaillez dans les ventes pour Company 1, dans le secteur technologique, et vous préférez un contact principal ment par email. Votre numéro téléphone est +41000000000 et adresse classée T est pleinement utilisable pour les livraisons.
+
+N'hésitez pas à revenir vers nous si vousavez besoin de plus d'assistance ou des préoccupations supplémentaires. Passez une bonne journée, M.
+
+Speaker 1:Merci beaucoup. Bonne journée à vous.
+
+Fin de l'appel

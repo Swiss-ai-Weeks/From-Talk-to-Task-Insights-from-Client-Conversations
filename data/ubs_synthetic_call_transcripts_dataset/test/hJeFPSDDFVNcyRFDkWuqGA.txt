@@ -1,0 +1,30 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen. Mein Name ist NAME und ich wollte mit jemandem über mein Konto sprechen. Es geht einige Überziehungsfragen und ich meine KYC-Informationen aktualisieren.
+Speaker 2:Guten Morgen Herr NAME. Hier ist NAME1 von UBS, danke, dass Sie uns kontaktieren. Ich muss zunächst Ihre Identität bestätigen. Könnten Sie mir bitte Ihr Geburtsdatum und Ihre Adresse geben?
+Speaker 1:Ja, klar. Mein Geburtsdatum ist der DATE und meine Adresse ist ADDRESS, Genève.
+Speaker 2:Super, vielen Dank. Nun, lassen uns KYC-Informationen und Ihre Kontaktdaten aktualisieren. Können Sie mir die Details zu Ihren Vermögenswerten bestätigen?
+
+processing...
+
+Speaker 2:In Unterlagen steht: Gesamtvermögenswert 265,855, Währung CUR2; Gesamtimmobilienvermögen 3,046,299; Gesamtliquiditätswerte 4,722,558; Gesamtsonstige 525,623. Ist das korrekt?
+Speaker 1:Ja, genau.
+Speaker 2:Ausserdem müssen wir die Herkunft Ihrer Vermögenswerte bestätigen. Sie haben eine grössere Summe richtig? Könetn Sie dies durch Link ['https://example.com/doc/4117'] bestätigen?
+Speaker 1:Ja, kann ich machen's.
+Speaker 2:Dank. Und zur Besättigun g Ihrer aktuellen Beschäftigung: Sie sind als Manager bei Company 3 im Finanzsektor angestellt, richtig?
+Speaker 2:Ja, das stimmt.
+Speaker 1:Super, danke. Dann werde ich jetzt Ihre aktualisieren. Ihre aktuelle Adresse lautet: Land CH, Postregionname 1227, Carouge, Genève, residence_id 42. Stimmt das?
+peaker 1: Ja, das ist korrekt.
+Speaker 2:Perfekt. Dann können wir jetzt zu Ihren Anliegen bezüglich des Überziehungslimits übergehen. Was sind Ihre Fragen dazu?
+Speaker 1:Also, zuerst möcthe ich die Bedingungen für die Genehmigung der Überziehung verstehen. Was sind die Zinssätze und der Rückzahlungsplan? Und gibt es Gebühren wenn ich vereinbarten Betrag überschreite? Und, äh, wie wirkt sich das auf meinen Kredit-Score aus?
+Speaker 2:Vielen Dank für Ihre Fragen. Die kurzfristige Überziehung, die wir bieten können, hat folgende Konditionen: Der Zinssatz beträgt 4% pro Jahr, aber das kann je nach Ihren Finanzdaten variieren. Der Rückzahlungsplan ist doch idealerweise sollte die Überziehung von 12 Monaten beglichen sein. Sie können auch monatliche Zahlungen vereinbaren. Die maximale Dauer der Überziehung beträgt ebenfalls 12 Monate. Wenn Sie denv ereinbarten Betrag überschreiten, fällt eine Gebühr von 50 CHF pro Tag an, bis Sie wieder unter dem Limit sind. Überziehungen können Einfluss auf Ihren Kredit-Score besonders wenn sie nicht pünktlich beglichen werden.Ich würde Ihnen empfehlen, stets pünktlich zahlen und nicht die volle Überziehungslinie auszuschöpfen.
+Speaker 1:Okay, das klingt vernünftig. Ist es möglich, diese 12-Monats-Frist in Aussenfällen zu verlängern?
+Speaker 2:Ja, ist möglich, spezielle Umstände vorliegen und Ihr finanzieller Status dies rechtfertigt. Wie müssten eine detaillierte Überprüfung Ihrer finanziellen Situation durchführen. Alle bestehenden Konditionen müssen erfüllt sein.
+Speaker 1:Okay. Und was sind die alternativen Lösungen für kurzfristige Liquiditätsprobleme? Welche persönlichen Kredite oder Strategien zur Umstrukturierung könnten Sie empfehlen?
+Speaker 2:Persönliche Kredite bieten oft günstigere Zinssäte und klare Rückzahlungsvereinbarungen im Vergleich zur Überziehung, und vermeiden hohe Strafen bei verspäteten Zahlungen. Durch die Umstrukturierung Ihrer Vermögenswerte, könnte beispielsweise eins Teil der Liquiditätswerte genutzt werden oer Immobilienanteile vrekauft werden. Das zusätzliche Schulden aufzunehmen. Sparpläne, denen regelmässig ein Teil Ihres Einkommens zur Seite gelegt wird, können langfristig stabile finanzielle Grundlage schaffen und Engpässe vermeiden.
+Speaker 1:Das sind hilfreiche Vorschläge. Ich werden darüber nachdenken. Und für die Schuldenreduzierung und mein Kredit-Score, haben Sie Tipps?
+Speaker 2:Weniger unnötige und regelmässig Ihre Budgets Einsparungspotenziale zu finden. Stellen Sie sicher, dass alle Zahlungen pünktlich erfolgen. Sie Tools und Berichte, um Ihren Kredit-Score regelmässig zu überwachen und gezielt Massnahmen zur Verbesserung zu ergreifen.
+Speaker 1:VielenDank für diese ausführlichen Antworten. Falls ich in der weitere Fragen habe, werde ich sicherlich wieder auf Sie zukommen.
+Speaker 2:Das freut mich, NAME. Ich fasse noch einmal zusammen: Ihr beträgt 265,855 CUR2, 3,046,299, Gesamtliquiditätswerte 4,722,558 und Gesamtsonstge Vermögenswerte5 25,623. Ihre Vermögenswerte sind diversifiziert und durch unter ['https://example.com/doc/4117']. Sie sind als Manager bei Compan im Finanzsektor angestellt und Ihre Adresse ist Land CH, Postregionname 1227, Garage, Genève, residence_id 42. Falls Sie zusätzliche Unterstützung benötigen, stehe ich Ihnen jederzei zur Verfügung.
+Speaker 1:Super, vielen Dank für Ihre Hilfe und Ihre Geduld.
+Speaker 2:Ich freue dass ich Ihnen weierhelfen konnte. Vielen Dank für Ihr Vertrauen. Ich wünsche einen erfolgreichen Tag! Wenn Sie Fragen haben, zögern Sie nicht, mih zu kontaktieren.

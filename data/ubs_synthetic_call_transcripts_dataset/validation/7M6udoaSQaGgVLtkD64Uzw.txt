@@ -1,0 +1,37 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, ich fange irgendwie an durchzudrehen, ich kann einfach nicht ins Digital Banking einloggen. Können Sie mir bitte helfen, das klären?
+
+Speaker 2:guten Morge. Können Sie mir kurz Ihr Geburtsdatum und Ihre Adresse zur Bestätigung nennen?
+
+Speaker 1:Oh, müssen wir meine Vermögensherkunft aktualisieren? Entschuldigung, das war die falsche Info. Na klar, mein Geburtsdatum ist [GEBURTSDATUM] und meine Adresse ist [ADRESSE].
+
+Speaker 2:Danke, das ist jetzt bestätigt.S o, was genau Haben Sie schon versucht, um das Anmeldungsrpobleme zu lösen? Haben Sie spezifische Fehlermeldungen erhalten?
+
+Speaker 1:also... ich habe mein Passwort und die Zwei-Faktor-Authentifizierung mit dem Code per SMS verwe ndet, aber das System sagt mir, dass meine Zugangsdaten ungültig sind. Das macht mich fertig, ich brauche echt Hilfe.
+
+Speaker 2:Hmm, verstehe. Erscheint den eine bestimmte Fehlermeldung, wenn Sie sich anmelden wollen?
+
+Speaker 1:Ja, da steht: "Ungültige Zugangsdaten. Bitte überprüfen Ihre Eingaben und versuchen es erneut."
+
+Speaker 2:Danke für die genaue Beschreibung. Das klingt, als könnte es ein Problem mit der Eingabe Ihrer Zugangsdaten oder der Zwei-Faktor-Authentifizierung geben. Sind Sie sicher, dass Ihr Benutzername und Passwort absolut korrekt eingegeben sind?
+
+Speaker 1:Ja, ich habe alles sorgfältig eingegeben, ekine Tippehler. Das macht's so frustrierend. Mein Handy hat auch keine neuen Updates bekommen und die Telefonnummer ist die geliche. Könnte es ein Systemfehler bei sein? Und wie sicher sind meine Daten überhaupt in Prozess? Ich mache mir Sorgen m meine Privatsphäre. Und wie lange könnte es dauern, bis das Problem behoben ist? Gibt es irgendeine Alternative, solange das Problem besteht?
+
+Speaker 2 Ich verstehe Ihre Besorgnis vollkommen. Ihre Daten siher, unsere Systeme sind sehr geschützt. Es könnte tatsächlich ein technisches Problem auf unserer Seite sein...
+
+Speaker 2:werde sofort an unser IT-Team weiterleiten. Es ist zu sagen, wie es dauert, aber wir arbeiten daran das schnell zu lösen. Bis dahin können Sie Bankgeschäfte telefonisch oder in einer Filiale erledigen. Oder vielleicht eine temporäre Lösung wie die Nutzung Banking-App ausprobieren.
+
+Speaker 1:Ok, as beruhigt mich ein wenig. Und läuft das mit dem KYC-Update? Ich hab angegeben, dass ich momentan arbeitslos bin. Muss ich da besonders was beachten?
+
+Speaker 2:Der KYC-Prozess sorgt dafür, dass Ihre Daten aktuell und korrekt sind. Irhe Angaben beeinflussen Ihre Bankdienste nicht negativ. Die Felder für und Sektor können leer bleiben. Wichtig ist nur der Beschäftigungsstatus. Haben Sie weitere Fragen dazu?
+
+Speaker 1:Danke für die Info! Das beruhigt mich echt. Muss ich Informationen regelmässig aktualisieren oder nur, wenn mein Stadtus ändert?
+
+Speaker 2:Sie müssen KYC-Informationen unr bei wesentlichen Änderungen aktualisieren. Es ist keine regelmässige Aktualisierung erforderlich, nur bei Änderungen. Bei künftigen Änderungen können Sie das einfach online oder durch unseren Kundenservice mitteilen. Gibt es sonst noch etwas?
+
+Speaker 1:Nein, das war alles für heute. Ich danke Ihnen vielmals für Hilfe und die ausführlichen Erklärungen. Ich hoffe, das mit dem Digital Banking wird behoben. Dankeschön!
+
+Speaker 2:Es freut mich, dass ich Ihnen helfen konnte. Ich werde sicherstellen, dass das IT-Team das Prbolem schnellstmöglich bearbeitet und Sie informiert werden. Vielen Dank für Ihre Geduld Ihr Vertrauen. Bei weiteren Fragen oder Anliegen stehe ich Ihnen jederzeit zur Verfügung. Einen schönenTag noch!
+
+Speaker 1:Danke, Ihnen auch!

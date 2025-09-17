@@ -1,0 +1,21 @@
+[
+  {
+    "task_type": "update_kyc_origin_of_assets",
+    "parameters": {
+      "origin": "Salary",
+      "details": "Client inherited a large sum of money.",
+      "corroboration_or_evidence": [
+        "https://example.com/doc/9637"
+      ]
+    }
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-26",
+      "contact_note": "Alternative investments \u2013 discuss private markets, hedge funds, or real assets.",
+      "channel": "In-person at branch",
+      "duration_minutes": 45
+    }
+  }
+]

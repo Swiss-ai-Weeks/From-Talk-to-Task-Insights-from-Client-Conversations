@@ -1,0 +1,32 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, hier spricht NAME von UBS. Ich rufe an, um über die Probleme beim digitalen Banking-Login mit Ihnen zu sprechen. Gutten Tag, Herr NAME. Wie geht es Ihnen? Bevor wir fortfahren, könnte ich Sie bitten, Ihr Geburtsdatum und Ihre Adresse bestätigen für Sicherheitszwecke?
+Speaker 2:Ja, natürlich. Mein Geburtsdatum ist der DATUM und meine Adrsese lautet ADRESSE.
+
+Speaker 2:Vielen Dank für die Ihrer Daten. Ich verstehe, dass Sie Probleme beim Einloggen in unser digitalis Banking-System haben. Können Sie mir die Fehlermeldungen schildern, die beim Versuch zu loggen erhalten? Welche Schritte haben Sie bereits unternommen, um das Problem zu beheben?
+Speaker 2:Ja, ih habe mehrmals versucht, mich einzuloggen und kommme immer wieder die Meldung, dass mein Passwort oder der Code von der Zwei-Faktor-Authentifizierung nicht akzeptiert werden. Ich habe das Passwort geändert und die App für die Zwei-Faktor-Authentifizierung neu insta lliert, aber es funktioniert trotzdem nicht. Ich mache mir Sorgen um die Sicherheit meines Kontos. Können Sie mir bitte helfen, das zu lösen?
+
+Speaker 1:Sie Ihr Passwort geändert und die App neu installiert haben, ist schon gut. Ich verstehe Ihre Sorge. Lassen Sie uns die Zwei-Faktor-Authentfizierung nochmal zusammen durchgehen. Können Sie mir bestätigen, dass Ihre Telefonnummer und E-Mail-Adresse im System korrekt sind?
+Speaker 1:Ja, ich habe keine Telefonnummer und E-Mail-Adresse überprüft und kürzlich aktualisiert. Ich hoffe, das löst das Prbolem. Ich brauche dringend Zugriff uaf mein Konto. Gibt es eine andere Möglichkeit, falls das digitale Banking nicht funktioniert? Ich muss heute noch wichtige Transaktionen durchführen.
+
+Speaker 1:Ich verstehe Ihre Dringlichkeit. Sie können Telefonbanking nutzen oder direkt eine unserer Filialen besuchen. Wlche App Sie für die Zwei-Faktor -Authentifizierung, Authenticator oder eine andere?
+Speaker 2:Ich nutze Google Authenticator. Aber der Code wird manchmal nicht akzeptiert, obwohl ich die App neu installiert habe. Was könnte das Problem sein? Können Sie mir die Schritte erklären, um sicherzustellen, Das alles funktioniert?
+
+Speaker 1:Danke für die Information. Manchmal liegt das an der Synchronisation des Codes. Stellen Sie sicher, dass die Zeti- und Datumseinstellungen auf Ihrem Gerät korrekt sind und auf automatisch gestellt sind. Öffnen Sie Google Authenticator und überprüfen Sie, ob der richtige Code für Ihr Konto generiert wird. Versuchen Sie sich dann erneut einzuloggen.
+
+Speaker 2:Okay, ich werde das überprüfen. Was, wenn es immer noch nicht funktioniert? Können Sie mir beim telefonischen Banikng helfen?
+
+Speaker 1:Natürlich. Unser Telefonbankng ist sicher. Die Hotline-Nummer ist XYZ. Identifizieren Sie sich mit Ihren persönlihcen Daten und einem Sicherheitscode. Jede wird durch einen per SMS oder EM-ail Ist das in Ordnung für Sie?
+Speaker 2:J a, das klingt gut. Ich bin zu hören, dass ich heute noch Zugang zu meinem Konto haben kann. Vielen Dank für Ihre Hilfe.
+
+Speaker 1:Alles klar. Noch eine Frage zu Ihren KYC-Daten. Können Sie Ihre aktuelle berufliche und vorherige Berufserfahrung bestätigen?
+Speaker 2:Oh, ja. Ich bin arbeitslos. Mein letzter Job war als POSITION bei EMPLOYER im SEKTOR. Ich aktiv nach einer neuen Stelle. Hat das irgendwelche Auswirkungen meine Konten?
+
+Speaker 1:Ihre Arbeitslosigkeit ht keine negativen auf Ihre Konten. Ihre KYC-Daten sind jetzt auf dem Stand. Unser Treffen am 8. September um 14:00 Uhr ist bestätigt. Es wäre hilfreich, relevante Finanzdokumente Kontoauszüge eine Übersicht Ihrer finanziellen Ziele mitzubringen. Für das Treffen am 5. Oktober zur Planung des Liquiditätsereignisses bringen Sie bitte zum Vermögensverkauf oder zu den Dividenden. Haben Sie sonst noch Fragen?
+Speaker 2:Nein, das ist in Ordnung. Vielen Dank für die Informationen und Ihre Hilfe. Bis zu den Treffen dann!
+
+Speaker 1:Ich bin froh, dass wir eine Lösung gefunden haben. zu unseren k Treffen wünsche ich Ihnen alles Gute. Sie noch zuzätzische Fragen?
+Speaker 2:Nein, das Danke!
+
+Speaker 1:Auf und einen schönen Tag.
+Spaker 2: Danke, Ihnen auch.

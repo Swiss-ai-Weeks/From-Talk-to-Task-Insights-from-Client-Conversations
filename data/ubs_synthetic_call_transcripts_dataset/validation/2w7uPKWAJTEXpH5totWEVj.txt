@@ -1,0 +1,40 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, Herr NAME. Ich bin NAME1 von der UBS, nd ich rufe an, um über einige wichtige Themen zu sprechen. Bevor wirfortfahren, könnte ich Sie bitte aus Sicherheitsgründen bitten, Ihr Geburtsdatum und Ihre Adresse zu bestätigen?
+
+Speaker2: Ah , ja klar, mein ist der DATUM und meine Adresse lautet die SE.
+
+Speker 1: Vielen Dank, Herr NAME. Lassen Sie uns nun über die Punkte Sprechen, die Sie erwähnt haben. Zunächste möchte ich für Ihre Geduld in diesem Prozess danken. Sie haben erwähnt, dass Sie Probleme beim Login in Ihre digitale Banking-Anwendung haben. Können Sie mir ein wenig mehr Uber Problem erzählen? Gab es eine Fehlermeldung oder eine Art von Anzeichen darüber, warum der Login nicht funktioniert?
+
+Speaker 2:Oh, übrigens, ich soll ja noch das KYC für Zweck unserer Geschäftsbeziehung aktualisieren... Entschuldigung, ich meine, ich habe in letzter Zeit Schwierigkeiten, mich meiner digitalen Banking-Anwendung anzumelden. Es gab keine spezifische Fehlermeldung, aber ich konnte einfach nicht auf mein Konto zugreifen, und das hat mich etwas beunruhigt. machemir ein wenig Sorgen um die Sicherheit meiner Daten.
+
+Speaker 1:Ich v erstehe, dass es beunruhigend ist, wenn Sie nicht auf Ihr Konto zugreifen können. Manchmal könnten technische Probleme wie Probleme Ihrer Internetverbindung oder Ihrem den zur digitalen Banking-Anwendung behindern. Als erstes, um das zu prüfen, möchte ich kurz erläutern, wie Sie Zwei-Faktor-Authentifizierung einrichten können. Diese erhöht Ihre Sicherheit erheblich.
+
+Speaker 2:das wäre grossartig. Können Sie mir mehr darüber sagen, wie ich die Zwei-Faktor-Authentifizierung einrichten kann?
+
+Speaker 1:Natürlich. Mit der Zwei-Faktor-Authentifizierung benötigen Sie neben Ihrem Passwort noch einen Bestätigungscode, der an Ihr Telefon gesendet wird. die Schritte zur Einrichtung:
+1. Login in Ihre digitale Banking-Anwendung: Melden Sie sich mit Ihrem Benutzernamen und Passwort an.
+2. Navigieren Sie zu den Im Menü finden Sie die Option für Sicherheit oder Zwei-Faktor-Authentifizierung.
+3. Akt ivieren Sie Zwei-Faktor-Authentifizierung: Folgen Sie den Anweisungen zur Aktiverung. Dies beinhaltet, dass Sie Ihre Telefonnummer eingeben, an die der Bestätigungscode geschickt wird.
+4. Bestätigungscode Sei erhalten eine SMS eine Benachrichtigung mit einem Bestätigungscode, den Sie eingeben müssen, um die Einrihctung abzuschliessen.
+
+Speaker 2:Danke für die detaillierte Anleitung. Das hört sich sehr hilfreich an. Ich we rde die Zwei-Faktor-Authentifizierung nach diesen einrichten. Eine zusätzliche Sicherheitslinie freut mich wirklich sehr.
+
+Speaker 1:freut mich sehr zu hören. Bezüglich Ihrer Kontaktinformationen werde ich die Änderungen umgehend durchführen. Ihr Wohnort in Luzern, CH, 6000, sowie Ihre neue E-Mail-Adresse user1659@example.com und Präferenz für die E-Mail-Kommunikation wurden
+
+Speaker 2:Vielen D ank für Ihre Unterstützung bei de rAktualisierung meiner Kontaktinfos. Könnten Sie bitte noch bestätigen, alles erfolgreich wurde?
+
+Speaker 1:Selbstverständlich. Die neuen Informationen wurden erfolgreich aktualisiert. Ihr Wohnort in Luzern, CH, und Ihre neue E-Mail-Adresse user1659@example.com sind jetzt korrekt gespeichert. Ihre KYC-Daten sind ebenfalls aktualisiert. I als Developer bei Company 3 im Finanzsektor, die Aufschlüssleung Ihrer Vermögenswerte in 3202547 für Immobilien, für liquide Mtitel 740882 in anderen Vermögenswerten sowie die Herkunft Vermögenswerte aus einr Erbschaft wurden vermerkt.
+
+Speaker 2:Das beruhigt mich sehr. Vielen Dank. Gibt es eine schriftliche Bestätigung, die ich dazu noch erhalten werde?
+Speaker 1:Jawohl, Sie werden eine schriftliche Bestätigung der aktualisierten Kontakt- und Vermögensdaten per E-Mail erhalten. enthält eine detaillierte Übersicht der geänderten Informationen und als Nachweis für Ihre Unterlagen. Diese sollte innerhalb der nächsten 3 Werktage bei sein.
+
+Speaker 2:Danke für die Bestätigung und die umfassenden Informationen. Es ist beruhigend zu wissen, dass Irhe Plattform so viele Si cherheitsmassnahmen umfasst. Ic h werdedie empfohlenen Schritte befolgen, um meine Daten sicher zu halten. Noch eine letzte Frage: Kann ich mich im Falle weiterer Probleme direkt an Sie wenden?
+
+Speaker 1:Selbstverständlich. Unser steht Ihnen jederzeit zur Verfügung. Sie können unser unter EMAIL oder erreichen. Dies ist auch in Ihrer schriftlichen Bestätigung vermerkt, Sie erhalten werden.
+
+Speaker 2:Vielen Dank für die Kontaktdaten und die schnelle Hilfe. Ich habe keine weiteren Fragen mehr. Ihre Unterstützung während dieses Gesprächs ist sehr
+S
+peaker 1: Es freut mich sehr, dass ich helfen konnte. Dank für Ihre Rückmeldung. Falls Sie in Zukunft Fragen oder Anliegen haben, wissen Sie, dass uns jederzeit kontaktieren können. Ich wünsche Ihnen alles Gute und einen schönen Tagg.
+
+Speaker 2:Dank. Ihnen ebenfalls einen schönen Tag.

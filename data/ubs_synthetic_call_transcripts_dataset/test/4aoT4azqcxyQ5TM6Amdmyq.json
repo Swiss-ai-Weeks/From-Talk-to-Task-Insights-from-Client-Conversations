@@ -1,0 +1,14 @@
+[
+  {
+    "task_type": "update_kyc_total_assets"
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-13",
+      "contact_note": "FX hedging \u2013 protect global income/assets from currency fluctuations.",
+      "channel": "Client office",
+      "duration_minutes": 60
+    }
+  }
+]

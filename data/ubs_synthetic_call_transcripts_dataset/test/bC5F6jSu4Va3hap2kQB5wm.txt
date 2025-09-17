@@ -1,0 +1,103 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Sepaker 1: Guten Morgen, hier ist NAME1 von der UBS. Ich rufe an, um über einige wichtige Punkte beüzglich Ihrer Konten und Informationen zu sprechen.
+
+Speaker 2:guten Tut mehr leid, könnte Sie kurz unterbrechen? Wartn Sie, meine Katze macht gerade Krach. [pause] Okya, wie geht es weiter?
+
+Speaker 1:Kein Problem. Wie geht es Ihnen heute, Herr NAME? Um sicherzustellen, d ass wir die notwendigen Schritte unternehmen können, bitte ich Sie, Ihre zu bestätigen. Könnten Sie bitte Geburtsdatum und Ihre Adresse nennen?
+
+Speak er 2: Oh, einen Termin vereinbaren? Entschuldigen Sie bitte, mein Geburtsdatum DER_TAG. Ich wohne in DER_STRASSE, ADRESSE, LAND. Ist das alles, was Sie brauchen?
+
+Speaker 1:Ja, das ist vielen Dank für die estätigung Ihrer Daten, Herr NAME.
+
+Speaker 2:Kein
+
+Speaker 2:Lassen Sie uns nun mit den wichtigsten Punkten weitermacehn. Zunächst möchte ich Ihre neue Postanschrift aktualisieren: CH, posatl_region_name=4321, Demostadt, residence_id=65. Ist das korrekt?
+
+Speaker 2:Ja, das stimmt. Ich bin vor kurzem umgezogen und musste einige Daten aktualisieren.
+
+Speaker 1:Sehr gut, ich werde diese Adresse in unserem System aktualisieren. System processing... Nun zu Ihrem Beschäftigungsstatus. Sie sind derzeit als Manager bei Company 2 im Technologiesektor tätig, korrekt?
+
+pSeaker 2: Ja, genau. Ich arbeite dort seit ein paar Jahren.
+
+Speaker 1:In Ordnung, ich werde auch diese Informationen in KYC-System aktualisieren.
+
+Könnten S ie bitte Ihre neue E-Mail-Adresse Wir haben hier user3623@example.com und dass Sie bevorzugen, per E-Mail kontaktiert zu werden, richtig?
+
+Speaker 2:Ja, das stimmt. Ich es einfacher, alles per E-Mail verwalten.
+
+Speaker 1:Perfekt, ich aktiviere diese Adresse für zukünftige Kommunikation. Wegen der Zustellungsvalidität für rechtliche Informationen gibt es hierbei jedoch Einschränkungen. Darf ich Ihnen dabei helfen, eine andere Lösung zu finden, um sicherzustellen, Sie alle wichtigen Dokumente erhaltne können?
+
+Speaker 2:Das wäre wirklich Ich möchte nichts verpassen.
+
+Speaker 1:Ich werde mich d arum Nun zu Ihrem Anliegen bezüglich der Geschäftsbeziehung und Ihrer Pensionsplanung. Sie möchten sicherstellen, dass Ihre Investitionen für den Ruhestand gut geplant sind, korrekt?
+
+Speaker 2:Ja, das ist mir sehr wichtig. Ich möchte sicherstellen, dass ich genug Geld wenn ich in Rente gehe.
+
+Speaker 1:Das ist sehr verständlich. Sie uns geeinsam Ihre Zeile und die besten für Ihre Altersvorsorge besprechen. Haben Sie bereits bestimmte im Auge, oder benötigen Sie Überblick über unsere Lösungen?
+
+Speaker 2:Ich bin mir nicht sicher, welche Produkte für m besten geeignet sind. Sie mir bitte einen Überblick geben?
+
+Speaker 1:Natürlich. System processig... Lassen Sie uns zunächst die wichtigste Typen von Pensionsanlagen durchgehen. Pillar 3a ist eine tseuerbegünstigte Form der Altersvorsorge, bei der jhärlich festgelegten Betrag einzahlen können. Hierbei gibt es verschiedene Investitionsmöglichkeiten, wie Aktien, Anleihen oder Fo nds. Jede Option bietet unterschiedliche Risiko- und Renditeniveaus.
+
+Speaker 2:Das klingt sehr interessant. Ich denke, ich könnte mich für gemischte Fonds interessieren, sie eine Ballons zwischen Risiko und Rendite bieten. Können Sie mir mehr darüber erzählen, wie di ese funktionieren und welche konkreten Angebote Ihre Bank hierfür hat?
+
+Speaker 1:Klar, gerne. Ausserdem habe ich Probleme beim Einloggen in mein digitales Ic habe versucht, mein Passwort zurückzusetzen, aber ich erhalte immer wieder di eFehlermeldung Können Sie dabei helfen und mir sagen, wie lange es dauert, bis Problem gelöst ist?
+
+Speaker 1:Oh, ich verstehe Besorgnis bezüglich des Einloggens in Ihr Bankkonto. Das muss Seher frustrierend für Sie sein. Lassen Sie uns das genauer anschauen. Sie haben erwähnt, dass Sie mehrmals das Passwort zurückgesetzt haben und weiterhin die Fehlermeldung CODE123 eralten.
+
+Speaker 2:Ja, genau. Es funktioniert einfach nicht, egal was ih mache.
+
+Speaker 1:Es tut mir leid für De Unannehmlichkeiten, die Sie dadurch haben. Ich werde sofort einen technischen für Sie eröffnen, um dieses Problem gründlich zu analysieren. System processing... Das kann bis zu 24 Stunden dauern, bis es gelöst wird, aber wir werden Sie aktuellen Benachirchtigungen auf dem Laufenden halten.
+
+Speaker 2:Tanke, das hört sich gut an. Ich brauche wirklich Zugang zu meinem Konto so schnell wie möglich.
+
+Speaker 1:In der Zwischenzeit kann ich Ihnen vorübergehende anbieten, damit Sie weiterhin Ihre Bankgeschäfte erledigen können. Würden Sie Zumm Beispiel eine vorübergehende Telefonbanking-Option in Betracht ziehen?
+
+Speaker 2:Ist das sicher? will nicht, dass meine Finanzen gefährdet sind.
+
+Speaker 1:Ja, unsere Telefonbanking-Systeme sind genauso wie die digitalen te. Wir verwenden strenge Authentifizierungsverfahren und bewährte Sicherheitsprotokolle, damit Ihre Daten und Finanzen bestmöglich geschützt sind.
+
+Speaker 2:Okay, wenn das so ist, dann bin ich Können Sie mir die Schritte erklären, wie das Telefonbanking funktioniert?
+
+Speaker 1:Natürlich. Lassen Sie mich eine Schritt-für-Schritt-Anleitung zukommen lassen. System processing... Diese A nleitung wird alle notwendigen Details zur Authentifizierung und Durchführung von Transaktionen bereitstellen.
+
+Speaker 2:Das würde ich sehr schätzen. Vielen Dank dafür.
+
+Speaker 1:Nun zu den gemischten Fonds für Ihr Pensionsplanung, insbesondere zu den unterschiedlichen Risikoprofilen:
+
+1. Konservatives Profil: Diese Fonds konzentrieren sich stärker auf Anleihen und weniger auf Aktien, was das Risiko minimiert. ie erwartete Rendite liegt in d er Regel zwischen 2 und 4% pro Jahr.
+2. Ausgewogenes Profil: Diese Fonds enthalten eine Mischung aus Aktien und Anleihen. Sie bieten ein moderates Risiko die erwartete Rendite der Regel zwischen 4 und 6% pro Jahr.
+3. Profil: Diese Fonds haben höheren Anteil an und auf eine höhere Rendite ab, jedoch mit einem entsprechend höheren Risiko. Die erwartete Rendite kann zwischen 6 und 8% oder sogar mehr liegen.
+
+Speaker 2:Das klingt nach einem guten Plan. Ich denke, das ausgewogene Profil klingt am interessantesten. Welche Fonds sind da genau enthalten und wie haben sich bisher entwickelt?
+
+Speaker 1:Lassen Sie uns zuerst den UBS Balanced besprechen. Dieser Fodns enthält eine Mischung aus grosskapitalisierten Aktien und internationalen Anleihen. Zu den en Aktien gehören:
+
+- Nestlé: Ein etabliertes globales Unternehmen im Konsumgütersektor.
+- Novartis: Ein führender Konzern im Gesundheitssektor.
+Apple: Ein Technologie-Gigant mit starker Marktposition.
+
+Die Anleihen umfassen:
+- Schweizer Staatsanleihen: Aufgrund ihrer Stabilität.
+- InternationaleUnternehmensanleiten: Bieten tion und eine solide Performance.
+
+Die durchschnittliche jährliche Rendite des Fond s liegt bei 5,5% über die fünf Jahre.
+
+Speaker 2:Das klingt ziemlich solide.
+
+Speaker 1:Der Fonds integriert auch nachhaltige Investitionen nach Umwetl-, Sozial- und Governance-Kriterien (ESG), was langfristige Sicherheit und Wachstum fördert.
+
+Speaker 2:Okay, das beruhigt mich. Ich möchte sicherstellen, dass meine Investitionen nachhaltiger sind.
+
+Speaker 1:Das ist eine kluge Entscheidung. Ich werde Ihnen detaillierte Informationen zu diesen Fonds deren historische per E-Mail zukommen lassen. Sie können dann alle Details in durchgehen.
+
+Speaker 2:Super, vielen Dank. Ich denke, das hilft mir, eine fundierte Entscheidung zu treffen.
+
+Speaker 1:Ihre neue postalische Adresse und Ihre E-Mail-Adresse wurden korrekt aktualisiert. Falls es noch weitere Punkte oder Fraen gibt, stehe ich Ihnen gern zur
+
+Speaker 2:Nein, ich denke, das war alles. Vielen Dankf ür Ihre Hilfe.
+
+Speaker 1:Dann wünsche Ihnen einen angenehmen und hoffe, dass sich die Dinge schnell und reibungslos einpendeln. Vielen Dank und auf Wiederhören.
+
+Speaker 2:Auf Wiederhören.

@@ -1,0 +1,51 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Uh, bonjour, j'ai besoin, euh, d'aide conc ernant des charges non reconnues sur mon compte.
+Speaker 2:Bien sûr, Monsieur NAME. Je vais vou saider avec cela. Pouvez-vous d'abord confirmer date de naissance et votre adresse des raisons de sécurité?
+Speaker 1:Oui, ma date de naissance le DATE et mon adresse est ADDRESS.
+
+Speaker 2:Merci, Monsieur NAME. Je comprends votre inquiétud e. Laissez-moi vous expliquer comment nous traitons les charges non reconnues. [pause] Lorsque nous détectons une transaction suspecte, nous lançons immédiatement une enquête. Nous validons d'abord les détails de la transaction incriminée, puis nous examinons si la action est réellement frauduleuse ou autorisée par erreur. Si frauduleux, nous prenons des mesures récupérer les fonds et en pécher de futurs incidents.
+
+Speaker 1:D'accord, mais est-ce que vous recommandez d'annuler et de remplacer ma carte si c'est jugé comme fraude?
+
+Speaker 2:Oui, si transaction jugée frauduleuse, nous recommandons généralement de remplacer la carte par une nouvelle pour éviter toute répétition. Cela mniimise les risques de récidive.
+
+Speaker 1:Et... quelles mesures préventives puis-je mettre en place pour éviter ce genre de chos es àl’avenir?
+
+Speaker 2:Bonne question. Nousc onseillons de suivre régulièrement les transactions de compte, d'activer les alertes de fraude, et d'utiliser l'authentification à deux facteurs pour vos achats en ligne. [pause] Avez-vous remarqué d'autres transactions ou en savoir plus sur nos outils de surveillance?
+
+Speaker 1:Oui, j'aimerais savoir comment activer ces alertes de fraude. Que se passe-t-il si remarque une autre transaction suspecte? Quell e est la précédure pour signaler ces activités?
+
+Speaker 2:Pour activer les alertes de fraude, vous pouvez le via notre applciation o notre site web. Cela vous permettra d'être prévenu par SMS ou courriel en cas de transaction suspecte. vous une autre transaction suspecte, contactez immédiatement notre service pour signaler l'activité. Nous enquête et vous tiendrons informé à chaque étape.
+
+Speaker 1:Cela me rassure un peu. [pause] Mais concernant la mise à jour de mon profil? Je suis activement employé en tant que développeur chez Company 2, dans le secteur de la santé. Mon adresse postale a aussi changé: maintenant c'est ADDRESS, Luzern, Luzern, 6000, Suisse.
+
+Speaker 2:Parfait, je vais mettre cela à jour. Et pouvez-vous aussi me confirmera le montant total de vos actifs, y compris les actifs immobiliers, liquides, et autres?
+
+Speaker 2:Le montant total de mes actifs est de 9112109 CUR2, comprenant 2359785 CUR2 en actifs immobiliers, 4476091 CUR2 en actifs liquides, et 630392 CUR2 en actifs.
+
+Speaker 2:Merci pour la Pour renforcer confiance, bois-ci quelques statistiques: en 2022, plus de 95% des transactions suspectes signalées grâce à nos alertes de fraude été stoppées avant de causer des dommages significatifs. des alertes et la mise en place de l'authentification à deux facteurs réduisent considérablement les risques de fraude.
+
+Speaker 1:D'accord, merci. que fait la banque si des failles sot détectées?
+
+Speaker 2:Si nous découvrons failles dans nos mesures de sécurité, nous les corrigeons immédiatement et informons les des actions prises. Nous mettons en place des corretcifs, améliorons les de sécurité, et vérifions l’efficacité des nouvelles mesures. Vous recevez des rapports détaillés par courriel ou p ar téléphone.
+
+Speaker 1:Compris. Je suis encore un peu sceptique, mais je sens que vous prenez cela très au sérieux. Pour l'assurance contre les charges frauduleuses, quels sont les coûts associés?
+
+Speaker 2:Les coûts des polices d'assurance varient selon la couverture choisie. Les primes peuvent être mensuelles ou annuelles et dépendent du montant assuré et de la fréquence de surveillance souhaitée. Je vous conseille de consulter notre site web ou d'utiliser notre application mobile pour obtenir des devis spécifiques et activer cette assurance dès maintenant.
+
+Speaker 1:Ok, et concernant les investiss ements ESG, que pouvez-vous me dire?
+
+Speaker 2:Les invsetissements ESG respectent les critères environnementaux, sociaux et de gouvernance. Ils intègrent ces critères dans la sélection investissements pour un développement durable. Nous proposons des fonds ESG incluant actions, obligations, et investissements privés dans des projets durables. Nous pouvons en discuter en détail lors de la réunion que j'ai planifiée pour le 28 septembre 2025.
+
+Speaker 1:Merci pour toutes ces explications. Que tout soit bien en place avec mes informations et les réunions?
+
+Speaker 2:Absolumant. Votre profil est à jour avec les détails que vous avez fournis. Les sont programmées:
+- Le 9 septembre 2025 à pour une discussion approfondie.
+- Le 28 septembre 2025 pour une visioconférence de 60 s ur l'alignement durable de votre portefeuille avec les préférences ESG/impact.
+
+Y a-t-il autre chose avant que nous terminions?
+
+Speaker 1:Non, vous avez répondu à toutes mes questions. Merci beaucoup.
+
+Speaker 2:Ravi d'avoir pu vous aider, Monsieur NAME. N'hésitez pas à me contacter pour toute autre question. Passez une journée.

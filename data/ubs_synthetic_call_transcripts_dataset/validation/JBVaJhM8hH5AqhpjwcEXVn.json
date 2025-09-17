@@ -1,0 +1,14 @@
+[
+  {
+    "task_type": "update_contact_info_non_postal"
+  },
+  {
+    "task_type": "plan_contact",
+    "parameters": {
+      "contact_date": "2025-09-19",
+      "contact_note": "Liquidity event planning \u2013 discuss deployment of funds after a major asset sale or dividend payout.",
+      "channel": "In-person at branch",
+      "duration_minutes": 90
+    }
+  }
+]

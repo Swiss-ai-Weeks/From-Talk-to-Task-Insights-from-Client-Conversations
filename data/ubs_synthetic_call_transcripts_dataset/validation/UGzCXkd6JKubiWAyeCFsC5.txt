@@ -1,0 +1,27 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, m'appelle NAME, je viens d'UBS. Un instant... Oh, je crois m'entend mal. Est-ce que vous m'entendez bien ?
+Speaker 2:Oui, je vous entends bien maintenant.
+Speaker 1:bien, je vous appelle concernant une charge non reconnue sur votre carte. Pour commencer et pour des raisons de sécurité, pourriez-vous votre date de naissance et adresse ?
+Speaker 1:Bien sûr, ma date naissance ets le [DATE], et mon adresse est [ADDRESS].
+Speaker 1:Merci pour la confirmtaion, Monsieur NAME. regardé la charge non reconnue. Il s'agitée d'une transaction le [Date de transaction] pour unmontant de [Montant] avec le marchand [Nom du marchand]. Cette charge vous est-elle ?
+Speaker 2:Non, je ne reconnais pas du tout cette transaction. J'ai aucun souvenir de ce marchand. m'expliquer comment ces transactions frauduleuses sont détectées et ce que je dois faire pour les contester ?
+Speaker 1:Je comprends votre inquiétude. Alors, équipe de détection des fraudes surveille constamment les transactions pour repérer les activités suspectes, comme des achats en dehors de votre zone géographique ou des montants inhabituels. Pourc ontester cette nous allons ouvrir une enquête .Vous recevrez un formulaire de contestation que vous devrez remplir et retourner. L'enquête prend généralement entre 7 et 10 jours ouvrables.
+Speaker 2:D'accord, mets je suis préoccupé par la sécurité de mon compte. Comment puis-je évier que cela ne se reproduise Y des outils ou des alertes que je peux mettre en place pour surveiller les activités suspectes ?
+Speaker 1:Absolument, nous avons plusieurs options pour renforcer la sécurité de compte. Un instant... eh bien, vous pouvez configurer des alertes sur notre mobile ou site web pour vous informer en temps de toutes les transactions. Il est également conseillé de mettre à jour les mots de passe de votre compte et de votre carte en ligne. La m eilleure option serait de remplacer votre carte. Nous pouvons entamer cette immédiatement si vous le souhaitez.
+Speaker 2:Oui, je pense qu'il serait mieux de remplacer ma carte. Pouvez-vous me d ire comment procéder pour opetr une nouvelle carte ?
+Speaker 1:Très bien, nous allons procéder au remplacement d votre carte. Vous recevrez une nouvelle carte par courrier sous 3 à 5 jours ouvrables. En attendant, votre carte actuelle sera bloquée pour éviter toute utilisation frauduleuse supplémentaire.
+Speaker 2:Ça me Et pour les alertes, comment puis-je les configurer ?
+Speaker 1:Vous pouvez configurer les alertes via notre application mobile ou notre site web. Il suffit de vous connecter à compte, aller dans les paramètres de modifier et d'activer les alertes pour les transactions. Si vous avez besoin d'aide, je peux vous gider pas à pas.
+Speaker 2:Merci. Une autre préoccupation que j'ai est la surveillance future de mon compte. Est-ce qu'il y a des mesures supplémnetaires que je devrais prendre ?
+Speaker 1:Outre les alertes, il fortement recommandé de mettre en place l'authentification à deux facteurs. Cela ajoute une couche de sécurité supplémentaire chaque fois que vous accédez à votre Il est également prudent de vérifier régulièrement voter activité de compte et de signaler rapidement anomalie. Si vous remarquez une activité suspecte, contactez-nous immédiatement. Vous appeler notre ser vice client ou utiliser l'option de chat en ligne disponible dans notre application.
+Speaker 1:Je vais en place l'authentification à deux facteurs et configurer les alertes. Si une autre activité suspecte est détectée, que faire?
+Speaker 1:Si cela se produit, contactez-nous immédiatement pour que nous puissions bloquer vot re carte et commencer une nouvelle enquête. Nous disposons d'une équipe dédiée qui pourra prendre des mesures repeats pour sécuriser votre compte.
+Speaker 2:Merci pour votre aide détaillée. Pour les plans retrait de retraite, pouvez-vous me rappeler les détails du prochain rendez-vous?
+Speaker 1:Bien sûr. Nous avons prévu un appel vidéo le 18 septembre 2025 à 9h00, où nous examinerons préparation la retraite et proposerons des ajustements à votre portefeuille. Le rendez-vous durera environ 90 minutes.
+Speaker 2:Merci, je prendrai note de cela. Y -t-il documents ou des informations que je devrais préparer avant le rendez-vous?
+Speaker 1:Il utile de rassembler vos relevés actuels, toute information concernant vos ainsi qu e vos objectifs de retraite. Cela nous à fournir des conseils personnalisés et à planifier votre stratégie de retraite.
+Speaker 2:Je v ais m'assurer d'avoir tout ce dont nous a vons besoin. beaucoup pour aide précieuse aujourd'hui.
+Speaker 1:suis ravi de pouvoir vous assister, Monsieur NAME. Si vous avez d'autres questions ou préoccupations avant notre prochain rendez-vous, n'épisez pas à me contacter.
+Speaker 2:Merci beaucoup, je n'y manquerai pas. Bonne journée à vous.
+Speaker 1:Je vous souhaite une excellente journée également. À bientôt.

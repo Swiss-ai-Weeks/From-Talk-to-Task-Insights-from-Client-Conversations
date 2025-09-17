@@ -1,0 +1,19 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, hier ist NAME von UBS. Ich rufe wegen des Problems an, das Sie bei der Anmeldung zum digitaen Banking-Dienst haben. Wie geht's Ihnen heute? Um fortzufahren, könnte ich Ihr Geburtsdatum und Ihre Adresse zur Sicherheit nochmal bestätigen?
+
+Speaker 2:Ja klar, Geburtsdatum ist DATUM und meine Adresse ADRESSE. Also, wenn ich versuche, mich azumelden, kriege ich ständig Fehlermeldungen und komm nicht auf mein Konto. Das ist jetzt das dritte Mal, dass ich anurfe und langsam bin ich echt frustriert, ich dringend eine wichtige Überweisung machen muss. Was kann tun, um das Problem endlich zu lösen?
+
+Speaker 1:Oh, vielen Dank für die Infos. Ich kann verstehen, wie ärgerlich das sein muss, besonders wen n Sie dringend überweisen müssen. Könnten Sie mir sagen, welche Fehlermel dungen genau erscheinen? Haben die eine Nummer oder eine spezielle Nachtsicht?
+
+Speaker 1:also ich glaube, die Fehlermeldung lautet "Error 401" oder manchmal auch "Service unavailable". Das nervt echt, vor allem weil ich schon den Browser-Cache geleert hab und auch das Passwort geändert hab, aber nichts klappt. Was soll ich jetzt noch machen? Haben auch andere Kunden solche Probleme oder liegt’s nur
+
+Speaker 1:Danke für die Details zur Fehlermeldung. Ich entschuldige mich für die anhaltenden Schwierigkeiten. Wir haben bereits ein Ticket beim Techniken Support eröffnet un d unser Team arbeitet dar an. Ihre Kontosicherheit ist nicht Haben Sie mal versucht, den Browser oder das Gerät zu wechseln? Wenn das nicht hilft, können wir telefonisches Banking nutzen oder Sie besuchen eine unserer bis das Problem ist.
+
+Speaker 2:Ja, hab ich schon versucht, sowohl Browser als auch Gerät gewechselt, aber hat nichts gebracht. Ich brauche wirklich eine schnelle Lösung, weil die Überweisung heute no ch raus muss. Gibt eine Möglichkeit, auf mein Konto zuzugreifen? Und sind auch andere Kunden davon betroffen oder ist das nur mein Konto?
+
+Speaker 1:Verstehe, das ist wirklich frustrierend. Es gibt einig e Optionen, die wir ausprobieren können. Vielleicht können Sie Ihren Browser oder die App nochmal updaten. können wir d ie Überweisung jetzt über Telefon-Banking machen. Sie mir die Überweisungsdetails geben, ich das direkt für Sie einleiten. Und ich werde unser Team informieren, Valls auch andere Kunden betroffen sind. Möchten Sie die Überweisung jetzt üer Telefon-Banking machen?
+
+Speaker 2:Ja, bitte. Können Sie mir helfen, die Überweisung übers Telefon-Banking zu tätigen? Ich muss sicherstellen, dass das Geld heute noch ankommt. Und könnten Sie mir Updates per E-Mail oder SMS schicken, sobald das Problem gelöst Ich baruche wirklich schnell eine Lösung.
+
+Speaker 1:Natürlich, ich helfe Ihnen gerne dabei. Bitte geben Sie mir die notwendigen Details die Überweisung, also den Empfängername, die IBAN, den Betrag und eventuell Verwendungszweck, damit ich das sofort für Sie erledig en kann. Sobald das technische Problem behoben ist, werde ich Sie per E-Mail oder SMS informieren. Vielen Dank für Ehre Geduld und Ihr Verständnis.

@@ -1,0 +1,54 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Bonjour, je suis Monsieur NAME. J'ai reçu un appel de votre part - c'était, euh, concernant mon découvert et la mise à jour de mes informations de contact, bien ça?
+Speaker 2: Oui, Monsieur NAME . Je m'appelle NAME1 et je suis conseiller chez UBS. Je vous appelle effectivement pour discuter de votre situation de découvert ainsi que la mise à jour de vos informations de contact et processus KYC. Comment allez-vous aujourd'hui?
+Speaker 1:Eh bien, ça va, merci. Et vous?
+Speaker 2:Très bien, je vous remercie. Avant de commencer, pourirez-vous votre date de naissance et vtre pour des raisons de sécurité?
+Speaker 1:Oui, bien ma date de naissance est le [DATE] et mon adresse est le [DDRESS].
+Speaker 2:Merci pour la confirmation. Nous allons comencer la mise à jour vos inofrmations de contact. Votre nouvelle adresse postale à Genève, CH, 1200 est-elle correcte?
+Speaker 1:c'est exact.
+Speaker 2:Très bien, je vais mettre cela à jour dans notre système. Esnuite, concernant vos informations KYC, pourriez-vous me confirmer les montants totaux de vos actifs? Vous avez des actifs de 625319 CUR2, des actifs immobiliers de 4663578, des actifs liquides de 1943354 et autres actifs de 152934. Est-ce exact?
+Speaker 1:Oui, c'est bien ça.
+Speaker 2:Parfait, vos informations sont maintenant mises à Passons votre découvert. Pourriez-vous préiser le montant exact de votre découvert actuel et depuis combien de temps cela dure?
+Speaker 1:Le découvert actuel s'élève à [AMOUNT] et cela dure [DURATION]. J'aimerais comprendre comment ce montant a été calculé. plus, pourriez-vous m'expliquer les termes et conditions qui entourent ce découvert?
+Speaker 2:Compris. Le montant de votre découvert actuel est basé sur les déepnses et les retraits effectués sur votre compte par rapport aux fonds disponibles. Chque transaction au-delà de votre solde disponible contribue à l'accumulations du découvert. La durée dépend des dates et des montants des transactions qui ont causé le dépassement. Les termes conditions incluent des frais de découvert et des intérêts sur le montant découvert.
+
+Quant aux associés, voici les détails:
+- Frais de découvert: [AMOUNT] par jour.
+- Intérêts sur le montant du découvert: [PERCENTAGE] par mois.
+
+Pour les programmes de remise ou de réduction des frais, il est possible dema nder un exam en pour obtenir une remise partielle ou totale. Vous devrez remplir une demande via notre plateforme en ligne ou en discuter avec un conseiller en agence.
+
+Pour éviter des découverts futurs, nous proposons des services de protection de découvert incluant des alertes de solde bas et la possibilité de lier votre compte avec une carte de crédit ou ligne de crédit supplémentaire. Cela permet de couvrir les montant insuffisants instantanément.
+
+Concernant votre cote de crédit, le découvert peut avoir un impact négatif dépendant de sa durée et de sa fréquence. le découvert est réglé rapidement, l'impact est généralement limité. Cependant, des réguliers puevel affecter score.
+
+Pour des remboursements il est conseillé de prioriser le découvert éviter les frais supplémentaires et l'accumulation des intérêts. Un de vos comptes peut également être utile.
+
+Je comprends votre situation de chômage. UBS propose des conseils et un soutien financier pour les clients en p ériode transition professionnel. Nous organiser une consultation avec un conseiller financier Cour mieux gérer vos finances.
+
+En ce qui concerne vos informations imses à jour :
+- Adresse postale: Genève, CH, 1200.
+- Total des actifs: 623519 CUR2.
+Actifs immobiliers: 4663578.
+- Actifs liquides: 1943354.
+- Autres actifs: 152934.
+
+Nous avons mis à jour vos informations sur votre statut de chômage enregistré l'origine des actifs comme de vos investissements et héritages.
+
+Pour votre rendez-vous, nous avons prévu une réunion de minutes dans vos pour 9 septembre 2025, portant sur la philanthropie et les dons charitables via la UBS Optimus.
+
+Est-ce que tout cela semble correct? autre chose que vous aimeriez discuter ou clarifier?
+Speaker 1:Oui, ça me correct. Je voudrais bien organiser une consultation financière dès que possible. Pouvez-vous m'assister dans la planification de ce rendez-vous?
+Speaker 2:Abolument, nous pouvons organiser cela. Préférez-vous une en ligne ou en face à face dans notre agence?
+Speaker 1:Euh, une consul en ligne, ce square mieux pour moi. Pouvez-vous vérifier les disponibilités pour cette semaine?
+Speaker 2:Bien sûr, je vais vérifier les Pouvez-vous me préciser vos jours et heures de préférence?
+Speaker 1:Les après-midis entr e 14h et 16h seraient
+Speaker 2:D'accord, je vais organiser une consultation cette plage horaire. Vous recevrez une confirmation par email avec détails.
+
+Merci de m'avoir informé de vos préférences, Monsieur NAME. Si vous avez d'autres questions ou des besoins spécifiques entre-temps, n'hésitez pas à nous contacter.
+
+Est-ce que t out vous semble correct? Vous avez des précisions ou des questions supplémentaires?Speaker 1: Non, tout semble bine clair .Merci beaucoup pour votre aide et votre patience. Bonne journée!
+Speaker 2:Excellente à vous, Monsieur NAME, et n'hésitez pas à nous recontacter si avez besoin de quoi que ce soit. Au revoir!
+
+Fin de l'appel

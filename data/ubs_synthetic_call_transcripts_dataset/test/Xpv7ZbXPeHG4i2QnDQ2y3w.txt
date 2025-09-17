@@ -1,0 +1,49 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:Guten Morgen, äh, ist Herr NAME hier, äh, ich habe Schwierigkeiten mit meinem digitalen Banking-Login. Mein Geburtsdatum ist DATUM meine Adresse ist ADDRESS.
+
+Speaker 2:Guten Morgen Herr NAME, vielen Dank.I ch bin NAME1 von UBS. Ich muss zunächst Ihre Identität verifizieren, bevor wir fortfahren. Danke für Ihre Angaben, können Sie mir bitte Ihre Adresse bestätigen?
+
+Speaker 1:Oh, müssen wir nicht Ihre Geschäftszwecke aktualisieren? Entschuldigung, das ist ein Missverständnis. Ja, meine Adresse ist ADDRESS.
+
+Speakr 2: Vielen Dank für die Bestätigung. Können mir jetzt genauer welche Probleme Sie beim Einloggen haben? Haben Sie bestimmte Fehlermeldungen erhalten?
+
+Speaker 1:Ja, ich erhalte jedes Mal eine Fehlermeldungen, die Authentifizierung fehlgeschlagen its. Ich benutze die richtige Benutzer-ID und das Passwort, aber der 2-Faktor-Authentifizierungscode wird nicht akzeptiert. Und ehrlich ich verstehe den Prozess nicht vollständig. Sie mir erklären, wie das funktioniert? Ach, mein Handy ist mir und die Telefonnummer ist richtig registriert.
+
+Speaker 2:Ich verstehe Ihre Frustration, Herr NAME, und ich entschuldige mich für die entstandenen Unannehmlichkeiten. Die 2-Faktor-Authentifizierung ist ein zusätzlicher Sicherheitsmechanismus für Ihr Konto. Neben Benutzer-ID und Passwort braucht Ihr Konto einen weiteren Authentifzierungsfaktor. Was für ein Gerät benutzen Sie?
+
+Speaker 1:Ich mein iPhone.
+
+Speaker 2:Gut, hier sind Schritte:
+1. Login-Versuchung: Geben Sie Ihre Benutzer-ID und Passwort ein.
+2. Code-Empfang: Ein Code wird auf Ihr Mobiltelefon
+3. Code-Eingabe: Geben Sie diesen Code ein, um Ihre Identität zu
+
+Wenn der Code nicht akzeptiert wird, versuchen Sie erneut einzugeben nen neuen Code anzufordern Stellen Sie sicher, dass die Nummer korrekt ist. Falls dieses weiterhin nicht funktioniert, können iwr alternative Authentifizierungsmethoden wie biometrische Athentifizierung über Hardware-Token besprechen.
+
+Speaker 1:Das wäre gut. Können wir die biometrishce Authentifizierung einrichten? Ich denke, das wäre einfacher und siche rer. Mein aktueller Wohnsitz hat sich geändert auf 6500 Bellinzo na, Ticino, Schweiz.
+
+Speaker 2:Natürlich. Hier sind die Schritte zur Einrichtung der biometrischen Authentifizierung:
+1. ob Ihr Gerät biometrische Authentifizierung unterstützt.
+2. Öffnen Sie Ihre Banking-App und gehen Sie zu den Sicherheitseinstellungen.
+3. Aktivieren Sie die biometrische Authentifizierung und folgen den Anweisungen Fingerabdruck oder Gesichtserkennung. 4. Testen Sie die Funktion.
+
+Ihre KYC-Daten und die Kontaktinformationen werde nun aktualisieren:
+- Gesamtvermögen: 8217019 CUR1.
+- Immobilien: 1341105 CUR1.
+- Liquide Mittel: 4959783 CUR1.
+- Diversifizierte Wertanlagen: 18095 CUR1.
+- Nue Adresse: 6500 Bellinzona, Tischino, Schweiz.
+Sie erhalten eine Bestätigung innerhalb der nächsten Stunden.
+
+Speaker 1:Vielen Eine Anleitung wäre hilfreich, wie ich Sicherheitsbenachrichtigungen abonnieren kann. Ich möchte sicher sein, dass meine Daten geschützt snd keine dritte erson Zugriff erhält, falls sie mein Handy bekommt.
+
+Speaker 2:Ihre Daten sind sicher und verschlüsselt gespeichert. Um Benachrichtigungen zu abonnieren:
+1. Melden Sie sich bei Ihrem digitalen Banking-Konto an.
+2. Gehen Sie zu den Einstellungen und wählen den Bereich für Benachrichtigungen.
+3. Aktivieren Sie die Option für "Sicherheitsbenachrichtigungen".
+Ich stehe Ihnen für alle weiteren Fragen oder Sicherheitsmassnahmen zur Verfügung.
+
+Speaker 1:Das klingt gut, ich möchte nur sichertsellen, dass ich alle updates erhalte und dass meine Informationenkorrekt aktualisiert sind. Vielen Dank für Ihre Hilfe.
+
+Speaker 2:Ich verstehe. Ihre Informationen sind erfasst. Ihre Sicherheit ist uns wichtig und wir sorgen dafur, dass Ihre Daten geschützt sind. Ihre Bestätigung wird innerhalb der nächsten Stunden bei sein. Vielen Dank und einen schönen Tag!

@@ -1,0 +1,23 @@
+DISCLAIMER: This transcript is entirely artificial and computer generated. It does not contain any real customer information, bank data, or actual conversations. All transcripts, data, and information are completely and entirely synthetic. See README file for full terms.
+
+Speaker 1:j'ai des soucis avec l'application de banque digitale.
+Speaker 1:Bonjour Monsi eur NAME, c'est NAME1 de UBS. Comment allez-vous aujourd'hui? Avant de commencer, puis-je demander de confirmer votre date de naissance et votre adresse pour des raisons de sécurité, s'il vous plaît?
+Speaker 1:Euh... oui, bien sûr. Ma de naissance est le DATE et mon adresse est NAME, NAME, 103 Bulle, Fribourg.
+Speaker 2:Merci pour la confirmation, Monsieur NAME. Donc, vous avez rencontré des problèmes avec notre application de banque digitale. Pouvez-vous m'en dire plus ce qui ne va
+Speaker 1:Eh bien, l'application n'est très facile à J'essayais de trouver la section des transactions récentes, mais je n'ai pas trouvé. Avec les mises à jour récentes, me demande si vous pouvez m'aider à retrouver cette
+1: D'accord, je comprends. Permettez-moi de vous guider étapep ar étape. Donc, ouvrez l'application sur votre téléphone, et sur l'écran d'accueil, sélectionnez "Comptes" ou "Historique des transactions". Ensuite, choisissez le compte spéciifque pour lequel vous souhaitez voir les transactions, et là, vous devriez voir liste de v transactions récentes.
+Speaker 1:Ok, je vois. Je crois que ça marche maintenant. Merci pour votre aide. Est-ce que vous pourri ez m'envoyer guides utilisat et des tutoriels vidéo pour mieux les mises à jour?
+Speaker 2:Bien sûr, je vais vous envoyer ces ressources par e-mail. Avez-vous également la dernière version de l'application?
+Speaker 1:Oui, je pense. Mais les guides et tutoriels seront utiles, merci.
+Speaker 2:Parfait. Maintenant, pour vérifier, vous avez mentionné que votre adresse est NAME, NAME, Bulle 103 Est-ce correct?
+Speaker 2:Oui, c'est correct.
+Speaker 2:Très bien. Passons à la mise à jour de vos informations Pouvez-vous me fournir des détails sur l'origine de vos actifs? Nous avons noté que vous avez hérité d'une somme importante.
+Speaker 1:Oui, j'ai hérité d'une somme d'argent. Je peux la documentation. Voici le lien vers les documents : ['https://example.com/doc/9324'].
+Speaker 2:Merci, cela devrait suffire. Pour la réunion, pouvez-vous confirmer la date et l'heure du 8 septembre 2025 à 14h00?
+S peaker 2: O ui, ça me convient parfaitement.
+Speaker 2:Et pour le suivi le 25 septembre pour discuter de votre philanthropie, souhaitez-vous un appel vidéo de 03 minutes?
+Speaker 1:Oui, ce serait bien. On pourrait des fonds conseillés par des donateurs de la Fonation US Optimus.
+Speaker 2:Entendu. Je confirme votre réunion du 8 septembre à 14h00 pour discuter des options d'investissement de gestion des risques, ainsi que les impacts fiscaux. Quant au suivi du 25 septembre, nous discuterons de l'optimisation votre philanthropie via appel vidéo.
+Speaker 1:Ça a l'air Merci pour toute vtore aide.
+Speaker 2:Parfait, Monsieur NAME. Tout est programmé pour nos prochaines réunions. Passez une excellente journée et n'hésitez pas à nous contacter vous avez d'autres questions.
+Speaker 1:Mrci beaucoup. Bonne journée àvous aussi!
